@@ -11,14 +11,15 @@ Data Information
 
 Sources 
 - Pollution Sources
--- Factories (also get Mexican factory locations)
--- Fires (temporal)
--- Traffic (temporal, e.g. Waze API)
--- Airports
+  - Factories (also get Mexican factory locations)
+  - Fires (temporal)
+  - Traffic (temporal, e.g. Waze API)
+  - Airports
 
 Future Ideas:
--- Pollen emitters
--- Fortune Cookie Smells
+- Pollen emitters
+- Fortune Cookie Smells
+- Mexican factory locations
 
 Transforms:
 - Pollution Propagation
