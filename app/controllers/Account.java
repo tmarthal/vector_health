@@ -1,6 +1,6 @@
 package controllers;
 
-import models.User;
+import models.auth.User;
 import be.objectify.deadbolt.java.actions.Restrict;
 import be.objectify.deadbolt.java.actions.Group;
 import be.objectify.deadbolt.java.actions.SubjectPresent;

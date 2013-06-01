@@ -4,17 +4,14 @@ import play.Project._
 
 object ApplicationBuild extends Build {
 
-    val appName         = "mhout-examples"
+    val appName         = "vector-health"
     val appVersion      = "1.0-SNAPSHOT"
 
     val appDependencies = Seq(
-      "be.objectify"  %%  "deadbolt-java"     % "2.1-SNAPSHOT",
+      "be.objectify" %% "deadbolt-java" % "2.1-SNAPSHOT",
       // Comment this for local development of the Play Authentication core
-      "com.feth"      %%  "play-authenticate" % "0.2.5-SNAPSHOT",
-      "postgresql"    %   "postgresql"        % "9.1-901-1.jdbc4",
-      "org.apache.mahout" % "mahout-core" % "0.7",
-      "org.apache.mahout" % "mahout-math" % "0.7",
-      "org.apache.hadoop" % "hadoop-core" % "1.1.2",
+      "com.feth" %% "play-authenticate" % "0.2.5-SNAPSHOT",
+      "mysql" % "mysql-connector-java" % "5.1.25",
       javaCore,
       javaJdbc,
       javaEbean
