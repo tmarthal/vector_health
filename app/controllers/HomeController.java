@@ -5,6 +5,9 @@ import play.mvc.Result;
 
 import views.html.map;
 
+/**
+ * This should contain all of actions for the mapping
+ */
 public class HomeController extends Controller {
 	
 	/**

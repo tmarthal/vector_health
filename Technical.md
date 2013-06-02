@@ -8,8 +8,6 @@ Created SOAP CLient, based on the http://graphical.weather.gov/xml/
 http://ndfd.weather.gov/technical.htm
 
 
-
-Using D3,  Mike Bostock's 
-
-based on 'punkish' viz : http://bl.ocks.org/punkish/1637820
-
+Base Visualization
+Using OpenLayers to Load GeoJSON
+- http://openlayers.org/dev/examples/geojson.html 

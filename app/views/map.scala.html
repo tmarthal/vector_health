@@ -1,75 +1,55 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3.5&amp;sensor=false"></script>
-	<script src="@routes.Assets.at("js/OpenLayers-2.11/OpenLayers.js")"></script>    
-	<script src="@routes.Assets.at("js/d3/d3.v3.js")"></script>
- 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
- <style type="text/css">
-#map, #viz {
-position: absolute;
-top: 0;
-left: 0;
-width: 800px;
-height: 400px;
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script>
+var map;
+function initialize() {
+
+	//Boyle Heights, Coordinates 
+	//34.0339° N, 118.2044° W
+
+  var mapOptions = {
+    zoom: 10	,
+    center: new google.maps.LatLng(34.0339, -118.2044),
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+
+  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+
+// from the noun-project
+var fireIcon = {
+  path: 'M27.984,42.838C45.23,25.729,47.746,11.361,41.939,4.395c0,0,43.898,18.04,18.077,59.882   c-4.42,7.105-15.459,15.498-9.688,32.793C50.327,97.07-4.908,81.605,27.984,42.838z M54.645,96.217c-0.944-3.51-5.154-11.154,7.686-26.359c6.861-8.104,11.557-25.906,9.27-30.157   c0,0,21.914,28.944-3.447,46.278C53.117,96.283,54.645,96.217,54.645,96.217z',
+  fillColor: "black",
+  fillOpacity: 0.8,
+  scale: 0.2,
+};
+
+
+marker = new google.maps.Marker({
+  position: new google.maps.LatLng(34.0339, -118.2044),
+  icon: fireIcon,
+  map: map
+});  
+      
 }
-#map {
-z-index: -1;
-}
-#viz {
-z-index: 1;
-}
-</style>
-</head>
-<body>
-<div id="main">
-    <div id="map" style="border: 1px solid black;"></div>
-    <div id="viz" style="border: 1px solid black;"></div>
-    <div id="coords"></div>
-</div>
 
-    <script type="text/javascript">
-    var m = {width: 800, height: 400}, grid = {width: 40, height: 40};
-	grid.cols = m.width / grid.width, grid.rows = m.height / grid.height;
-    
-    var map = new OpenLayers.Map("map");
+google.maps.event.addDomListener(window, 'load', initialize);
 
-    map.addLayer(new OpenLayers.Layer.Google(
-        "Google Physical",
-        {type: google.maps.MapTypeId.TERRAIN}
-    ));
-
-    map.setCenter(new OpenLayers.LonLat(0, 0).transform(
-        new OpenLayers.Projection("EPSG:4326"),
-        new OpenLayers.Projection("EPSG:900913")
-    ), 5);
-    
-    var data = [];
-    for (var r = 0; r < grid.rows; r++) {
-        for (var c = 0; c < grid.cols; c++) {
-            data.push([c, r]);
-        }
-    }
-    
-    var sampleSVG = d3.select("#viz")
-        .append("svg:svg")
-        .attr("width", m.width)
-        .attr("height", m.height);    
-
-    sampleSVG.selectAll("rect")
-        .data(data)
-        .enter()
-        .append("svg:rect")
-        .style("stroke", "gray")
-        .style("fill", "none")
-        .attr("x", function(i) { return i[0] * grid.width; })
-        .attr("y", function(i) { return i[1] * grid.height; })
-        .attr("height", grid.height)
-        .attr("width", grid.width)
-        .attr("pointer-events", "all")
-        .on("mouseover", function() {d3.select(this).style("fill", "yellow");})
-        .on("mouseout", function() {d3.select(this).style("fill", "none");})
-        .on("click", function(i) { $("#coords").empty().html( i[1] + " row x " + i[0] + " col")}); 
     </script>
-</body>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
 </html>
