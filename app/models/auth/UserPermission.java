@@ -1,4 +1,4 @@
-package models;
+package models.auth;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

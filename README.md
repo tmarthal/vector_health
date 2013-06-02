@@ -7,6 +7,15 @@ An analysis application to apply simple vector field propagation to point pollut
 near-real time accessible health information.
 
 
+The NOAA Weather shows Ozone information to represent Air Quality.
+
+From http://www.nws.noaa.gov/ost/air_quality/FAQs.htm
+
+	"The ozone maps available as air quality forecasting guidance products represent concentrations of forecasted ground-level ozone. The guidance is used by state and local air quality forecasters to assist them in issuing Air Quality Index (AQI) forecasts." 
+
+
+
+
 Data Information
 
 Sources 
