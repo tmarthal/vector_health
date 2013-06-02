@@ -2,6 +2,11 @@
 
 Lessons Learned
 
+>> This is a hard problem because the data is messed up.
+
+Better front end than a perfect back-end. 
+Hardcode some data based on pattern recognition
+No time for the analytics and math, if it doesn't look good. 
 
 Regroup:
 
@@ -26,7 +31,6 @@ Pollution Sources
 Community Targets 
 -- 
 
-Can we
 
 
 Underestimated the amount of work, Team Size was too Small

@@ -70,7 +70,7 @@ public class NDFDScraper {
 					
 					
 					
-					String result = null; //ndfdXMLPortType.gmlTimeSeries(listLatLon, startTime, endTime, compType, featureType, unit, propertyName);
+					String result = null; //	ndfdXMLPortType.gmlTimeSeries(listLatLon, startTime, endTime, compType, featureType, unit, propertyName);
 					System.out.println(result);
 					
 				} catch (Exception ex) {
