@@ -152,6 +152,18 @@ $(function() {
      		schoolMarkers[i].setVisible(show);
      	}
    	});
+    $("#hospitalcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<hospitalMarkers.length;i++) {
+     		hospitalMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#parkcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<parkMarkers.length;i++) {
+     		parkMarkers[i].setVisible(show);
+     	}
+   	});
    	
 });
 
@@ -469,7 +481,7 @@ function loadSourceJSON() {
     console.log("done drycleaner data");
    });
 
-});
+}
 
 // The source information
 // Note: the d3.json calls should be ajax requests :(
