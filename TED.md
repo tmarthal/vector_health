@@ -31,15 +31,11 @@ demo/presentation basics
 * wrapup
   * code used
   * [https://pinboard.in/u:tedder42/t:vector-health/](data sources)
-  * TOM: add your data sources
 
 
 Pollution
 ---------
 In this proof of concept, rather than be finegrained about /type/ of pollution, we are using a simple model that sums any given type into "tons of pollution per year".
-
-* ICONS FOR TOM: http://thenounproject.com/tag/pollution/
-
 
 * Sources with pollutants, [all from EPA](http://www.epa.gov/air/emissions/where.htm), CSV, filtered out minor sources and transformed to a simple JSON format.
   * Airports
