@@ -1,0 +1,16 @@
+{
+  "MISSION LINEN SERVICE": {
+    "coord": [
+      34.431, 
+      -119.678
+    ], 
+    "pollution": 2
+  }, 
+  "CAMARILLO CLEANERS": {
+    "coord": [
+      34.2143, 
+      -119.04
+    ], 
+    "pollution": 1
+  }
+}

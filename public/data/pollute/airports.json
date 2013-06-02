@@ -1,0 +1,170 @@
+{
+  "El Monte": {
+    "coord": [
+      34.0861, 
+      -118.035
+    ], 
+    "pollution": 253
+  }, 
+  "Hawthorne / Jack Northrop Field": {
+    "coord": [
+      33.9228, 
+      -118.335
+    ], 
+    "pollution": 172
+  }, 
+  "Los Angeles International": {
+    "coord": [
+      33.9425, 
+      -118.408
+    ], 
+    "pollution": 13079
+  }, 
+  "Point Mugu Nas (Naval B": {
+    "coord": [
+      34.1203, 
+      -119.121
+    ], 
+    "pollution": 914
+  }, 
+  "Santa Barbara Muni": {
+    "coord": [
+      34.4277, 
+      -119.852
+    ], 
+    "pollution": 487
+  }, 
+  "Burbank-Glendale-Pasadena Airport": {
+    "coord": [
+      34.2006, 
+      -118.358
+    ], 
+    "pollution": 1407
+  }, 
+  "Fullerton Muni": {
+    "coord": [
+      33.8719, 
+      -117.98
+    ], 
+    "pollution": 207
+  }, 
+  "Whiteman": {
+    "coord": [
+      34.2592, 
+      -118.413
+    ], 
+    "pollution": 215
+  }, 
+  "Van Nuys": {
+    "coord": [
+      34.2097, 
+      -118.49
+    ], 
+    "pollution": 1139
+  }, 
+  "Torrance / Zamperini Field": {
+    "coord": [
+      33.8033, 
+      -118.34
+    ], 
+    "pollution": 484
+  }, 
+  "Camarillo": {
+    "coord": [
+      34.2138, 
+      -119.094
+    ], 
+    "pollution": 569
+  }, 
+  "Corona Muni": {
+    "coord": [
+      33.8978, 
+      -117.603
+    ], 
+    "pollution": 187
+  }, 
+  "Santa Paula": {
+    "coord": [
+      34.3472, 
+      -119.061
+    ], 
+    "pollution": 119
+  }, 
+  "Cable": {
+    "coord": [
+      34.1117, 
+      -117.687
+    ], 
+    "pollution": 253
+  }, 
+  "Compton / Woodley": {
+    "coord": [
+      33.89, 
+      -118.244
+    ], 
+    "pollution": 181
+  }, 
+  "GOODYEAR BLIMP BASE": {
+    "coord": [
+      33.8564, 
+      -118.277
+    ], 
+    "pollution": 4
+  }, 
+  "CRYSTAL": {
+    "coord": [
+      34.4847, 
+      -117.827
+    ], 
+    "pollution": 2
+  }, 
+  "Ontario Airport": {
+    "coord": [
+      34.0561, 
+      -117.601
+    ], 
+    "pollution": 2096
+  }, 
+  "Chino": {
+    "coord": [
+      33.9744, 
+      -117.636
+    ], 
+    "pollution": 414
+  }, 
+  "Santa Monica Muni": {
+    "coord": [
+      34.0158, 
+      -118.451
+    ], 
+    "pollution": 372
+  }, 
+  "Oxnard": {
+    "coord": [
+      34.2008, 
+      -119.207
+    ], 
+    "pollution": 335
+  }, 
+  "Brackett Field": {
+    "coord": [
+      34.0917, 
+      -117.782
+    ], 
+    "pollution": 364
+  }, 
+  "Long Beach / Daugherty Field": {
+    "coord": [
+      33.8178, 
+      -118.152
+    ], 
+    "pollution": 1581
+  }, 
+  "John Wayne-Orange County Airport": {
+    "coord": [
+      33.6756, 
+      -117.868
+    ], 
+    "pollution": 2502
+  }
+}

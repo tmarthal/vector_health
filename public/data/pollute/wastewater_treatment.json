@@ -1,0 +1,114 @@
+{
+  "LA CO., SANITATION DIST NO. 2": {
+    "coord": [
+      33.8042, 
+      -118.091
+    ], 
+    "pollution": 1
+  }, 
+  "CITY OF LA/BOS,WASTEWATER COLL SYS DIV": {
+    "coord": [
+      34.0261, 
+      -118.373
+    ], 
+    "pollution": 1
+  }, 
+  "L.A. COUNTY SANITATION DIST VALENCIA PLT": {
+    "coord": [
+      34.4332, 
+      -118.594
+    ], 
+    "pollution": 10
+  }, 
+  "OXNARD WASTEWATER TRTMNT PLANT": {
+    "coord": [
+      34.1432, 
+      -119.192
+    ], 
+    "pollution": 45
+  }, 
+  "INLAND EMPIRE UTL  AGEN, A MUN WATER DIS": {
+    "coord": [
+      34.0299, 
+      -117.581
+    ], 
+    "pollution": 95
+  }, 
+  "CITY OF LA, BOS,WASTEWATER COLL SYS DIV": {
+    "coord": [
+      33.987, 
+      -117.815
+    ], 
+    "pollution": 4
+  }, 
+  "LA CO., SANITATION DISTRICT": {
+    "coord": [
+      34.0322, 
+      -118.023
+    ], 
+    "pollution": 12
+  }, 
+  "ORANGE COUNTY SANITATION DISTRICT": {
+    "coord": [
+      33.6946, 
+      -117.937
+    ], 
+    "pollution": 805
+  }, 
+  "CITY OF LA, BOS, WASTEWATER COLL SYS DIV": {
+    "coord": [
+      34.038, 
+      -118.226
+    ], 
+    "pollution": 2
+  }, 
+  "HILL CYN WASTEWATER TREATMENT": {
+    "coord": [
+      34.2305, 
+      -118.929
+    ], 
+    "pollution": 11
+  }, 
+  "CITY OF SANTA BARBARA - EL ESTERO WWTP": {
+    "coord": [
+      34.421, 
+      -119.684
+    ], 
+    "pollution": 4
+  }, 
+  "CORONA CITY, DEPT OF WATER & POWER": {
+    "coord": [
+      33.889, 
+      -117.61
+    ], 
+    "pollution": 6
+  }, 
+  "SANTA PAULA WASTEWATER TREATMT": {
+    "coord": [
+      34.338, 
+      -119.085
+    ], 
+    "pollution": 2
+  }, 
+  "VENTURA WASTEWATER PLANT": {
+    "coord": [
+      34.2411, 
+      -119.259
+    ], 
+    "pollution": 37
+  }, 
+  "SO ORANGE CO WASTEWATER AUTHORITY-RTP": {
+    "coord": [
+      33.5366, 
+      -117.7
+    ], 
+    "pollution": 28
+  }, 
+  "SIMI VLY CNTY SANITATION": {
+    "coord": [
+      34.2828, 
+      -118.812
+    ], 
+    "pollution": 15
+  }
+}

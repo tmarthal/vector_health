@@ -1,25 +1,4 @@
 {
-  "Loma Linda Family Medicine Center": {
-    "coord": [
-      34.047408, 
-      -117.249517
-    ], 
-    "desc": ""
-  }, 
-  "Sun City Convalescent Center": {
-    "coord": [
-      33.7214416, 
-      -117.1883385
-    ], 
-    "desc": ""
-  }, 
-  "Knollwood Hospital": {
-    "coord": [
-      33.9622374, 
-      -117.3950454
-    ], 
-    "desc": ""
-  }, 
   "Lincoln Convalescent Hospital": {
     "coord": [
       34.068622, 
@@ -34,45 +13,10 @@
     ], 
     "desc": ""
   }, 
-  "Grossmont Hospital Annex": {
-    "coord": [
-      32.7825507, 
-      -117.0055834
-    ], 
-    "desc": ""
-  }, 
-  "Veterans Affairs San Diego Healthcare System": {
-    "coord": [
-      32.8755, 
-      -117.232
-    ], 
-    "desc": ""
-  }, 
-  "La Jolla Sanitarium": {
-    "coord": [
-      32.8308809, 
-      -117.2758708
-    ], 
-    "desc": ""
-  }, 
   "Bickerstaff Family Center": {
     "coord": [
       33.8063889, 
       -118.1869444
-    ], 
-    "desc": ""
-  }, 
-  "Hemet Valley Medical Center": {
-    "coord": [
-      33.7497424, 
-      -116.960857
-    ], 
-    "desc": ""
-  }, 
-  "Coronado Hospital": {
-    "coord": [
-      32.6944963, 
-      -117.1714222
     ], 
     "desc": ""
   }, 
@@ -139,24 +83,10 @@
     ], 
     "desc": ""
   }, 
-  "Vista Hill Hospital": {
-    "coord": [
-      32.6167219, 
-      -117.0250261
-    ], 
-    "desc": ""
-  }, 
   "City View Hospital": {
     "coord": [
       34.0719552, 
       -118.2011836
-    ], 
-    "desc": ""
-  }, 
-  "Kaiser Medical Center": {
-    "coord": [
-      33.9058488, 
-      -117.4706026
     ], 
     "desc": ""
   }, 
@@ -188,13 +118,6 @@
     ], 
     "desc": ""
   }, 
-  "Golden State Manor Convalescent Hospital": {
-    "coord": [
-      34.1841667, 
-      -118.3147222
-    ], 
-    "desc": ""
-  }, 
   "Santa Monica - UCLA Medical Center": {
     "coord": [
       34.0269542, 
@@ -213,13 +136,6 @@
     "coord": [
       34.1425068, 
       -117.9786763
-    ], 
-    "desc": ""
-  }, 
-  "Bayview Hospital and Mental Health System": {
-    "coord": [
-      32.6169503, 
-      -117.0717984
     ], 
     "desc": ""
   }, 
@@ -244,10 +160,17 @@
     ], 
     "desc": ""
   }, 
-  "The Guardian Inglewood Convalescent Hospital": {
+  "Monterey Sanitarium": {
     "coord": [
-      33.9602916, 
-      -118.3314639
+      34.0430667, 
+      -118.0884019
+    ], 
+    "desc": ""
+  }, 
+  "Bellflower Doctors Hospital": {
+    "coord": [
+      33.8744598, 
+      -118.1303453
     ], 
     "desc": ""
   }, 
@@ -255,20 +178,6 @@
     "coord": [
       34.1677778, 
       -118.2844444
-    ], 
-    "desc": ""
-  }, 
-  "Green Hospital of Scripps Clinic": {
-    "coord": [
-      32.896713, 
-      -117.2428141
-    ], 
-    "desc": ""
-  }, 
-  "Loma Linda University Behavioral Medicine Center": {
-    "coord": [
-      34.049421, 
-      -117.214063
     ], 
     "desc": ""
   }, 
@@ -307,45 +216,10 @@
     ], 
     "desc": ""
   }, 
-  "El Centro Regional Medical Center": {
-    "coord": [
-      32.7808895, 
-      -115.5683297
-    ], 
-    "desc": ""
-  }, 
   "Bell Medical Center": {
     "coord": [
       33.9691809, 
       -118.1756262
-    ], 
-    "desc": ""
-  }, 
-  "Arrowhead Regional Medical Center": {
-    "coord": [
-      34.0738889, 
-      -117.3511111
-    ], 
-    "desc": ""
-  }, 
-  "Palo Verde Hospital": {
-    "coord": [
-      33.6136355, 
-      -114.5946789
-    ], 
-    "desc": ""
-  }, 
-  "Village Medical Center": {
-    "coord": [
-      33.3797528, 
-      -117.2444797
-    ], 
-    "desc": ""
-  }, 
-  "Inland Counties Regional Burn Center": {
-    "coord": [
-      34.0744444, 
-      -117.35
     ], 
     "desc": ""
   }, 
@@ -363,45 +237,17 @@
     ], 
     "desc": ""
   }, 
-  "East Los Angeles Convalescent Hospital": {
+  "Cal Haven Convalescent Hospital": {
     "coord": [
-      34.0425121, 
-      -118.2075725
+      34.1472222, 
+      -118.2636111
     ], 
     "desc": ""
   }, 
-  "Redlands Family Clinic": {
+  "San Gabriel Valley Medical Center": {
     "coord": [
-      34.063477, 
-      -117.1916325
-    ], 
-    "desc": ""
-  }, 
-  "San Bernardino Community Hospital": {
-    "coord": [
-      34.1313995, 
-      -117.3197664
-    ], 
-    "desc": ""
-  }, 
-  "Chandler Convalescent Hospital": {
-    "coord": [
-      34.1388889, 
-      -118.2583333
-    ], 
-    "desc": ""
-  }, 
-  "Shea Health Center": {
-    "coord": [
-      34.1242853, 
-      -117.2785724
-    ], 
-    "desc": ""
-  }, 
-  "Angel View Childrens Hospital": {
-    "coord": [
-      33.958624, 
-      -116.484456
+      34.1005645, 
+      -118.1059028
     ], 
     "desc": ""
   }, 
@@ -430,13 +276,6 @@
     "coord": [
       33.651687, 
       -117.912002
-    ], 
-    "desc": ""
-  }, 
-  "Mesa Vista Hospital": {
-    "coord": [
-      32.7972715, 
-      -117.1530889
     ], 
     "desc": ""
   }, 
@@ -482,10 +321,10 @@
     ], 
     "desc": ""
   }, 
-  "Belmar Convalescent Hospital": {
+  "Grinnell Convalescent Hospital": {
     "coord": [
-      33.9664034, 
-      -118.2831294
+      34.1863889, 
+      -118.3147222
     ], 
     "desc": ""
   }, 
@@ -524,24 +363,10 @@
     ], 
     "desc": ""
   }, 
-  "Saint Bernardine Hospital": {
-    "coord": [
-      34.134455, 
-      -117.2775428
-    ], 
-    "desc": ""
-  }, 
   "Glendale Adventist Medical Center": {
     "coord": [
       34.1511185, 
       -118.2295185
-    ], 
-    "desc": ""
-  }, 
-  "Sharp Memorial Hospital": {
-    "coord": [
-      32.799249, 
-      -117.152227
     ], 
     "desc": ""
   }, 
@@ -552,10 +377,10 @@
     ], 
     "desc": ""
   }, 
-  "Kaiser Permanente Medical Riverside Medical Center": {
+  "Orange County Community Hospital (historical)": {
     "coord": [
-      33.905028, 
-      -117.469436
+      33.8311262, 
+      -118.0139513
     ], 
     "desc": ""
   }, 
@@ -563,13 +388,6 @@
     "coord": [
       34.0727875, 
       -118.3675776
-    ], 
-    "desc": ""
-  }, 
-  "Mount Rubidoux Convalescent Hospital": {
-    "coord": [
-      34.0128738, 
-      -117.4240592
     ], 
     "desc": ""
   }, 
@@ -622,20 +440,6 @@
     ], 
     "desc": ""
   }, 
-  "Verdugo Hills Hospital": {
-    "coord": [
-      34.2047271, 
-      -118.2156296
-    ], 
-    "desc": ""
-  }, 
-  "San Antonio Hospital": {
-    "coord": [
-      34.1013988, 
-      -117.6378318
-    ], 
-    "desc": ""
-  }, 
   "El Monte Medical Center": {
     "coord": [
       34.0650099, 
@@ -678,20 +482,6 @@
     ], 
     "desc": ""
   }, 
-  "Chula Vista Hospital": {
-    "coord": [
-      32.6386652, 
-      -117.0905847
-    ], 
-    "desc": ""
-  }, 
-  "Imperial Valley Sanitarium (historical)": {
-    "coord": [
-      32.8386574, 
-      -115.2785919
-    ], 
-    "desc": ""
-  }, 
   "Los Angeles Doctors Hospital": {
     "coord": [
       34.0358453, 
@@ -699,38 +489,10 @@
     ], 
     "desc": ""
   }, 
-  "Ballard Rehabilitation Hospital": {
-    "coord": [
-      34.129396, 
-      -117.325425
-    ], 
-    "desc": ""
-  }, 
-  "Community Hospital of Long Beach": {
-    "coord": [
-      33.7883504, 
-      -118.1450667
-    ], 
-    "desc": ""
-  }, 
   "Hollywood Health Center": {
     "coord": [
       34.0947315, 
       -118.3306323
-    ], 
-    "desc": ""
-  }, 
-  "Harborview Medical Center (historical)": {
-    "coord": [
-      32.7247733, 
-      -117.1633666
-    ], 
-    "desc": ""
-  }, 
-  "Alvarado Medical Center": {
-    "coord": [
-      32.7775505, 
-      -117.0608632
     ], 
     "desc": ""
   }, 
@@ -748,38 +510,10 @@
     ], 
     "desc": ""
   }, 
-  "First Avenue Health Center": {
+  "El Sereno Manor Convalescent Hospital": {
     "coord": [
-      32.7297732, 
-      -117.1633667
-    ], 
-    "desc": ""
-  }, 
-  "El Cajon Valley Hospital": {
-    "coord": [
-      32.8114398, 
-      -116.920026
-    ], 
-    "desc": ""
-  }, 
-  "Hillside Hospital": {
-    "coord": [
-      32.7558837, 
-      -117.1444773
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Clinic and Research Foundation": {
-    "coord": [
-      32.8939354, 
-      -117.2344806
-    ], 
-    "desc": ""
-  }, 
-  "Hillcrest Medical Center": {
-    "coord": [
-      33.9600135, 
-      -118.3503532
+      34.083899, 
+      -118.1886833
     ], 
     "desc": ""
   }, 
@@ -811,13 +545,6 @@
     ], 
     "desc": ""
   }, 
-  "Elwyn Sanitarium (historical)": {
-    "coord": [
-      32.6767196, 
-      -117.1078081
-    ], 
-    "desc": ""
-  }, 
   "Cedar Lodge Sanitarium (historical)": {
     "coord": [
       34.0977875, 
@@ -839,24 +566,10 @@
     ], 
     "desc": ""
   }, 
-  "Palomar Memorial Hospital": {
-    "coord": [
-      33.1280954, 
-      -117.0803096
-    ], 
-    "desc": ""
-  }, 
   "Medical Center of North Hollywood (historical)": {
     "coord": [
       34.1580618, 
       -118.4092469
-    ], 
-    "desc": ""
-  }, 
-  "Sharp at Cabrillo Hospital": {
-    "coord": [
-      32.749345, 
-      -117.215785
     ], 
     "desc": ""
   }, 
@@ -895,13 +608,6 @@
     ], 
     "desc": ""
   }, 
-  "Inland Surgery Center": {
-    "coord": [
-      34.037524, 
-      -117.203488
-    ], 
-    "desc": ""
-  }, 
   "Sunray East Convalescent Hospital": {
     "coord": [
       34.0469559, 
@@ -927,13 +633,6 @@
     "coord": [
       33.6633531, 
       -117.9242245
-    ], 
-    "desc": ""
-  }, 
-  "Knollwood Center": {
-    "coord": [
-      33.962322, 
-      -117.395187
     ], 
     "desc": ""
   }, 
@@ -972,13 +671,6 @@
     ], 
     "desc": ""
   }, 
-  "Glenn Helen Infirmary (historical)": {
-    "coord": [
-      34.2111187, 
-      -117.4092145
-    ], 
-    "desc": ""
-  }, 
   "Saint Francis Medical Center": {
     "coord": [
       33.9300152, 
@@ -1014,24 +706,10 @@
     ], 
     "desc": ""
   }, 
-  "Patton State Hospital": {
-    "coord": [
-      34.1380662, 
-      -117.2142071
-    ], 
-    "desc": ""
-  }, 
   "Huntington Beach Hospital And Medical Center": {
     "coord": [
       33.703629, 
       -117.9867262
-    ], 
-    "desc": ""
-  }, 
-  "Medical Center Convalescent Hospital": {
-    "coord": [
-      34.1266648, 
-      -117.2756829
     ], 
     "desc": ""
   }, 
@@ -1077,10 +755,10 @@
     ], 
     "desc": ""
   }, 
-  "Anaheim General Hospital": {
+  "Hillcrest Medical Center": {
     "coord": [
-      33.8158486, 
-      -118.0070062
+      33.9600135, 
+      -118.3503532
     ], 
     "desc": ""
   }, 
@@ -1151,20 +829,6 @@
     "coord": [
       33.9772348, 
       -118.0308995
-    ], 
-    "desc": ""
-  }, 
-  "Desert Hospital": {
-    "coord": [
-      33.8383513, 
-      -116.5427919
-    ], 
-    "desc": ""
-  }, 
-  "Oceanside City Hospital": {
-    "coord": [
-      33.201425, 
-      -117.3778167
     ], 
     "desc": ""
   }, 
@@ -1273,10 +937,10 @@
     ], 
     "desc": ""
   }, 
-  "East Los Angeles Health Center": {
+  "Southern California Sanitarium (historical)": {
     "coord": [
-      34.0241792, 
-      -118.1622931
+      34.0280663, 
+      -118.4159116
     ], 
     "desc": ""
   }, 
@@ -1287,45 +951,10 @@
     ], 
     "desc": ""
   }, 
-  "Donald N Sharp Memorial Hospital": {
-    "coord": [
-      32.7992159, 
-      -117.1542001
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Memorial Hospital at La Jolla": {
-    "coord": [
-      32.884499, 
-      -117.225123
-    ], 
-    "desc": ""
-  }, 
-  "Grossmont Hospital": {
-    "coord": [
-      32.7806064, 
-      -117.0066945
-    ], 
-    "desc": ""
-  }, 
-  "San Diego Hospice": {
-    "coord": [
-      32.7575428, 
-      -117.1627472
-    ], 
-    "desc": ""
-  }, 
   "Hollywood-Leland Hospital (historical)": {
     "coord": [
       34.0966759, 
       -118.3253544
-    ], 
-    "desc": ""
-  }, 
-  "Riverside General Hospital": {
-    "coord": [
-      33.9175155, 
-      -117.4542133
     ], 
     "desc": ""
   }, 
@@ -1340,13 +969,6 @@
     "coord": [
       34.1316667, 
       -118.2575
-    ], 
-    "desc": ""
-  }, 
-  "La Jolla Hospital (historical)": {
-    "coord": [
-      32.8236589, 
-      -117.2747597
     ], 
     "desc": ""
   }, 
@@ -1371,20 +993,6 @@
     ], 
     "desc": ""
   }, 
-  "Western Medical Center-Anaheim": {
-    "coord": [
-      33.8197379, 
-      -117.909781
-    ], 
-    "desc": ""
-  }, 
-  "Mercy Hospital": {
-    "coord": [
-      32.7514393, 
-      -117.1600335
-    ], 
-    "desc": ""
-  }, 
   "Chino Community Hospital": {
     "coord": [
       34.0255676, 
@@ -1399,31 +1007,10 @@
     ], 
     "desc": ""
   }, 
-  "Mercy Health Center": {
-    "coord": [
-      32.7267177, 
-      -117.1633666
-    ], 
-    "desc": ""
-  }, 
-  "Fallbrook Hospital": {
-    "coord": [
-      33.3808639, 
-      -117.2444797
-    ], 
-    "desc": ""
-  }, 
   "Veterans Affairs Sepulveda Ambulatory Care Center": {
     "coord": [
       34.2466698, 
       -118.4828624
-    ], 
-    "desc": ""
-  }, 
-  "Pomerado Hospital": {
-    "coord": [
-      32.9992112, 
-      -117.0566988
     ], 
     "desc": ""
   }, 
@@ -1434,10 +1021,10 @@
     ], 
     "desc": ""
   }, 
-  "San Diego Physicians-Surgeons Hospital (historical)": {
+  "Santa Ana Hospital Medical Center": {
     "coord": [
-      32.7086629, 
-      -117.1383654
+      33.7622391, 
+      -117.9020018
     ], 
     "desc": ""
   }, 
@@ -1490,13 +1077,6 @@
     ], 
     "desc": ""
   }, 
-  "Big Bear Community Hospital": {
-    "coord": [
-      34.2463964, 
-      -116.8886428
-    ], 
-    "desc": ""
-  }, 
   "Saint Johns Hospital": {
     "coord": [
       34.2055603, 
@@ -1546,13 +1126,6 @@
     ], 
     "desc": ""
   }, 
-  "Santa Barbara General Hospital": {
-    "coord": [
-      34.444997, 
-      -119.7809721
-    ], 
-    "desc": ""
-  }, 
   "Virgil Sanitarium and Convalescent Hospital": {
     "coord": [
       34.0894543, 
@@ -1567,38 +1140,10 @@
     ], 
     "desc": ""
   }, 
-  "Inland Urgent Care of Sun City": {
-    "coord": [
-      33.710557, 
-      -117.192067
-    ], 
-    "desc": ""
-  }, 
-  "Shiley Eye Center": {
-    "coord": [
-      32.8795, 
-      -117.2231
-    ], 
-    "desc": ""
-  }, 
   "Santa Clara Valley Hospital": {
     "coord": [
       34.3508326, 
       -119.070382
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Memorial Hospital at East County": {
-    "coord": [
-      32.8119031, 
-      -116.9191915
-    ], 
-    "desc": ""
-  }, 
-  "Arrowhead Regional Medical Center - Fontana Family Health Center": {
-    "coord": [
-      34.105, 
-      -117.4369444
     ], 
     "desc": ""
   }, 
@@ -1623,24 +1168,17 @@
     ], 
     "desc": ""
   }, 
-  "Santa Ana Hospital Medical Center": {
+  "Bay Harbor Hospital (historical)": {
     "coord": [
-      33.7622391, 
-      -117.9020018
+      33.7983504, 
+      -118.3036832
     ], 
     "desc": ""
   }, 
-  "Moreno Valley Medical Center": {
+  "Saint Christophers Convalescent Hospital and Sanitarium": {
     "coord": [
-      33.8986286, 
-      -117.1880917
-    ], 
-    "desc": ""
-  }, 
-  "San Gabriel Valley Medical Center": {
-    "coord": [
-      34.1005645, 
-      -118.1059028
+      33.7914061, 
+      -118.1653453
     ], 
     "desc": ""
   }, 
@@ -1651,24 +1189,10 @@
     ], 
     "desc": ""
   }, 
-  "Villa View Hospital": {
-    "coord": [
-      32.7506067, 
-      -117.0766968
-    ], 
-    "desc": ""
-  }, 
   "Goleta Valley Hospital": {
     "coord": [
       34.4352744, 
       -119.808472
-    ], 
-    "desc": ""
-  }, 
-  "Lakewood Regional Medical Center (historical)": {
-    "coord": [
-      33.8600159, 
-      -118.1492347
     ], 
     "desc": ""
   }, 
@@ -1679,17 +1203,10 @@
     ], 
     "desc": ""
   }, 
-  "Hyde Park Convalescent Hospital": {
+  "Sunshine Terrace Convalescent Hospital": {
     "coord": [
-      33.9797356, 
-      -118.3347976
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Memorial Hospital": {
-    "coord": [
-      32.6336654, 
-      -117.0844732
+      34.0763986, 
+      -118.3628553
     ], 
     "desc": ""
   }, 
@@ -1697,13 +1214,6 @@
     "coord": [
       34.0236239, 
       -118.2853524
-    ], 
-    "desc": ""
-  }, 
-  "Arrowhead Regional Medical Center - McKee Family Health Center": {
-    "coord": [
-      34.1366667, 
-      -117.2438889
     ], 
     "desc": ""
   }, 
@@ -1728,13 +1238,6 @@
     ], 
     "desc": ""
   }, 
-  "University of California San Diego Medical Center": {
-    "coord": [
-      32.8792136, 
-      -117.2230914
-    ], 
-    "desc": ""
-  }, 
   "American Hospital": {
     "coord": [
       34.0280686, 
@@ -1756,13 +1259,6 @@
     ], 
     "desc": ""
   }, 
-  "Vencor Hospital San Diego": {
-    "coord": [
-      32.7553971, 
-      -117.1446183
-    ], 
-    "desc": ""
-  }, 
   "Atlantic Medical Building": {
     "coord": [
       33.8088889, 
@@ -1777,24 +1273,10 @@
     ], 
     "desc": ""
   }, 
-  "Scripps Clinic": {
-    "coord": [
-      32.9928224, 
-      -117.0739214
-    ], 
-    "desc": ""
-  }, 
   "General Hospital": {
     "coord": [
       33.8033502, 
       -118.1520116
-    ], 
-    "desc": ""
-  }, 
-  "West Anaheim Medical Center": {
-    "coord": [
-      33.8255707, 
-      -117.9947838
     ], 
     "desc": ""
   }, 
@@ -1826,24 +1308,10 @@
     ], 
     "desc": ""
   }, 
-  "Extended Care Hospital of Riverside": {
-    "coord": [
-      33.9345911, 
-      -117.4219961
-    ], 
-    "desc": ""
-  }, 
   "Pacific Alliance Medical Center": {
     "coord": [
       34.0652891, 
       -118.2392404
-    ], 
-    "desc": ""
-  }, 
-  "Stevenson Hospital": {
-    "coord": [
-      32.7764396, 
-      -117.0255841
     ], 
     "desc": ""
   }, 
@@ -1872,13 +1340,6 @@
     "coord": [
       33.7300183, 
       -117.8283883
-    ], 
-    "desc": ""
-  }, 
-  "Golden Triangle Medical Center": {
-    "coord": [
-      33.5586367, 
-      -117.1844775
     ], 
     "desc": ""
   }, 
@@ -1938,10 +1399,10 @@
     ], 
     "desc": ""
   }, 
-  "Bellflower Doctors Hospital": {
+  "East Los Angeles Convalescent Hospital": {
     "coord": [
-      33.8744598, 
-      -118.1303453
+      34.0425121, 
+      -118.2075725
     ], 
     "desc": ""
   }, 
@@ -2001,24 +1462,10 @@
     ], 
     "desc": ""
   }, 
-  "Sharp Mesa Vista Hospital": {
+  "Santa Barbara General Hospital": {
     "coord": [
-      32.7950871, 
-      -117.15519
-    ], 
-    "desc": ""
-  }, 
-  "Eisenhower Medical Center": {
-    "coord": [
-      33.7622431, 
-      -116.4066785
-    ], 
-    "desc": ""
-  }, 
-  "La Mesa Sanitarium": {
-    "coord": [
-      32.7514405, 
-      -117.0030829
+      34.444997, 
+      -119.7809721
     ], 
     "desc": ""
   }, 
@@ -2050,10 +1497,10 @@
     ], 
     "desc": ""
   }, 
-  "Sunshine Terrace Convalescent Hospital": {
+  "Hyde Park Convalescent Hospital": {
     "coord": [
-      34.0763986, 
-      -118.3628553
+      33.9797356, 
+      -118.3347976
     ], 
     "desc": ""
   }, 
@@ -2148,17 +1595,10 @@
     ], 
     "desc": ""
   }, 
-  "Perlman Ambulatory Care Center": {
+  "United States Veterans Hospital (historical)": {
     "coord": [
-      32.8782, 
-      -117.2247
-    ], 
-    "desc": ""
-  }, 
-  "Gateways Hospital": {
-    "coord": [
-      34.0852882, 
-      -118.2567411
+      34.326111, 
+      -118.4178599
     ], 
     "desc": ""
   }, 
@@ -2166,20 +1606,6 @@
     "coord": [
       33.8014044, 
       -117.9967277
-    ], 
-    "desc": ""
-  }, 
-  "John F Kennedy Memorial Hospital": {
-    "coord": [
-      33.706411, 
-      -116.2186176
-    ], 
-    "desc": ""
-  }, 
-  "El Sereno Manor Convalescent Hospital": {
-    "coord": [
-      34.083899, 
-      -118.1886833
     ], 
     "desc": ""
   }, 
@@ -2197,31 +1623,10 @@
     ], 
     "desc": ""
   }, 
-  "High Desert Medical Center": {
+  "Community Hospital of Long Beach": {
     "coord": [
-      34.1341722, 
-      -116.2761209
-    ], 
-    "desc": ""
-  }, 
-  "Mission Bay Memorial Hospital (historical)": {
-    "coord": [
-      32.8044931, 
-      -117.2169801
-    ], 
-    "desc": ""
-  }, 
-  "Alvarado Parkway Institute Behavioral Health System of San Diego": {
-    "coord": [
-      32.7751834, 
-      -117.0449261
-    ], 
-    "desc": ""
-  }, 
-  "Jerry L Pettis Memorial Veterans Medical Center": {
-    "coord": [
-      34.0502919, 
-      -117.2500412
+      33.7883504, 
+      -118.1450667
     ], 
     "desc": ""
   }, 
@@ -2260,17 +1665,17 @@
     ], 
     "desc": ""
   }, 
-  "Scripps Memorial Hospital Encinitas": {
+  "Dreiers Sanitarium": {
     "coord": [
-      33.0369867, 
-      -117.2844816
+      34.1672222, 
+      -118.2847222
     ], 
     "desc": ""
   }, 
-  "Mountains Community Hospital": {
+  "Olympia Medical Center": {
     "coord": [
-      34.2655614, 
-      -117.1686519
+      34.0572326, 
+      -118.3609105
     ], 
     "desc": ""
   }, 
@@ -2278,13 +1683,6 @@
     "coord": [
       34.0233432, 
       -118.4845244
-    ], 
-    "desc": ""
-  }, 
-  "Inland Regional Center": {
-    "coord": [
-      34.0711025, 
-      -117.2700033
     ], 
     "desc": ""
   }, 
@@ -2302,17 +1700,10 @@
     ], 
     "desc": ""
   }, 
-  "United States Veterans Hospital (historical)": {
+  "Verdugo Hills Hospital": {
     "coord": [
-      34.326111, 
-      -118.4178599
-    ], 
-    "desc": ""
-  }, 
-  "Mission Valley Medical Center": {
-    "coord": [
-      33.6205787, 
-      -117.2867042
+      34.2047271, 
+      -118.2156296
     ], 
     "desc": ""
   }, 
@@ -2372,17 +1763,10 @@
     ], 
     "desc": ""
   }, 
-  "Riverside Community Hospital": {
+  "Golden State Manor Convalescent Hospital": {
     "coord": [
-      33.976404, 
-      -117.3808784
-    ], 
-    "desc": ""
-  }, 
-  "Cal Haven Convalescent Hospital": {
-    "coord": [
-      34.1472222, 
-      -118.2636111
+      34.1841667, 
+      -118.3147222
     ], 
     "desc": ""
   }, 
@@ -2390,20 +1774,6 @@
     "coord": [
       33.811683, 
       -118.3442396
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Memorial Hospital at Chula Vista": {
-    "coord": [
-      32.6330336, 
-      -117.0826279
-    ], 
-    "desc": ""
-  }, 
-  "Clairmont Community Hospital (historical)": {
-    "coord": [
-      32.8203263, 
-      -117.1839235
     ], 
     "desc": ""
   }, 
@@ -2418,13 +1788,6 @@
     "coord": [
       34.1180556, 
       -118.1863889
-    ], 
-    "desc": ""
-  }, 
-  "Loma Linda Community Hospital": {
-    "coord": [
-      34.0475142, 
-      -117.2530968
     ], 
     "desc": ""
   }, 
@@ -2453,13 +1816,6 @@
     "coord": [
       34.0513994, 
       -118.3684106
-    ], 
-    "desc": ""
-  }, 
-  "San Gorgonio Pass Memorial Hospital": {
-    "coord": [
-      33.9322382, 
-      -116.9458578
     ], 
     "desc": ""
   }, 
@@ -2526,10 +1882,10 @@
     ], 
     "desc": ""
   }, 
-  "Southern California Sanitarium (historical)": {
+  "East Los Angeles Health Center": {
     "coord": [
-      34.0280663, 
-      -118.4159116
+      34.0241792, 
+      -118.1622931
     ], 
     "desc": ""
   }, 
@@ -2547,10 +1903,10 @@
     ], 
     "desc": ""
   }, 
-  "Bay Harbor Hospital (historical)": {
+  "Lakewood Regional Medical Center (historical)": {
     "coord": [
-      33.7983504, 
-      -118.3036832
+      33.8600159, 
+      -118.1492347
     ], 
     "desc": ""
   }, 
@@ -2561,24 +1917,10 @@
     ], 
     "desc": ""
   }, 
-  "The John M and Sally B Thornton Hospital": {
-    "coord": [
-      32.878, 
-      -117.2258
-    ], 
-    "desc": ""
-  }, 
   "University of Southern California University Hospital": {
     "coord": [
       34.0625112, 
       -118.2020169
-    ], 
-    "desc": ""
-  }, 
-  "Happyland Sanitarium": {
-    "coord": [
-      33.2536469, 
-      -116.9864174
     ], 
     "desc": ""
   }, 
@@ -2610,31 +1952,10 @@
     ], 
     "desc": ""
   }, 
-  "Saint Christophers Convalescent Hospital and Sanitarium": {
-    "coord": [
-      33.7914061, 
-      -118.1653453
-    ], 
-    "desc": ""
-  }, 
-  "Western Healthcare Center": {
-    "coord": [
-      34.047942, 
-      -117.300646
-    ], 
-    "desc": ""
-  }, 
   "Buena Ventura Convalescent Hospital": {
     "coord": [
       34.0214017, 
       -118.1822938
-    ], 
-    "desc": ""
-  }, 
-  "Edgemoor Hospital": {
-    "coord": [
-      32.8425494, 
-      -116.9719722
     ], 
     "desc": ""
   }, 
@@ -2666,31 +1987,10 @@
     ], 
     "desc": ""
   }, 
-  "Sixth Avenue Medical Center": {
-    "coord": [
-      32.7353286, 
-      -117.1594777
-    ], 
-    "desc": ""
-  }, 
-  "Kaiser Hospital": {
-    "coord": [
-      34.0733452, 
-      -117.4333811
-    ], 
-    "desc": ""
-  }, 
   "Kaiser Foundation Hospital": {
     "coord": [
-      32.7928285, 
-      -116.9794717
-    ], 
-    "desc": ""
-  }, 
-  "Crestview Convalescent Hospital": {
-    "coord": [
-      34.0744326, 
-      -117.370023
+      34.2222261, 
+      -118.4306377
     ], 
     "desc": ""
   }, 
@@ -2712,13 +2012,6 @@
     "coord": [
       34.0650091, 
       -118.4436908
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Medical Center": {
-    "coord": [
-      33.2039293, 
-      -116.3294553
     ], 
     "desc": ""
   }, 
@@ -2771,10 +2064,10 @@
     ], 
     "desc": ""
   }, 
-  "Calexico Hospital": {
+  "Burbank Health Center": {
     "coord": [
-      32.6786696, 
-      -115.4911051
+      34.1769444, 
+      -118.3208333
     ], 
     "desc": ""
   }, 
@@ -2792,31 +2085,10 @@
     ], 
     "desc": ""
   }, 
-  "Menifee Valley Medical Center": {
-    "coord": [
-      33.7183543, 
-      -117.1711443
-    ], 
-    "desc": ""
-  }, 
   "Oxnard Community Hospital": {
     "coord": [
       34.1972269, 
       -119.1867741
-    ], 
-    "desc": ""
-  }, 
-  "Burbank Health Center": {
-    "coord": [
-      34.1769444, 
-      -118.3208333
-    ], 
-    "desc": ""
-  }, 
-  "Arrowhead Regional Medical Center - Westside Family Health Center": {
-    "coord": [
-      34.1138889, 
-      -117.32
     ], 
     "desc": ""
   }, 
@@ -2841,13 +2113,6 @@
     ], 
     "desc": ""
   }, 
-  "Robert H Ballard Rehabilitation Hospital": {
-    "coord": [
-      34.1291667, 
-      -117.3255556
-    ], 
-    "desc": ""
-  }, 
   "West Valley Hospital (historical)": {
     "coord": [
       34.2202819, 
@@ -2862,24 +2127,10 @@
     ], 
     "desc": ""
   }, 
-  "Sharp Coronado Hospital": {
+  "Western Medical Center-Anaheim": {
     "coord": [
-      32.6946719, 
-      -117.1681388
-    ], 
-    "desc": ""
-  }, 
-  "Samaritan Medical Center": {
-    "coord": [
-      33.4569721, 
-      -117.65005
-    ], 
-    "desc": ""
-  }, 
-  "Palm Terrace Care Center": {
-    "coord": [
-      33.935847, 
-      -117.4976096
+      33.8197379, 
+      -117.909781
     ], 
     "desc": ""
   }, 
@@ -2904,10 +2155,10 @@
     ], 
     "desc": ""
   }, 
-  "Monterey Sanitarium": {
+  "The Guardian Inglewood Convalescent Hospital": {
     "coord": [
-      34.0430667, 
-      -118.0884019
+      33.9602916, 
+      -118.3314639
     ], 
     "desc": ""
   }, 
@@ -2915,13 +2166,6 @@
     "coord": [
       34.1997269, 
       -118.4500825
-    ], 
-    "desc": ""
-  }, 
-  "San Bernardino County Medical Center (historical)": {
-    "coord": [
-      34.128622, 
-      -117.269209
     ], 
     "desc": ""
   }, 
@@ -2967,17 +2211,10 @@
     ], 
     "desc": ""
   }, 
-  "San Diego County Psychiatric Hospital": {
+  "Gateways Hospital": {
     "coord": [
-      32.75362, 
-      -117.20203
-    ], 
-    "desc": ""
-  }, 
-  "Orange County Community Hospital (historical)": {
-    "coord": [
-      33.8311262, 
-      -118.0139513
+      34.0852882, 
+      -118.2567411
     ], 
     "desc": ""
   }, 
@@ -3002,10 +2239,10 @@
     ], 
     "desc": ""
   }, 
-  "Laurel Hospital": {
+  "San Antonio Hospital": {
     "coord": [
-      34.1411214, 
-      -117.2944878
+      34.1013988, 
+      -117.6378318
     ], 
     "desc": ""
   }, 
@@ -3030,13 +2267,6 @@
     ], 
     "desc": ""
   }, 
-  "Yucaipa Family Clinic of Redlands Community Hospital": {
-    "coord": [
-      34.0339686, 
-      -117.0480782
-    ], 
-    "desc": ""
-  }, 
   "Edgemont Hospital": {
     "coord": [
       34.1022315, 
@@ -3058,10 +2288,10 @@
     ], 
     "desc": ""
   }, 
-  "Grinnell Convalescent Hospital": {
+  "Belmar Convalescent Hospital": {
     "coord": [
-      34.1863889, 
-      -118.3147222
+      33.9664034, 
+      -118.2831294
     ], 
     "desc": ""
   }, 
@@ -3069,20 +2299,6 @@
     "coord": [
       33.8094444, 
       -118.1855556
-    ], 
-    "desc": ""
-  }, 
-  "Waterman Convalescent Hospital": {
-    "coord": [
-      34.1319685, 
-      -117.2791055
-    ], 
-    "desc": ""
-  }, 
-  "San Diego Rehabilitation Institute": {
-    "coord": [
-      32.7771761, 
-      -117.0564539
     ], 
     "desc": ""
   }, 
@@ -3104,20 +2320,6 @@
     "coord": [
       33.5608579, 
       -117.6653285
-    ], 
-    "desc": ""
-  }, 
-  "Bay General Hospital": {
-    "coord": [
-      32.6333876, 
-      -117.0828065
-    ], 
-    "desc": ""
-  }, 
-  "Saint Erne Sanitarium": {
-    "coord": [
-      33.9647354, 
-      -118.3653536
     ], 
     "desc": ""
   }, 
@@ -3156,20 +2358,6 @@
     ], 
     "desc": ""
   }, 
-  "Paradise Valley Hospital": {
-    "coord": [
-      32.6853306, 
-      -117.0825295
-    ], 
-    "desc": ""
-  }, 
-  "La Jolla Cancer Research Foundation": {
-    "coord": [
-      32.9011573, 
-      -117.2419808
-    ], 
-    "desc": ""
-  }, 
   "Pacific Hospital of Long Beach": {
     "coord": [
       33.8069616, 
@@ -3177,10 +2365,10 @@
     ], 
     "desc": ""
   }, 
-  "Pioneer Memorial Hospital": {
+  "Saint Francis Hospital": {
     "coord": [
-      32.958936, 
-      -115.5538799
+      34.4336081, 
+      -119.7012463
     ], 
     "desc": ""
   }, 
@@ -3198,6 +2386,13 @@
     ], 
     "desc": ""
   }, 
+  "Anaheim General Hospital": {
+    "coord": [
+      33.8158486, 
+      -118.0070062
+    ], 
+    "desc": ""
+  }, 
   "Good Hope Clinic": {
     "coord": [
       34.0544561, 
@@ -3212,10 +2407,10 @@
     ], 
     "desc": ""
   }, 
-  "Redlands Community Hospital": {
+  "West Anaheim Medical Center": {
     "coord": [
-      34.0366812, 
-      -117.2053166
+      33.8255707, 
+      -117.9947838
     ], 
     "desc": ""
   }, 
@@ -3324,20 +2519,6 @@
     ], 
     "desc": ""
   }, 
-  "Loma Linda University Medical Center": {
-    "coord": [
-      34.0497362, 
-      -117.2642083
-    ], 
-    "desc": ""
-  }, 
-  "Dreiers Sanitarium": {
-    "coord": [
-      34.1672222, 
-      -118.2847222
-    ], 
-    "desc": ""
-  }, 
   "Montebello Convalescent Hospital": {
     "coord": [
       34.0175123, 
@@ -3356,27 +2537,6 @@
     "coord": [
       34.056122, 
       -118.3225761
-    ], 
-    "desc": ""
-  }, 
-  "North Perris Medical Center": {
-    "coord": [
-      33.8125189, 
-      -117.2255924
-    ], 
-    "desc": ""
-  }, 
-  "Mount Helix Hospital": {
-    "coord": [
-      32.7747729, 
-      -117.0436403
-    ], 
-    "desc": ""
-  }, 
-  "Imperial County Hospital": {
-    "coord": [
-      32.7470021, 
-      -115.561108
     ], 
     "desc": ""
   }, 
@@ -3429,31 +2589,17 @@
     ], 
     "desc": ""
   }, 
-  "Riverside County Regional Medical Center": {
+  "Saint Erne Sanitarium": {
     "coord": [
-      33.91205, 
-      -117.19582
-    ], 
-    "desc": ""
-  }, 
-  "Olympia Medical Center": {
-    "coord": [
-      34.0572326, 
-      -118.3609105
+      33.9647354, 
+      -118.3653536
     ], 
     "desc": ""
   }, 
   "Kaiser Permanente Hospital": {
     "coord": [
-      32.7328287, 
-      -117.1616999
-    ], 
-    "desc": ""
-  }, 
-  "Community Hospital of Chula Vista": {
-    "coord": [
-      32.6189441, 
-      -117.0230815
+      33.8539044, 
+      -117.8178342
     ], 
     "desc": ""
   }, 
@@ -3471,13 +2617,6 @@
     ], 
     "desc": ""
   }, 
-  "Saint Francis Hospital": {
-    "coord": [
-      34.4336081, 
-      -119.7012463
-    ], 
-    "desc": ""
-  }, 
   "Morningside Hospital": {
     "coord": [
       33.9583475, 
@@ -3485,17 +2624,10 @@
     ], 
     "desc": ""
   }, 
-  "Tri-City Hospital": {
+  "Chandler Convalescent Hospital": {
     "coord": [
-      33.1855927, 
-      -117.2903144
-    ], 
-    "desc": ""
-  }, 
-  "Sharp Chula Vista Medical Center": {
-    "coord": [
-      32.619272, 
-      -117.023104
+      34.1388889, 
+      -118.2583333
     ], 
     "desc": ""
   }, 
@@ -3503,13 +2635,6 @@
     "coord": [
       33.8094444, 
       -118.1855556
-    ], 
-    "desc": ""
-  }, 
-  "Christian Hospital Medical Center": {
-    "coord": [
-      33.8125189, 
-      -117.222259
     ], 
     "desc": ""
   }

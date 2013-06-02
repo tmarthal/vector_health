@@ -13,13 +13,6 @@
     ], 
     "desc": ""
   }, 
-  "Berry City Park": {
-    "coord": [
-      32.7303297, 
-      -117.0447509
-    ], 
-    "desc": ""
-  }, 
   "Holly Park": {
     "coord": [
       33.9230703, 
@@ -34,24 +27,10 @@
     ], 
     "desc": ""
   }, 
-  "Paseo del Ray Park": {
-    "coord": [
-      32.6281104, 
-      -117.0314154
-    ], 
-    "desc": ""
-  }, 
   "Allen J Martin Park": {
     "coord": [
       34.0397328, 
       -117.9622866
-    ], 
-    "desc": ""
-  }, 
-  "Lake Cahuilla County Park": {
-    "coord": [
-      33.6230808, 
-      -116.2658417
     ], 
     "desc": ""
   }, 
@@ -69,24 +48,10 @@
     ], 
     "desc": ""
   }, 
-  "Pat Williams Park": {
-    "coord": [
-      32.9892122, 
-      -115.5502677
-    ], 
-    "desc": ""
-  }, 
   "Marion Cannon Park": {
     "coord": [
       34.2605593, 
       -119.2198315
-    ], 
-    "desc": ""
-  }, 
-  "Arce Park": {
-    "coord": [
-      33.4980823, 
-      -117.6667176
     ], 
     "desc": ""
   }, 
@@ -118,10 +83,10 @@
     ], 
     "desc": ""
   }, 
-  "Palm Lane Park": {
+  "Alevalos Park": {
     "coord": [
-      33.8147378, 
-      -117.9378372
+      33.6769635, 
+      -117.9486696
     ], 
     "desc": ""
   }, 
@@ -167,13 +132,6 @@
     ], 
     "desc": ""
   }, 
-  "Fireside Park": {
-    "coord": [
-      33.2272576, 
-      -117.3389267
-    ], 
-    "desc": ""
-  }, 
   "Sunnyglen Park": {
     "coord": [
       33.8494595, 
@@ -209,13 +167,6 @@
     ], 
     "desc": ""
   }, 
-  "Hermosa Terrace Park": {
-    "coord": [
-      32.8256033, 
-      -117.2792042
-    ], 
-    "desc": ""
-  }, 
   "Evergreen Recreation Center": {
     "coord": [
       34.0386234, 
@@ -230,17 +181,17 @@
     ], 
     "desc": ""
   }, 
-  "Bloch Cancer Survivors Park": {
-    "coord": [
-      33.7702986, 
-      -116.4469574
-    ], 
-    "desc": ""
-  }, 
   "Santa Cruz Park": {
     "coord": [
       33.7666847, 
       -118.2022909
+    ], 
+    "desc": ""
+  }, 
+  "Rose Bowl": {
+    "coord": [
+      34.1613956, 
+      -118.1681275
     ], 
     "desc": ""
   }, 
@@ -258,13 +209,6 @@
     ], 
     "desc": ""
   }, 
-  "Shadow Hill Park": {
-    "coord": [
-      32.8403275, 
-      -116.9536384
-    ], 
-    "desc": ""
-  }, 
   "Glen Dora Sports Park": {
     "coord": [
       34.1186195, 
@@ -272,24 +216,10 @@
     ], 
     "desc": ""
   }, 
-  "Discovery Community Park": {
-    "coord": [
-      33.1244841, 
-      -117.1794786
-    ], 
-    "desc": ""
-  }, 
   "Gum Grove Park": {
     "coord": [
       33.7494617, 
       -118.0970085
-    ], 
-    "desc": ""
-  }, 
-  "Poway Community Park": {
-    "coord": [
-      32.9525458, 
-      -117.0472537
     ], 
     "desc": ""
   }, 
@@ -321,20 +251,6 @@
     ], 
     "desc": ""
   }, 
-  "La Cristianita Historic Site": {
-    "coord": [
-      33.4330837, 
-      -117.5683797
-    ], 
-    "desc": ""
-  }, 
-  "Woodhaven Park": {
-    "coord": [
-      33.8097412, 
-      -117.2236479
-    ], 
-    "desc": ""
-  }, 
   "Ralph Foy Park": {
     "coord": [
       34.1855611, 
@@ -349,10 +265,10 @@
     ], 
     "desc": ""
   }, 
-  "Pacific Beach Park": {
+  "Guadalupe Park": {
     "coord": [
-      32.7975486, 
-      -117.2572593
+      33.9286245, 
+      -117.960896
     ], 
     "desc": ""
   }, 
@@ -363,31 +279,10 @@
     ], 
     "desc": ""
   }, 
-  "Swamis Seaside Park": {
-    "coord": [
-      33.0350423, 
-      -117.291704
-    ], 
-    "desc": ""
-  }, 
   "Belvedere Park": {
     "coord": [
       34.0372341, 
       -118.1584042
-    ], 
-    "desc": ""
-  }, 
-  "Mountain Springs County Park": {
-    "coord": [
-      32.6747833, 
-      -116.1083488
-    ], 
-    "desc": ""
-  }, 
-  "Baristo Park": {
-    "coord": [
-      33.8189077, 
-      -116.5425145
     ], 
     "desc": ""
   }, 
@@ -405,10 +300,10 @@
     ], 
     "desc": ""
   }, 
-  "Oak Knoll Park": {
+  "Elysian Valley Recreation Center": {
     "coord": [
-      33.8236265, 
-      -118.0336741
+      34.0991765, 
+      -118.2450742
     ], 
     "desc": ""
   }, 
@@ -444,13 +339,6 @@
     "coord": [
       34.3880531, 
       -118.5314746
-    ], 
-    "desc": ""
-  }, 
-  "Stewart Park": {
-    "coord": [
-      33.9350161, 
-      -116.9736368
     ], 
     "desc": ""
   }, 
@@ -503,10 +391,10 @@
     ], 
     "desc": ""
   }, 
-  "San Marino Park": {
+  "Rowland Heights Park": {
     "coord": [
-      33.8361262, 
-      -118.0250629
+      33.9891792, 
+      -117.8797834
     ], 
     "desc": ""
   }, 
@@ -524,10 +412,10 @@
     ], 
     "desc": ""
   }, 
-  "Alevalos Park": {
+  "State Street Playground": {
     "coord": [
-      33.6769635, 
-      -117.9486696
+      34.0527895, 
+      -118.2125728
     ], 
     "desc": ""
   }, 
@@ -535,34 +423,6 @@
     "coord": [
       34.0922314, 
       -118.3511885
-    ], 
-    "desc": ""
-  }, 
-  "Woodglen Vista Park": {
-    "coord": [
-      32.8669931, 
-      -116.9736393
-    ], 
-    "desc": ""
-  }, 
-  "Belfo Park": {
-    "coord": [
-      33.8633481, 
-      -118.3817412
-    ], 
-    "desc": ""
-  }, 
-  "Maxwell Park": {
-    "coord": [
-      33.8272373, 
-      -117.9792277
-    ], 
-    "desc": ""
-  }, 
-  "Davis Park": {
-    "coord": [
-      34.0575136, 
-      -117.1944831
     ], 
     "desc": ""
   }, 
@@ -594,27 +454,6 @@
     ], 
     "desc": ""
   }, 
-  "Larsen Field": {
-    "coord": [
-      32.5464459, 
-      -117.044748
-    ], 
-    "desc": ""
-  }, 
-  "Maxton Brown Park": {
-    "coord": [
-      33.165593, 
-      -117.3522606
-    ], 
-    "desc": ""
-  }, 
-  "Standley Park": {
-    "coord": [
-      32.8497698, 
-      -117.2094799
-    ], 
-    "desc": ""
-  }, 
   "Sespe Park": {
     "coord": [
       34.403608, 
@@ -626,13 +465,6 @@
     "coord": [
       34.0897313, 
       -117.8897842
-    ], 
-    "desc": ""
-  }, 
-  "Little Tokyo Historic District": {
-    "coord": [
-      34.050012, 
-      -118.240907
     ], 
     "desc": ""
   }, 
@@ -650,6 +482,13 @@
     ], 
     "desc": ""
   }, 
+  "Saybrook Park": {
+    "coord": [
+      34.0127906, 
+      -118.136459
+    ], 
+    "desc": ""
+  }, 
   "Irvine Park": {
     "coord": [
       33.795295, 
@@ -661,13 +500,6 @@
     "coord": [
       33.512804, 
       -117.6633842
-    ], 
-    "desc": ""
-  }, 
-  "Del Parque County Park": {
-    "coord": [
-      32.7336637, 
-      -116.9647483
     ], 
     "desc": ""
   }, 
@@ -699,31 +531,10 @@
     ], 
     "desc": ""
   }, 
-  "San Clemente Park": {
-    "coord": [
-      32.8453256, 
-      -117.2025352
-    ], 
-    "desc": ""
-  }, 
-  "Richard Bard Bubbling Springs Park": {
-    "coord": [
-      34.1575051, 
-      -119.1906628
-    ], 
-    "desc": ""
-  }, 
   "Los Angeles Zoo": {
     "coord": [
       34.1475074, 
       -118.2900762
-    ], 
-    "desc": ""
-  }, 
-  "Glorietta Bay Park": {
-    "coord": [
-      32.6753303, 
-      -117.1691995
     ], 
     "desc": ""
   }, 
@@ -734,17 +545,10 @@
     ], 
     "desc": ""
   }, 
-  "Park De La Cruz": {
+  "Vickroy Park": {
     "coord": [
-      32.7450509, 
-      -117.1111426
-    ], 
-    "desc": ""
-  }, 
-  "Bancroft City Park": {
-    "coord": [
-      32.7456074, 
-      -117.0016938
+      34.1861166, 
+      -118.3373005
     ], 
     "desc": ""
   }, 
@@ -752,20 +556,6 @@
     "coord": [
       33.9144584, 
       -117.8781152
-    ], 
-    "desc": ""
-  }, 
-  "Banta Beatty Park": {
-    "coord": [
-      33.7883526, 
-      -117.2286479
-    ], 
-    "desc": ""
-  }, 
-  "Louis A Stelzer County Park": {
-    "coord": [
-      32.8789381, 
-      -116.8966928
     ], 
     "desc": ""
   }, 
@@ -780,13 +570,6 @@
     "coord": [
       33.9425132, 
       -117.93784
-    ], 
-    "desc": ""
-  }, 
-  "American Plaza": {
-    "coord": [
-      32.7172735, 
-      -117.1678111
     ], 
     "desc": ""
   }, 
@@ -811,17 +594,10 @@
     ], 
     "desc": ""
   }, 
-  "Spirit Stadium": {
+  "Hermosa School Park": {
     "coord": [
-      34.1352884, 
-      -117.2633756
-    ], 
-    "desc": ""
-  }, 
-  "Pixley Park": {
-    "coord": [
-      33.9911252, 
-      -118.1995162
+      33.9089028, 
+      -117.9258944
     ], 
     "desc": ""
   }, 
@@ -829,13 +605,6 @@
     "coord": [
       33.7202956, 
       -117.9328358
-    ], 
-    "desc": ""
-  }, 
-  "South Mission Beach Park": {
-    "coord": [
-      32.7556052, 
-      -117.2525371
     ], 
     "desc": ""
   }, 
@@ -850,13 +619,6 @@
     "coord": [
       34.2650031, 
       -118.7542587
-    ], 
-    "desc": ""
-  }, 
-  "Cutler Field": {
-    "coord": [
-      32.6939407, 
-      -117.1803113
     ], 
     "desc": ""
   }, 
@@ -888,24 +650,10 @@
     ], 
     "desc": ""
   }, 
-  "Carrillo Ranch Park": {
+  "William Green Park": {
     "coord": [
-      33.1167065, 
-      -117.2350356
-    ], 
-    "desc": ""
-  }, 
-  "City Heights Community Recreation Center": {
-    "coord": [
-      32.7461621, 
-      -117.0991976
-    ], 
-    "desc": ""
-  }, 
-  "Flower Street Park": {
-    "coord": [
-      33.7450175, 
-      -117.8756119
+      33.8777927, 
+      -118.3567409
     ], 
     "desc": ""
   }, 
@@ -951,24 +699,10 @@
     ], 
     "desc": ""
   }, 
-  "Views West Park": {
-    "coord": [
-      32.9550455, 
-      -117.1172554
-    ], 
-    "desc": ""
-  }, 
   "Santa Ana Zoo": {
     "coord": [
       33.7425178, 
       -117.8414443
-    ], 
-    "desc": ""
-  }, 
-  "Glen Helen Regional Park": {
-    "coord": [
-      34.2052856, 
-      -117.4039365
     ], 
     "desc": ""
   }, 
@@ -986,52 +720,10 @@
     ], 
     "desc": ""
   }, 
-  "Julian County Park": {
-    "coord": [
-      33.0758775, 
-      -116.6016859
-    ], 
-    "desc": ""
-  }, 
   "Irvine Coast Marine Life Refuge": {
     "coord": [
       33.5666906, 
       -117.8353336
-    ], 
-    "desc": ""
-  }, 
-  "State Street Playground": {
-    "coord": [
-      34.0527895, 
-      -118.2125728
-    ], 
-    "desc": ""
-  }, 
-  "Secombe Lake State Urban Recreation Area": {
-    "coord": [
-      34.1111226, 
-      -117.2814316
-    ], 
-    "desc": ""
-  }, 
-  "Old Town San Diego Historic District": {
-    "coord": [
-      32.7536612, 
-      -117.1944792
-    ], 
-    "desc": ""
-  }, 
-  "El Centro Park": {
-    "coord": [
-      33.9333466, 
-      -117.9428399
-    ], 
-    "desc": ""
-  }, 
-  "Presidio Park": {
-    "coord": [
-      32.7572722, 
-      -117.1944792
     ], 
     "desc": ""
   }, 
@@ -1042,17 +734,10 @@
     ], 
     "desc": ""
   }, 
-  "Howard Lane Park": {
+  "Monte Vista Nature Park": {
     "coord": [
-      32.5672785, 
-      -117.0647492
-    ], 
-    "desc": ""
-  }, 
-  "Chollas Park": {
-    "coord": [
-      32.7347738, 
-      -117.066974
+      34.26667, 
+      -118.8695409
     ], 
     "desc": ""
   }, 
@@ -1077,13 +762,6 @@
     ], 
     "desc": ""
   }, 
-  "Torrey Pines Park": {
-    "coord": [
-      32.900324, 
-      -117.2453142
-    ], 
-    "desc": ""
-  }, 
   "Ashiya Park": {
     "coord": [
       34.0225123, 
@@ -1098,24 +776,10 @@
     ], 
     "desc": ""
   }, 
-  "Cedar Lane City Park": {
+  "Santa Clarita Park": {
     "coord": [
-      33.2055921, 
-      -117.2530912
-    ], 
-    "desc": ""
-  }, 
-  "South Bay Park": {
-    "coord": [
-      32.577278, 
-      -117.0978063
-    ], 
-    "desc": ""
-  }, 
-  "Ninth Street and Encanto Park": {
-    "coord": [
-      34.1150112, 
-      -117.3119882
+      34.446384, 
+      -118.535641
     ], 
     "desc": ""
   }, 
@@ -1126,24 +790,10 @@
     ], 
     "desc": ""
   }, 
-  "Mill Center Park": {
-    "coord": [
-      34.0847348, 
-      -117.2739312
-    ], 
-    "desc": ""
-  }, 
   "Soaring Dreams Plaza": {
     "coord": [
       33.9450137, 
       -118.0814561
-    ], 
-    "desc": ""
-  }, 
-  "Indian Pictographs Historical Marker": {
-    "coord": [
-      33.7839067, 
-      -117.4842123
     ], 
     "desc": ""
   }, 
@@ -1154,13 +804,6 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Acacias Park": {
-    "coord": [
-      33.5669699, 
-      -117.1730882
-    ], 
-    "desc": ""
-  }, 
   "Marine Park": {
     "coord": [
       33.7577952, 
@@ -1168,17 +811,10 @@
     ], 
     "desc": ""
   }, 
-  "Northern Wildlife Preserve": {
+  "Oakbrook Community Park": {
     "coord": [
-      32.7958821, 
-      -117.2292027
-    ], 
-    "desc": ""
-  }, 
-  "San Bernardino Community Gardens": {
-    "coord": [
-      34.1297331, 
-      -117.2339301
+      34.2088935, 
+      -118.8331498
     ], 
     "desc": ""
   }, 
@@ -1210,10 +846,10 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Park": {
+  "Westmont Park": {
     "coord": [
-      33.7741864, 
-      -116.946968
+      33.7127955, 
+      -117.9781148
     ], 
     "desc": ""
   }, 
@@ -1231,17 +867,10 @@
     ], 
     "desc": ""
   }, 
-  "South Bay Biological Preserve": {
+  "Apollo Park": {
     "coord": [
-      32.5972772, 
-      -117.1189187
-    ], 
-    "desc": ""
-  }, 
-  "Embarcadero Marina Park": {
-    "coord": [
-      32.7047739, 
-      -117.1633664
+      33.9266814, 
+      -118.1545137
     ], 
     "desc": ""
   }, 
@@ -1249,13 +878,6 @@
     "coord": [
       33.8994596, 
       -117.6044954
-    ], 
-    "desc": ""
-  }, 
-  "Mount Gower Open Space Preserve": {
-    "coord": [
-      33.0200459, 
-      -116.7814128
     ], 
     "desc": ""
   }, 
@@ -1287,13 +909,6 @@
     ], 
     "desc": ""
   }, 
-  "Estella Park": {
-    "coord": [
-      34.1808384, 
-      -118.8470387
-    ], 
-    "desc": ""
-  }, 
   "Manhattan Beach State Park": {
     "coord": [
       33.8875138, 
@@ -1301,17 +916,10 @@
     ], 
     "desc": ""
   }, 
-  "Rose Bowl": {
+  "Maxwell Park": {
     "coord": [
-      34.1613956, 
-      -118.1681275
-    ], 
-    "desc": ""
-  }, 
-  "El Norte Park": {
-    "coord": [
-      33.145317, 
-      -117.0730871
+      33.8272373, 
+      -117.9792277
     ], 
     "desc": ""
   }, 
@@ -1329,20 +937,6 @@
     ], 
     "desc": ""
   }, 
-  "La Costa Canyon Park": {
-    "coord": [
-      33.0894851, 
-      -117.2422581
-    ], 
-    "desc": ""
-  }, 
-  "LeBard Stadium": {
-    "coord": [
-      33.6727778, 
-      -117.9105556
-    ], 
-    "desc": ""
-  }, 
   "Hotchkiss Park": {
     "coord": [
       34.0058437, 
@@ -1350,17 +944,10 @@
     ], 
     "desc": ""
   }, 
-  "West Park": {
-    "coord": [
-      32.7881116, 
-      -115.5777742
-    ], 
-    "desc": ""
-  }, 
   "Colony Park": {
     "coord": [
-      0.0, 
-      0.0
+      34.0797326, 
+      -117.6733883
     ], 
     "desc": ""
   }, 
@@ -1368,20 +955,6 @@
     "coord": [
       33.8327936, 
       -118.0914543
-    ], 
-    "desc": ""
-  }, 
-  "Magee Park": {
-    "coord": [
-      33.1614265, 
-      -117.3542051
-    ], 
-    "desc": ""
-  }, 
-  "Mistletoe Park": {
-    "coord": [
-      33.7833528, 
-      -116.9516903
     ], 
     "desc": ""
   }, 
@@ -1396,13 +969,6 @@
     "coord": [
       34.4083309, 
       -119.7106906
-    ], 
-    "desc": ""
-  }, 
-  "Pechanga Tribal Park": {
-    "coord": [
-      33.4480856, 
-      -117.0858628
     ], 
     "desc": ""
   }, 
@@ -1434,45 +1000,10 @@
     ], 
     "desc": ""
   }, 
-  "Paradise Valley Park and Recreation Center": {
-    "coord": [
-      32.6919972, 
-      -117.0653066
-    ], 
-    "desc": ""
-  }, 
   "South Gate Park": {
     "coord": [
       33.9452925, 
       -118.1853484
-    ], 
-    "desc": ""
-  }, 
-  "Riverside County Fairgrounds": {
-    "coord": [
-      33.7125219, 
-      -116.2227844
-    ], 
-    "desc": ""
-  }, 
-  "Mission Beach Park": {
-    "coord": [
-      32.7803268, 
-      -117.2533703
-    ], 
-    "desc": ""
-  }, 
-  "Cibola National Wildlife Refuge": {
-    "coord": [
-      33.3286434, 
-      -114.7207921
-    ], 
-    "desc": ""
-  }, 
-  "Cabrillo Heights Park": {
-    "coord": [
-      32.8056047, 
-      -117.147811
     ], 
     "desc": ""
   }, 
@@ -1490,31 +1021,10 @@
     ], 
     "desc": ""
   }, 
-  "Flinn Springs County Park": {
-    "coord": [
-      32.8475506, 
-      -116.8603024
-    ], 
-    "desc": ""
-  }, 
-  "Lytle Creek Park": {
-    "coord": [
-      34.0952897, 
-      -117.3083769
-    ], 
-    "desc": ""
-  }, 
   "Malibu Equestrian Park": {
     "coord": [
       34.023341, 
       -118.8234236
-    ], 
-    "desc": ""
-  }, 
-  "Cypress Canyon Park": {
-    "coord": [
-      32.9197688, 
-      -117.0661427
     ], 
     "desc": ""
   }, 
@@ -1525,31 +1035,10 @@
     ], 
     "desc": ""
   }, 
-  "San Dieguito County Park": {
-    "coord": [
-      32.9980996, 
-      -117.2339249
-    ], 
-    "desc": ""
-  }, 
   "Harvard Playground": {
     "coord": [
       33.9836249, 
       -118.3053524
-    ], 
-    "desc": ""
-  }, 
-  "Islander Park": {
-    "coord": [
-      33.9766825, 
-      -117.3103203
-    ], 
-    "desc": ""
-  }, 
-  "Bayview Park": {
-    "coord": [
-      32.7017183, 
-      -117.1789225
     ], 
     "desc": ""
   }, 
@@ -1574,13 +1063,6 @@
     ], 
     "desc": ""
   }, 
-  "Vista De Anza Historical Marker": {
-    "coord": [
-      32.695617, 
-      -115.9016763
-    ], 
-    "desc": ""
-  }, 
   "Emery Park": {
     "coord": [
       33.882792, 
@@ -1599,13 +1081,6 @@
     "coord": [
       33.9725134, 
       -118.3434088
-    ], 
-    "desc": ""
-  }, 
-  "Blake Park": {
-    "coord": [
-      34.1516764, 
-      -117.3558789
     ], 
     "desc": ""
   }, 
@@ -1630,10 +1105,10 @@
     ], 
     "desc": ""
   }, 
-  "Darby Memorial Park": {
+  "Fairview Avenue Park": {
     "coord": [
-      33.9539029, 
-      -118.3297971
+      34.1283408, 
+      -118.0514566
     ], 
     "desc": ""
   }, 
@@ -1644,13 +1119,6 @@
     ], 
     "desc": ""
   }, 
-  "Del Vallejo Park": {
-    "coord": [
-      34.1438992, 
-      -117.2442083
-    ], 
-    "desc": ""
-  }, 
   "Peppertree Park": {
     "coord": [
       33.7925157, 
@@ -1658,24 +1126,10 @@
     ], 
     "desc": ""
   }, 
-  "Langley Park": {
+  "Adlena Park": {
     "coord": [
-      34.0655661, 
-      -118.1281256
-    ], 
-    "desc": ""
-  }, 
-  "Vallecito Stage Station County Park": {
-    "coord": [
-      32.9761597, 
-      -116.3544584
-    ], 
-    "desc": ""
-  }, 
-  "Neptune Park": {
-    "coord": [
-      32.831992, 
-      -117.2811488
+      33.8725144, 
+      -117.9556169
     ], 
     "desc": ""
   }, 
@@ -1693,10 +1147,10 @@
     ], 
     "desc": ""
   }, 
-  "Helen Keller Park": {
+  "Cherry Cove Park": {
     "coord": [
-      33.917793, 
-      -118.2922957
+      33.8505718, 
+      -118.165624
     ], 
     "desc": ""
   }, 
@@ -1721,38 +1175,10 @@
     ], 
     "desc": ""
   }, 
-  "Pond Park": {
+  "Clarkdale Park": {
     "coord": [
-      33.5583591, 
-      -117.1628099
-    ], 
-    "desc": ""
-  }, 
-  "Watts Senior Center": {
-    "coord": [
-      33.9461264, 
-      -118.2439616
-    ], 
-    "desc": ""
-  }, 
-  "Harry Griffin Regional Park": {
-    "coord": [
-      32.787273, 
-      -116.986694
-    ], 
-    "desc": ""
-  }, 
-  "Oak Grove Stage Station Historical Marker": {
-    "coord": [
-      33.3903114, 
-      -116.7947444
-    ], 
-    "desc": ""
-  }, 
-  "Nancy Jane County Park": {
-    "coord": [
-      32.8142182, 
-      -116.8661356
+      33.828349, 
+      -118.0795092
     ], 
     "desc": ""
   }, 
@@ -1784,24 +1210,10 @@
     ], 
     "desc": ""
   }, 
-  "Palomar Mountain State Park": {
-    "coord": [
-      33.3375343, 
-      -116.9103032
-    ], 
-    "desc": ""
-  }, 
   "Saint James Park": {
     "coord": [
       34.0314015, 
       -118.2797968
-    ], 
-    "desc": ""
-  }, 
-  "Marina Vista Park": {
-    "coord": [
-      32.5792223, 
-      -117.1155849
     ], 
     "desc": ""
   }, 
@@ -1812,17 +1224,10 @@
     ], 
     "desc": ""
   }, 
-  "Morrison Park": {
+  "Pleasant Valley Park": {
     "coord": [
-      33.923906, 
-      -117.2078153
-    ], 
-    "desc": ""
-  }, 
-  "University of California Ecological Study Area": {
-    "coord": [
-      33.8200186, 
-      -117.2764281
+      34.2283379, 
+      -119.0292688
     ], 
     "desc": ""
   }, 
@@ -1840,20 +1245,6 @@
     ], 
     "desc": ""
   }, 
-  "Lakepoint Park": {
-    "coord": [
-      33.659744, 
-      -117.3275393
-    ], 
-    "desc": ""
-  }, 
-  "La Jolla Hermosa Park": {
-    "coord": [
-      32.8169924, 
-      -117.2722597
-    ], 
-    "desc": ""
-  }, 
   "Valyermo Park": {
     "coord": [
       33.6130784, 
@@ -1861,31 +1252,10 @@
     ], 
     "desc": ""
   }, 
-  "Car Country Park": {
-    "coord": [
-      33.1311499, 
-      -117.3269823
-    ], 
-    "desc": ""
-  }, 
-  "North River Road Park": {
-    "coord": [
-      33.2561457, 
-      -117.2872586
-    ], 
-    "desc": ""
-  }, 
-  "Cottonwood Three County Park": {
-    "coord": [
-      32.7444973, 
-      -116.9219695
-    ], 
-    "desc": ""
-  }, 
   "Shoreline Park": {
     "coord": [
-      32.7025516, 
-      -117.180867
+      34.3966644, 
+      -119.7065234
     ], 
     "desc": ""
   }, 
@@ -1900,13 +1270,6 @@
     "coord": [
       34.4205528, 
       -119.6995791
-    ], 
-    "desc": ""
-  }, 
-  "Monterey Heights County Park": {
-    "coord": [
-      32.7244965, 
-      -117.0325281
     ], 
     "desc": ""
   }, 
@@ -1931,13 +1294,6 @@
     ], 
     "desc": ""
   }, 
-  "Chumash County Park": {
-    "coord": [
-      34.1502832, 
-      -118.7556454
-    ], 
-    "desc": ""
-  }, 
   "Agoura Park": {
     "coord": [
       34.1463943, 
@@ -1952,38 +1308,10 @@
     ], 
     "desc": ""
   }, 
-  "Belmont Park": {
-    "coord": [
-      32.7686604, 
-      -117.2522592
-    ], 
-    "desc": ""
-  }, 
-  "Rio Seco Ball Field": {
-    "coord": [
-      32.8503269, 
-      -116.9825282
-    ], 
-    "desc": ""
-  }, 
   "MacArthur Park": {
     "coord": [
       34.0855659, 
       -117.6656103
-    ], 
-    "desc": ""
-  }, 
-  "Warren Mall": {
-    "coord": [
-      32.8812, 
-      -117.2353
-    ], 
-    "desc": ""
-  }, 
-  "Tuscany Hills Community Park": {
-    "coord": [
-      33.6819659, 
-      -117.2836491
     ], 
     "desc": ""
   }, 
@@ -2022,20 +1350,6 @@
     ], 
     "desc": ""
   }, 
-  "Thibodo Park": {
-    "coord": [
-      33.1714267, 
-      -117.2280907
-    ], 
-    "desc": ""
-  }, 
-  "San Diego Zoo": {
-    "coord": [
-      32.7367176, 
-      -117.1519774
-    ], 
-    "desc": ""
-  }, 
   "Angel Stadium of Anaheim": {
     "coord": [
       33.800294, 
@@ -2057,13 +1371,6 @@
     ], 
     "desc": ""
   }, 
-  "Cline Park": {
-    "coord": [
-      32.9775454, 
-      -115.522489
-    ], 
-    "desc": ""
-  }, 
   "John Zimmerman Park": {
     "coord": [
       33.9119585, 
@@ -2078,13 +1385,6 @@
     ], 
     "desc": ""
   }, 
-  "Channel Islands National Park": {
-    "coord": [
-      34.004171, 
-      -119.397338
-    ], 
-    "desc": ""
-  }, 
   "Jacob Street Park": {
     "coord": [
       33.8500153, 
@@ -2096,20 +1396,6 @@
     "coord": [
       34.3380529, 
       -119.4115062
-    ], 
-    "desc": ""
-  }, 
-  "Santa Margarita Ecological Reserve": {
-    "coord": [
-      33.4439181, 
-      -117.1697548
-    ], 
-    "desc": ""
-  }, 
-  "San Ysidro Community Park": {
-    "coord": [
-      32.5550568, 
-      -117.0444703
     ], 
     "desc": ""
   }, 
@@ -2141,13 +1427,6 @@
     ], 
     "desc": ""
   }, 
-  "Frank Lane Park": {
-    "coord": [
-      33.083655, 
-      -116.6072416
-    ], 
-    "desc": ""
-  }, 
   "Rogers-Anderson Park": {
     "coord": [
       33.8889038, 
@@ -2162,10 +1441,10 @@
     ], 
     "desc": ""
   }, 
-  "Kingsbriar Park": {
+  "Gwinn Park": {
     "coord": [
-      33.8819595, 
-      -117.7867226
+      34.1577843, 
+      -118.088958
     ], 
     "desc": ""
   }, 
@@ -2183,45 +1462,10 @@
     ], 
     "desc": ""
   }, 
-  "Old Trolley Barn Park": {
-    "coord": [
-      32.7642169, 
-      -117.1430884
-    ], 
-    "desc": ""
-  }, 
-  "Heart Bar State Park": {
-    "coord": [
-      34.1447322, 
-      -116.7658551
-    ], 
-    "desc": ""
-  }, 
   "Garvey Park": {
     "coord": [
       34.0672324, 
       -118.0961801
-    ], 
-    "desc": ""
-  }, 
-  "Santa Clara Point Recreation Center": {
-    "coord": [
-      32.78366, 
-      -117.2492035
-    ], 
-    "desc": ""
-  }, 
-  "Robert Adams Community Park": {
-    "coord": [
-      33.2375361, 
-      -117.0225296
-    ], 
-    "desc": ""
-  }, 
-  "Clairmont Park Recreation Center": {
-    "coord": [
-      32.8064376, 
-      -117.2005906
     ], 
     "desc": ""
   }, 
@@ -2309,13 +1553,6 @@
     ], 
     "desc": ""
   }, 
-  "Bay Terrace Park and Recreation Center": {
-    "coord": [
-      32.6792201, 
-      -117.0358608
-    ], 
-    "desc": ""
-  }, 
   "Bushard Park": {
     "coord": [
       33.6772412, 
@@ -2337,34 +1574,6 @@
     ], 
     "desc": ""
   }, 
-  "Potrero County Park": {
-    "coord": [
-      32.6147818, 
-      -116.5944618
-    ], 
-    "desc": ""
-  }, 
-  "Stanton Park": {
-    "coord": [
-      33.7994599, 
-      -117.9947832
-    ], 
-    "desc": ""
-  }, 
-  "Minor Park": {
-    "coord": [
-      33.5541948, 
-      -116.6752966
-    ], 
-    "desc": ""
-  }, 
-  "Lauderbach Park": {
-    "coord": [
-      32.6083884, 
-      -117.0700279
-    ], 
-    "desc": ""
-  }, 
   "Bettencourt Park": {
     "coord": [
       33.8611259, 
@@ -2372,17 +1581,10 @@
     ], 
     "desc": ""
   }, 
-  "Collis Mayflower County Park": {
+  "Dennis the Menace Park": {
     "coord": [
-      33.6708563, 
-      -114.5341221
-    ], 
-    "desc": ""
-  }, 
-  "Taxco Trails Park": {
-    "coord": [
-      34.2125043, 
-      -118.6370326
+      33.9564027, 
+      -118.1114573
     ], 
     "desc": ""
   }, 
@@ -2400,27 +1602,6 @@
     ], 
     "desc": ""
   }, 
-  "Butterfield Stage Station": {
-    "coord": [
-      33.2344834, 
-      -116.643075
-    ], 
-    "desc": ""
-  }, 
-  "Low Park": {
-    "coord": [
-      33.9472376, 
-      -117.4008786
-    ], 
-    "desc": ""
-  }, 
-  "Skylark Park": {
-    "coord": [
-      33.1944809, 
-      -117.3480937
-    ], 
-    "desc": ""
-  }, 
   "Admiral Kidd Park": {
     "coord": [
       33.7955732, 
@@ -2428,24 +1609,10 @@
     ], 
     "desc": ""
   }, 
-  "Bordwell Park": {
-    "coord": [
-      33.9669599, 
-      -117.3561552
-    ], 
-    "desc": ""
-  }, 
   "Wingate Park": {
     "coord": [
       34.0930647, 
       -117.8656166
-    ], 
-    "desc": ""
-  }, 
-  "Lions Field": {
-    "coord": [
-      32.985601, 
-      -115.538045
     ], 
     "desc": ""
   }, 
@@ -2477,13 +1644,6 @@
     ], 
     "desc": ""
   }, 
-  "Willowbrook Park": {
-    "coord": [
-      34.2688919, 
-      -118.7773151
-    ], 
-    "desc": ""
-  }, 
   "Penmar Recreation Center": {
     "coord": [
       34.006122, 
@@ -2495,20 +1655,6 @@
     "coord": [
       33.6602986, 
       -117.818944
-    ], 
-    "desc": ""
-  }, 
-  "Modjeska Community Park": {
-    "coord": [
-      33.7102973, 
-      -117.6247714
-    ], 
-    "desc": ""
-  }, 
-  "Rialto Park": {
-    "coord": [
-      34.1019557, 
-      -117.3781015
     ], 
     "desc": ""
   }, 
@@ -2547,20 +1693,6 @@
     ], 
     "desc": ""
   }, 
-  "Nestor Park": {
-    "coord": [
-      32.5708894, 
-      -117.0800277
-    ], 
-    "desc": ""
-  }, 
-  "Belcher Park": {
-    "coord": [
-      34.1269554, 
-      -117.23393
-    ], 
-    "desc": ""
-  }, 
   "Stoner Recreation Center": {
     "coord": [
       34.0380655, 
@@ -2575,13 +1707,6 @@
     ], 
     "desc": ""
   }, 
-  "Hulaville State Historic Landmark": {
-    "coord": [
-      34.4480537, 
-      -117.3653243
-    ], 
-    "desc": ""
-  }, 
   "Wilderness Basin Park": {
     "coord": [
       34.0797325, 
@@ -2593,20 +1718,6 @@
     "coord": [
       34.1291764, 
       -117.5294957
-    ], 
-    "desc": ""
-  }, 
-  "L C Bandell Park": {
-    "coord": [
-      32.6892186, 
-      -117.1880894
-    ], 
-    "desc": ""
-  }, 
-  "Pleasant Valley Park": {
-    "coord": [
-      34.2283379, 
-      -119.0292688
     ], 
     "desc": ""
   }, 
@@ -2638,31 +1749,10 @@
     ], 
     "desc": ""
   }, 
-  "Firemens Park": {
-    "coord": [
-      32.7394961, 
-      -117.0297504
-    ], 
-    "desc": ""
-  }, 
-  "Declez Ranch-Pagliuso Winery Historic Site": {
-    "coord": [
-      34.0475123, 
-      -117.4797714
-    ], 
-    "desc": ""
-  }, 
   "Pinewood Park": {
     "coord": [
       33.821682, 
       -118.0242292
-    ], 
-    "desc": ""
-  }, 
-  "Palos Verde Park": {
-    "coord": [
-      0.0, 
-      0.0
     ], 
     "desc": ""
   }, 
@@ -2701,13 +1791,6 @@
     ], 
     "desc": ""
   }, 
-  "River View Park": {
-    "coord": [
-      32.8472719, 
-      -116.9325268
-    ], 
-    "desc": ""
-  }, 
   "Willow Park": {
     "coord": [
       33.82446, 
@@ -2726,13 +1809,6 @@
     "coord": [
       33.8269604, 
       -118.3425732
-    ], 
-    "desc": ""
-  }, 
-  "Vetter Park": {
-    "coord": [
-      32.6844966, 
-      -117.1708664
     ], 
     "desc": ""
   }, 
@@ -2806,20 +1882,6 @@
     ], 
     "desc": ""
   }, 
-  "Bill Beck City Park": {
-    "coord": [
-      32.8019949, 
-      -116.9769718
-    ], 
-    "desc": ""
-  }, 
-  "Rose Canyon Open Space": {
-    "coord": [
-      32.8478254, 
-      -117.2314251
-    ], 
-    "desc": ""
-  }, 
   "De Neve Square": {
     "coord": [
       34.0847308, 
@@ -2841,20 +1903,6 @@
     ], 
     "desc": ""
   }, 
-  "Sherbourne Park": {
-    "coord": [
-      33.1964256, 
-      -117.2939257
-    ], 
-    "desc": ""
-  }, 
-  "Bass Sports Center": {
-    "coord": [
-      34.469721, 
-      -117.1883758
-    ], 
-    "desc": ""
-  }, 
   "Friedman Field": {
     "coord": [
       34.1947222, 
@@ -2869,13 +1917,6 @@
     ], 
     "desc": ""
   }, 
-  "Dateland Park": {
-    "coord": [
-      33.6739116, 
-      -116.1747274
-    ], 
-    "desc": ""
-  }, 
   "Slauson Park": {
     "coord": [
       34.1302855, 
@@ -2883,24 +1924,10 @@
     ], 
     "desc": ""
   }, 
-  "Dellman Heights Park": {
-    "coord": [
-      34.1444545, 
-      -117.3272668
-    ], 
-    "desc": ""
-  }, 
   "Edgar Park": {
     "coord": [
       33.7769606, 
       -118.0267283
-    ], 
-    "desc": ""
-  }, 
-  "Tecolote Park": {
-    "coord": [
-      32.7736606, 
-      -117.1997573
     ], 
     "desc": ""
   }, 
@@ -2946,13 +1973,6 @@
     ], 
     "desc": ""
   }, 
-  "Pan American Plaza": {
-    "coord": [
-      32.7275511, 
-      -117.1530884
-    ], 
-    "desc": ""
-  }, 
   "Huntington Beach State Park": {
     "coord": [
       33.6383534, 
@@ -2960,17 +1980,10 @@
     ], 
     "desc": ""
   }, 
-  "Camino Real Park": {
+  "Jerome Park": {
     "coord": [
-      34.2686144, 
-      -119.2342764
-    ], 
-    "desc": ""
-  }, 
-  "Allied Gardens Community Park": {
-    "coord": [
-      32.7953276, 
-      -117.0814197
+      33.7358509, 
+      -117.8967236
     ], 
     "desc": ""
   }, 
@@ -2978,13 +1991,6 @@
     "coord": [
       33.5903015, 
       -117.6906071
-    ], 
-    "desc": ""
-  }, 
-  "Keiller Park": {
-    "coord": [
-      32.713108, 
-      -117.0416949
     ], 
     "desc": ""
   }, 
@@ -2999,13 +2005,6 @@
     "coord": [
       34.1486182, 
       -118.1481267
-    ], 
-    "desc": ""
-  }, 
-  "Wonderland Amusement Park (historical)": {
-    "coord": [
-      32.7528274, 
-      -117.2494814
     ], 
     "desc": ""
   }, 
@@ -3030,20 +2029,6 @@
     ], 
     "desc": ""
   }, 
-  "Wister Waterfowl Management Area": {
-    "coord": [
-      33.2839243, 
-      -115.589989
-    ], 
-    "desc": ""
-  }, 
-  "Quail Park Botanical Garden": {
-    "coord": [
-      33.0533751, 
-      -117.280037
-    ], 
-    "desc": ""
-  }, 
   "Los Amigos Park": {
     "coord": [
       34.0055661, 
@@ -3065,13 +2050,6 @@
     ], 
     "desc": ""
   }, 
-  "Roadrunner Park": {
-    "coord": [
-      32.8181047, 
-      -117.1025318
-    ], 
-    "desc": ""
-  }, 
   "Riverdale Park": {
     "coord": [
       33.8527933, 
@@ -3083,6 +2061,13 @@
     "coord": [
       34.072786, 
       -118.5081372
+    ], 
+    "desc": ""
+  }, 
+  "Madison Park": {
+    "coord": [
+      34.0466778, 
+      -117.752557
     ], 
     "desc": ""
   }, 
@@ -3114,24 +2099,10 @@
     ], 
     "desc": ""
   }, 
-  "Pala Road Park": {
+  "Cahuilla Park": {
     "coord": [
-      33.4750288, 
-      -117.1275308
-    ], 
-    "desc": ""
-  }, 
-  "Houghton Schreiber Park": {
-    "coord": [
-      34.2938907, 
-      -118.7114797
-    ], 
-    "desc": ""
-  }, 
-  "Hellhole Canyon County Open Space Preserve": {
-    "coord": [
-      33.2272596, 
-      -116.9272492
+      34.1152778, 
+      -117.7225
     ], 
     "desc": ""
   }, 
@@ -3163,17 +2134,10 @@
     ], 
     "desc": ""
   }, 
-  "Collier Park": {
+  "Botanical Gardens": {
     "coord": [
-      32.7481055, 
-      -117.2353141
-    ], 
-    "desc": ""
-  }, 
-  "Riverside Sports Organization Complex": {
-    "coord": [
-      34.0125145, 
-      -117.3564336
+      34.1319521, 
+      -118.11507
     ], 
     "desc": ""
   }, 
@@ -3191,31 +2155,10 @@
     ], 
     "desc": ""
   }, 
-  "South Bay Marine Biological Study Area": {
-    "coord": [
-      32.6036659, 
-      -117.1233634
-    ], 
-    "desc": ""
-  }, 
   "La Verne Recreation Park": {
     "coord": [
       34.1016759, 
       -117.7820027
-    ], 
-    "desc": ""
-  }, 
-  "Plaza de Balboa": {
-    "coord": [
-      32.7314399, 
-      -117.1469771
-    ], 
-    "desc": ""
-  }, 
-  "Caroline Park": {
-    "coord": [
-      34.0230704, 
-      -117.1586475
     ], 
     "desc": ""
   }, 
@@ -3226,10 +2169,10 @@
     ], 
     "desc": ""
   }, 
-  "Saybrook Park": {
+  "Little Tokyo Historic District": {
     "coord": [
-      34.0127906, 
-      -118.136459
+      34.050012, 
+      -118.240907
     ], 
     "desc": ""
   }, 
@@ -3268,20 +2211,6 @@
     ], 
     "desc": ""
   }, 
-  "San Carlos Recreation Center": {
-    "coord": [
-      32.7983835, 
-      -117.0216953
-    ], 
-    "desc": ""
-  }, 
-  "San Jacinto River Park": {
-    "coord": [
-      33.8191854, 
-      -116.9708579
-    ], 
-    "desc": ""
-  }, 
   "McFadden Park": {
     "coord": [
       33.8605707, 
@@ -3307,13 +2236,6 @@
     "coord": [
       34.223338, 
       -118.9859338
-    ], 
-    "desc": ""
-  }, 
-  "Timberlane Park": {
-    "coord": [
-      34.4230557, 
-      -117.2705999
     ], 
     "desc": ""
   }, 
@@ -3352,24 +2274,10 @@
     ], 
     "desc": ""
   }, 
-  "Balboa Park": {
-    "coord": [
-      32.7317177, 
-      -117.1469771
-    ], 
-    "desc": ""
-  }, 
   "Old Orchard Park": {
     "coord": [
       34.3799978, 
       -118.5478639
-    ], 
-    "desc": ""
-  }, 
-  "Fred H Rohr Elementary School": {
-    "coord": [
-      32.6650538, 
-      -117.0350272
     ], 
     "desc": ""
   }, 
@@ -3387,13 +2295,6 @@
     ], 
     "desc": ""
   }, 
-  "Wabash Park": {
-    "coord": [
-      32.7494951, 
-      -117.1208652
-    ], 
-    "desc": ""
-  }, 
   "Reggie Rodriguez Park": {
     "coord": [
       34.001124, 
@@ -3408,10 +2309,10 @@
     ], 
     "desc": ""
   }, 
-  "Clarkdale Park": {
+  "Watts Senior Center": {
     "coord": [
-      33.828349, 
-      -118.0795092
+      33.9461264, 
+      -118.2439616
     ], 
     "desc": ""
   }, 
@@ -3419,13 +2320,6 @@
     "coord": [
       34.1419517, 
       -118.1250704
-    ], 
-    "desc": ""
-  }, 
-  "Hidden Springs Community Park": {
-    "coord": [
-      33.9733497, 
-      -117.2642076
     ], 
     "desc": ""
   }, 
@@ -3457,24 +2351,17 @@
     ], 
     "desc": ""
   }, 
+  "North Oaks Park": {
+    "coord": [
+      34.4277736, 
+      -118.4753615
+    ], 
+    "desc": ""
+  }, 
   "Pelanconi Park": {
     "coord": [
       33.8475158, 
       -117.7956112
-    ], 
-    "desc": ""
-  }, 
-  "De Forest Park": {
-    "coord": [
-      0.0, 
-      0.0
-    ], 
-    "desc": ""
-  }, 
-  "Los Puertecitos Historical Marker": {
-    "coord": [
-      33.1397678, 
-      -116.1047287
     ], 
     "desc": ""
   }, 
@@ -3506,17 +2393,10 @@
     ], 
     "desc": ""
   }, 
-  "Dennis the Menace Park": {
+  "Taxco Trails Park": {
     "coord": [
-      33.9564027, 
-      -118.1114573
-    ], 
-    "desc": ""
-  }, 
-  "Knoll Park": {
-    "coord": [
-      34.0789015, 
-      -117.3017098
+      34.2125043, 
+      -118.6370326
     ], 
     "desc": ""
   }, 
@@ -3541,24 +2421,10 @@
     ], 
     "desc": ""
   }, 
-  "Cadman Park and Recreation Center": {
-    "coord": [
-      32.8203261, 
-      -117.2150356
-    ], 
-    "desc": ""
-  }, 
   "New York Park": {
     "coord": [
       34.2330593, 
       -118.253409
-    ], 
-    "desc": ""
-  }, 
-  "Don Lorenzi Park": {
-    "coord": [
-      33.9311264, 
-      -117.4461578
     ], 
     "desc": ""
   }, 
@@ -3573,13 +2439,6 @@
     "coord": [
       33.8975143, 
       -117.8925598
-    ], 
-    "desc": ""
-  }, 
-  "Louise Leydon Park": {
-    "coord": [
-      33.4619722, 
-      -117.6772733
     ], 
     "desc": ""
   }, 
@@ -3604,27 +2463,6 @@
     ], 
     "desc": ""
   }, 
-  "Spring Valley County Park": {
-    "coord": [
-      32.7064417, 
-      -117.0075268
-    ], 
-    "desc": ""
-  }, 
-  "Angels Stadium": {
-    "coord": [
-      33.8180745, 
-      -116.5264032
-    ], 
-    "desc": ""
-  }, 
-  "Good Neighbors Park": {
-    "coord": [
-      33.499471, 
-      -117.6667176
-    ], 
-    "desc": ""
-  }, 
   "Acuna Park": {
     "coord": [
       34.0219566, 
@@ -3636,13 +2474,6 @@
     "coord": [
       34.4399952, 
       -118.1978527
-    ], 
-    "desc": ""
-  }, 
-  "Rancho Loma Park": {
-    "coord": [
-      33.9041821, 
-      -117.4856031
     ], 
     "desc": ""
   }, 
@@ -3709,13 +2540,6 @@
     ], 
     "desc": ""
   }, 
-  "Oak Riparian Park": {
-    "coord": [
-      33.1764264, 
-      -117.2694806
-    ], 
-    "desc": ""
-  }, 
   "Founders Memorial Park": {
     "coord": [
       33.9866793, 
@@ -3737,20 +2561,6 @@
     ], 
     "desc": ""
   }, 
-  "Mesa Viking Park": {
-    "coord": [
-      32.926435, 
-      -117.1364224
-    ], 
-    "desc": ""
-  }, 
-  "Deputy Lonnie G Brewer County Park": {
-    "coord": [
-      32.7508855, 
-      -116.9589151
-    ], 
-    "desc": ""
-  }, 
   "East Wilmington Park": {
     "coord": [
       33.7927958, 
@@ -3765,31 +2575,10 @@
     ], 
     "desc": ""
   }, 
-  "Evans Park": {
+  "Euclid Park": {
     "coord": [
-      32.8439419, 
-      -115.5655501
-    ], 
-    "desc": ""
-  }, 
-  "Southwest Park": {
-    "coord": [
-      33.7125216, 
-      -117.0128031
-    ], 
-    "desc": ""
-  }, 
-  "Sycamore Canyon Open Space Preserve": {
-    "coord": [
-      32.9192138, 
-      -116.9805847
-    ], 
-    "desc": ""
-  }, 
-  "Aztec Bowl": {
-    "coord": [
-      32.7742171, 
-      -117.0744748
+      33.7772385, 
+      -117.9403365
     ], 
     "desc": ""
   }, 
@@ -3800,10 +2589,10 @@
     ], 
     "desc": ""
   }, 
-  "Jackie Robinson Park": {
+  "Asilomar Park": {
     "coord": [
-      34.1633398, 
-      -118.1503491
+      34.0397311, 
+      -118.5373039
     ], 
     "desc": ""
   }, 
@@ -3835,24 +2624,10 @@
     ], 
     "desc": ""
   }, 
-  "Mack Park": {
+  "Crown Valley Community Park": {
     "coord": [
-      32.8153273, 
-      -115.3666524
-    ], 
-    "desc": ""
-  }, 
-  "Kaiser Park": {
-    "coord": [
-      34.0808446, 
-      -117.4911609
-    ], 
-    "desc": ""
-  }, 
-  "Stagecoach Park": {
-    "coord": [
-      33.0769856, 
-      -117.2378135
+      33.5308592, 
+      -117.7106082
     ], 
     "desc": ""
   }, 
@@ -3863,10 +2638,10 @@
     ], 
     "desc": ""
   }, 
-  "Parque Culiacan": {
+  "Leonard Park": {
     "coord": [
-      33.8939026, 
-      -118.4167425
+      33.7750168, 
+      -117.8795013
     ], 
     "desc": ""
   }, 
@@ -3919,31 +2694,10 @@
     ], 
     "desc": ""
   }, 
-  "Living Desert Reserve": {
-    "coord": [
-      33.6958564, 
-      -116.3702889
-    ], 
-    "desc": ""
-  }, 
-  "Fanita Ranch Sports Complex": {
-    "coord": [
-      32.8631041, 
-      -116.9975289
-    ], 
-    "desc": ""
-  }, 
   "Heath Ranch Park": {
     "coord": [
       34.4074948, 
       -119.5231791
-    ], 
-    "desc": ""
-  }, 
-  "McVicker Park": {
-    "coord": [
-      33.6864096, 
-      -117.397264
     ], 
     "desc": ""
   }, 
@@ -3989,24 +2743,10 @@
     ], 
     "desc": ""
   }, 
-  "Sunnymead Park": {
-    "coord": [
-      33.9366837, 
-      -117.2289277
-    ], 
-    "desc": ""
-  }, 
   "Granada Park": {
     "coord": [
       33.5689132, 
       -117.6694953
-    ], 
-    "desc": ""
-  }, 
-  "Mount Etna Park": {
-    "coord": [
-      32.8222706, 
-      -117.1908681
     ], 
     "desc": ""
   }, 
@@ -4059,13 +2799,6 @@
     ], 
     "desc": ""
   }, 
-  "Myra Linn Park": {
-    "coord": [
-      33.9219596, 
-      -117.473103
-    ], 
-    "desc": ""
-  }, 
   "Butterfield Stage Station Historical Marker": {
     "coord": [
       33.8194613, 
@@ -4077,20 +2810,6 @@
     "coord": [
       33.7302962, 
       -118.3161828
-    ], 
-    "desc": ""
-  }, 
-  "Sweetwater Marsh National Wildlife Refuge": {
-    "coord": [
-      32.6403317, 
-      -117.1111412
-    ], 
-    "desc": ""
-  }, 
-  "Motte Rimrock State Reserve": {
-    "coord": [
-      33.8005747, 
-      -117.2553159
     ], 
     "desc": ""
   }, 
@@ -4129,10 +2848,10 @@
     ], 
     "desc": ""
   }, 
-  "Solana Beach County Park": {
+  "Fountain Valley Park": {
     "coord": [
-      32.9944882, 
-      -117.2753148
+      33.7044625, 
+      -117.9639478
     ], 
     "desc": ""
   }, 
@@ -4154,13 +2873,6 @@
     "coord": [
       34.0919544, 
       -118.2670193
-    ], 
-    "desc": ""
-  }, 
-  "Tijuana River National Estuarine Research Reserve": {
-    "coord": [
-      32.5556118, 
-      -117.1228071
     ], 
     "desc": ""
   }, 
@@ -4199,24 +2911,10 @@
     ], 
     "desc": ""
   }, 
-  "Thurman Flats Picnic Area": {
+  "Stanton Park": {
     "coord": [
-      34.1039005, 
-      -117.0119763
-    ], 
-    "desc": ""
-  }, 
-  "North Bluff Preserve": {
-    "coord": [
-      32.9780999, 
-      -117.2708703
-    ], 
-    "desc": ""
-  }, 
-  "Industry Hills Recreation Center": {
-    "coord": [
-      34.025289, 
-      -117.9397858
+      33.7994599, 
+      -117.9947832
     ], 
     "desc": ""
   }, 
@@ -4234,13 +2932,6 @@
     ], 
     "desc": ""
   }, 
-  "Bucklin Park": {
-    "coord": [
-      32.7797784, 
-      -115.5624962
-    ], 
-    "desc": ""
-  }, 
   "Golden View Park": {
     "coord": [
       33.7122399, 
@@ -4255,10 +2946,10 @@
     ], 
     "desc": ""
   }, 
-  "Clay Park": {
+  "Soule Recreation Area": {
     "coord": [
-      32.7631065, 
-      -117.0597519
+      34.439161, 
+      -119.2409445
     ], 
     "desc": ""
   }, 
@@ -4266,13 +2957,6 @@
     "coord": [
       33.7222396, 
       -118.0231164
-    ], 
-    "desc": ""
-  }, 
-  "Pacific Beach Community Park": {
-    "coord": [
-      32.8008819, 
-      -117.2442033
     ], 
     "desc": ""
   }, 
@@ -4294,20 +2978,6 @@
     "coord": [
       33.5139156, 
       -117.7544989
-    ], 
-    "desc": ""
-  }, 
-  "Laguna Riviera City Park": {
-    "coord": [
-      33.146705, 
-      -117.3117041
-    ], 
-    "desc": ""
-  }, 
-  "Marcy Park": {
-    "coord": [
-      32.8453254, 
-      -117.2272582
     ], 
     "desc": ""
   }, 
@@ -4353,20 +3023,6 @@
     ], 
     "desc": ""
   }, 
-  "Crown Valley Community Park": {
-    "coord": [
-      33.5308592, 
-      -117.7106082
-    ], 
-    "desc": ""
-  }, 
-  "Vickroy Park": {
-    "coord": [
-      34.1861166, 
-      -118.3373005
-    ], 
-    "desc": ""
-  }, 
   "Lagos De Moreno Park": {
     "coord": [
       33.917236, 
@@ -4378,20 +3034,6 @@
     "coord": [
       34.2394488, 
       -119.0212131
-    ], 
-    "desc": ""
-  }, 
-  "Tequesquito Arroyo Park": {
-    "coord": [
-      33.975015, 
-      -117.3944899
-    ], 
-    "desc": ""
-  }, 
-  "Del Mar Trails Park": {
-    "coord": [
-      32.9433787, 
-      -117.2189246
     ], 
     "desc": ""
   }, 
@@ -4430,20 +3072,6 @@
     ], 
     "desc": ""
   }, 
-  "Briercrest Park": {
-    "coord": [
-      32.7814397, 
-      -117.0036389
-    ], 
-    "desc": ""
-  }, 
-  "Lake Skinner County Park": {
-    "coord": [
-      33.5889148, 
-      -117.0533609
-    ], 
-    "desc": ""
-  }, 
   "Westcliff Park": {
     "coord": [
       33.6222436, 
@@ -4465,31 +3093,10 @@
     ], 
     "desc": ""
   }, 
-  "Moyse Stadium": {
-    "coord": [
-      34.1441667, 
-      -118.2316667
-    ], 
-    "desc": ""
-  }, 
   "Ridgeview Park": {
     "coord": [
       33.5419699, 
       -117.7225531
-    ], 
-    "desc": ""
-  }, 
-  "Leonard Park": {
-    "coord": [
-      33.7750168, 
-      -117.8795013
-    ], 
-    "desc": ""
-  }, 
-  "Sweetwater Regional Park": {
-    "coord": [
-      32.674498, 
-      -117.0205823
     ], 
     "desc": ""
   }, 
@@ -4521,13 +3128,6 @@
     ], 
     "desc": ""
   }, 
-  "Mount Vernon Park": {
-    "coord": [
-      33.9850157, 
-      -117.3150429
-    ], 
-    "desc": ""
-  }, 
   "Ranchwood Park": {
     "coord": [
       33.6347444, 
@@ -4549,13 +3149,6 @@
     ], 
     "desc": ""
   }, 
-  "Princess del Seno Park": {
-    "coord": [
-      32.7892168, 
-      -117.067808
-    ], 
-    "desc": ""
-  }, 
   "Arthur Gerdes Park": {
     "coord": [
       33.896959, 
@@ -4563,10 +3156,10 @@
     ], 
     "desc": ""
   }, 
-  "Imperial Highway Monument": {
+  "Bell Park": {
     "coord": [
-      32.7897797, 
-      -116.1033479
+      33.8975154, 
+      -118.3020178
     ], 
     "desc": ""
   }, 
@@ -4591,45 +3184,10 @@
     ], 
     "desc": ""
   }, 
-  "Carmel Creek Park": {
-    "coord": [
-      32.9489341, 
-      -117.2217024
-    ], 
-    "desc": ""
-  }, 
-  "De Anza Cycle Park": {
-    "coord": [
-      33.9514052, 
-      -117.0958654
-    ], 
-    "desc": ""
-  }, 
-  "Matthews Quadrangle": {
-    "coord": [
-      32.8789, 
-      -117.2353
-    ], 
-    "desc": ""
-  }, 
-  "Warne Field": {
-    "coord": [
-      32.985601, 
-      -115.5405451
-    ], 
-    "desc": ""
-  }, 
   "Santa Monica Mountains National Recreation Area": {
     "coord": [
       34.0666735, 
       -118.734254
-    ], 
-    "desc": ""
-  }, 
-  "Fontana Bird Park": {
-    "coord": [
-      34.0400125, 
-      -117.4831048
     ], 
     "desc": ""
   }, 
@@ -4647,66 +3205,10 @@
     ], 
     "desc": ""
   }, 
-  "Alyce Gereaux Park": {
-    "coord": [
-      32.9853227, 
-      -115.5191552
-    ], 
-    "desc": ""
-  }, 
-  "Montezuma Park": {
-    "coord": [
-      32.7689396, 
-      -117.0614187
-    ], 
-    "desc": ""
-  }, 
-  "Boden Field": {
-    "coord": [
-      33.3825341, 
-      -116.6647416
-    ], 
-    "desc": ""
-  }, 
-  "Clays One Thousand Ranch Park": {
-    "coord": [
-      33.9722364, 
-      -117.475326
-    ], 
-    "desc": ""
-  }, 
-  "Magnesia Canyon Ecological Reserve": {
-    "coord": [
-      33.7278001, 
-      -116.4425132
-    ], 
-    "desc": ""
-  }, 
-  "Calavera Park": {
-    "coord": [
-      33.1628156, 
-      -117.301426
-    ], 
-    "desc": ""
-  }, 
   "Bassett Park": {
     "coord": [
       34.051399, 
       -117.9867319
-    ], 
-    "desc": ""
-  }, 
-  "Sunrise Plaza": {
-    "coord": [
-      33.8177967, 
-      -116.5261254
-    ], 
-    "desc": ""
-  }, 
-  "Evenstar Park": {
-    "coord": [
-      34.1522278, 
-      -118.835371
     ], 
     "desc": ""
   }, 
@@ -4717,17 +3219,10 @@
     ], 
     "desc": ""
   }, 
-  "Grout Bay Recreation Area": {
+  "Pixley Park": {
     "coord": [
-      34.264451, 
-      -116.9480899
-    ], 
-    "desc": ""
-  }, 
-  "Loma Park": {
-    "coord": [
-      34.4988867, 
-      -117.1964318
+      33.9911252, 
+      -118.1995162
     ], 
     "desc": ""
   }, 
@@ -4735,13 +3230,6 @@
     "coord": [
       34.0408448, 
       -118.1253475
-    ], 
-    "desc": ""
-  }, 
-  "Ocean Beach Community Park": {
-    "coord": [
-      32.7444943, 
-      -117.2461479
     ], 
     "desc": ""
   }, 
@@ -4759,17 +3247,10 @@
     ], 
     "desc": ""
   }, 
-  "Lafayette Park": {
+  "South Pasadena Historic District": {
     "coord": [
-      34.0625112, 
-      -118.2836862
-    ], 
-    "desc": ""
-  }, 
-  "Aspen Glen Picnic Area": {
-    "coord": [
-      34.2355633, 
-      -116.9269773
+      34.1152864, 
+      -118.1561824
     ], 
     "desc": ""
   }, 
@@ -4780,10 +3261,10 @@
     ], 
     "desc": ""
   }, 
-  "Arlington Park": {
+  "Waverly Park": {
     "coord": [
-      33.9214043, 
-      -117.4481021
+      34.2050048, 
+      -118.8578729
     ], 
     "desc": ""
   }, 
@@ -4801,20 +3282,6 @@
     ], 
     "desc": ""
   }, 
-  "La Jolla Park": {
-    "coord": [
-      32.8431029, 
-      -117.2772597
-    ], 
-    "desc": ""
-  }, 
-  "Mission Bay Park": {
-    "coord": [
-      32.7725493, 
-      -117.2303139
-    ], 
-    "desc": ""
-  }, 
   "Andree Clark Bird Refuge": {
     "coord": [
       34.4211077, 
@@ -4822,24 +3289,10 @@
     ], 
     "desc": ""
   }, 
-  "Calipatria Park": {
-    "coord": [
-      33.1258735, 
-      -115.5166539
-    ], 
-    "desc": ""
-  }, 
   "Chatsworth Oaks Park": {
     "coord": [
       34.2408369, 
       -118.6284219
-    ], 
-    "desc": ""
-  }, 
-  "General Roca Park": {
-    "coord": [
-      32.6494982, 
-      -117.0897515
     ], 
     "desc": ""
   }, 
@@ -4892,13 +3345,6 @@
     ], 
     "desc": ""
   }, 
-  "Holt Park": {
-    "coord": [
-      32.8119946, 
-      -115.386098
-    ], 
-    "desc": ""
-  }, 
   "Rio San Gabriel Park": {
     "coord": [
       33.9311253, 
@@ -4906,17 +3352,10 @@
     ], 
     "desc": ""
   }, 
-  "Taft Park": {
+  "Eastwood Memorial Park": {
     "coord": [
-      33.9202944, 
-      -117.3283757
-    ], 
-    "desc": ""
-  }, 
-  "Calumet Park": {
-    "coord": [
-      32.8092149, 
-      -117.2686485
+      34.214449, 
+      -119.1856631
     ], 
     "desc": ""
   }, 
@@ -4969,24 +3408,10 @@
     ], 
     "desc": ""
   }, 
-  "San Diego-La Jolla Underwater Park": {
-    "coord": [
-      32.874769, 
-      -117.2528145
-    ], 
-    "desc": ""
-  }, 
   "Baldy View Park": {
     "coord": [
       34.1047319, 
       -117.6672771
-    ], 
-    "desc": ""
-  }, 
-  "Black Mountain Park": {
-    "coord": [
-      32.9814337, 
-      -117.1167
     ], 
     "desc": ""
   }, 
@@ -5011,24 +3436,10 @@
     ], 
     "desc": ""
   }, 
-  "Bergmont Park": {
-    "coord": [
-      33.8855728, 
-      -117.3233751
-    ], 
-    "desc": ""
-  }, 
   "Hawes Park": {
     "coord": [
       33.6672415, 
       -117.9583921
-    ], 
-    "desc": ""
-  }, 
-  "Skyline Park Recreation Center": {
-    "coord": [
-      32.7056083, 
-      -117.0261386
     ], 
     "desc": ""
   }, 
@@ -5039,24 +3450,10 @@
     ], 
     "desc": ""
   }, 
-  "San Elijo State Beach": {
-    "coord": [
-      33.0247649, 
-      -117.2864262
-    ], 
-    "desc": ""
-  }, 
   "Mission Oaks Community Park": {
     "coord": [
       34.2283379, 
       -118.9909341
-    ], 
-    "desc": ""
-  }, 
-  "Anza Narrows Park": {
-    "coord": [
-      33.9658481, 
-      -117.4272688
     ], 
     "desc": ""
   }, 
@@ -5081,17 +3478,10 @@
     ], 
     "desc": ""
   }, 
-  "Marshall Street Park": {
+  "Promenade Park": {
     "coord": [
-      33.1836479, 
-      -117.3636498
-    ], 
-    "desc": ""
-  }, 
-  "Bowling Green": {
-    "coord": [
-      32.7325509, 
-      -117.1575332
+      34.2763908, 
+      -119.2967788
     ], 
     "desc": ""
   }, 
@@ -5116,13 +3506,6 @@
     ], 
     "desc": ""
   }, 
-  "Dos Picos County Park": {
-    "coord": [
-      32.9981008, 
-      -116.9389179
-    ], 
-    "desc": ""
-  }, 
   "Canada Park": {
     "coord": [
       34.2408374, 
@@ -5130,31 +3513,10 @@
     ], 
     "desc": ""
   }, 
-  "Serra Mesa Recreation Center": {
-    "coord": [
-      32.8056048, 
-      -117.1330882
-    ], 
-    "desc": ""
-  }, 
   "Point Dume State Beach": {
     "coord": [
       34.0027857, 
       -118.805089
-    ], 
-    "desc": ""
-  }, 
-  "Laguna Lake Park": {
-    "coord": [
-      33.9030695, 
-      -117.9392281
-    ], 
-    "desc": ""
-  }, 
-  "Otay Lake County Park": {
-    "coord": [
-      32.6064457, 
-      -116.930301
     ], 
     "desc": ""
   }, 
@@ -5221,17 +3583,10 @@
     ], 
     "desc": ""
   }, 
-  "Glen Alla Park": {
+  "Flower Street Park": {
     "coord": [
-      33.9841785, 
-      -118.4314668
-    ], 
-    "desc": ""
-  }, 
-  "Cactus City Rest Area": {
-    "coord": [
-      33.6783539, 
-      -115.9641647
+      33.7450175, 
+      -117.8756119
     ], 
     "desc": ""
   }, 
@@ -5246,20 +3601,6 @@
     "coord": [
       33.6986301, 
       -117.879501
-    ], 
-    "desc": ""
-  }, 
-  "Irving Park": {
-    "coord": [
-      32.8542194, 
-      -115.5749947
-    ], 
-    "desc": ""
-  }, 
-  "University Village Park": {
-    "coord": [
-      32.8611586, 
-      -117.1914238
     ], 
     "desc": ""
   }, 
@@ -5284,13 +3625,6 @@
     ], 
     "desc": ""
   }, 
-  "Heritage Village Park": {
-    "coord": [
-      33.2328131, 
-      -117.3222596
-    ], 
-    "desc": ""
-  }, 
   "La Hermosa Park": {
     "coord": [
       33.5255816, 
@@ -5305,31 +3639,10 @@
     ], 
     "desc": ""
   }, 
-  "Highwood Park": {
-    "coord": [
-      32.7547735, 
-      -117.0280839
-    ], 
-    "desc": ""
-  }, 
-  "Dailard Park": {
-    "coord": [
-      32.8064386, 
-      -117.0533632
-    ], 
-    "desc": ""
-  }, 
   "Holmby Park": {
     "coord": [
       34.0727868, 
       -118.4295239
-    ], 
-    "desc": ""
-  }, 
-  "Reama Park": {
-    "coord": [
-      32.5786666, 
-      -117.1294744
     ], 
     "desc": ""
   }, 
@@ -5410,13 +3723,6 @@
     ], 
     "desc": ""
   }, 
-  "Sabre Springs Park": {
-    "coord": [
-      32.9503235, 
-      -117.0966993
-    ], 
-    "desc": ""
-  }, 
   "Morgan Park": {
     "coord": [
       34.0869533, 
@@ -5428,13 +3734,6 @@
     "coord": [
       33.8597376, 
       -118.1033997
-    ], 
-    "desc": ""
-  }, 
-  "Moreno Valley Community Park": {
-    "coord": [
-      33.9255727, 
-      -117.2605957
     ], 
     "desc": ""
   }, 
@@ -5473,10 +3772,10 @@
     ], 
     "desc": ""
   }, 
-  "Colton Plunge Park": {
+  "High Ridge Park": {
     "coord": [
-      34.0702906, 
-      -117.3142102
+      33.7669609, 
+      -118.3822952
     ], 
     "desc": ""
   }, 
@@ -5484,13 +3783,6 @@
     "coord": [
       34.1352855, 
       -118.1561825
-    ], 
-    "desc": ""
-  }, 
-  "Sea World Aquatic Park": {
-    "coord": [
-      32.7661606, 
-      -117.2289251
     ], 
     "desc": ""
   }, 
@@ -5508,24 +3800,10 @@
     ], 
     "desc": ""
   }, 
-  "Encino Public Fishing Area": {
-    "coord": [
-      33.1425383, 
-      -117.3392048
-    ], 
-    "desc": ""
-  }, 
   "Costeau Park": {
     "coord": [
       33.5989123, 
       -117.6914405
-    ], 
-    "desc": ""
-  }, 
-  "Almendra Park": {
-    "coord": [
-      34.4005526, 
-      -118.5442526
     ], 
     "desc": ""
   }, 
@@ -5545,8 +3823,8 @@
   }, 
   "Library Park": {
     "coord": [
-      32.6417208, 
-      -117.08364
+      34.1486176, 
+      -118.0022882
     ], 
     "desc": ""
   }, 
@@ -5554,13 +3832,6 @@
     "coord": [
       33.986124, 
       -118.3595205
-    ], 
-    "desc": ""
-  }, 
-  "Buckboard Park": {
-    "coord": [
-      34.1819531, 
-      -117.3453232
     ], 
     "desc": ""
   }, 
@@ -5578,13 +3849,6 @@
     ], 
     "desc": ""
   }, 
-  "Black Mountain Open Space": {
-    "coord": [
-      32.9900446, 
-      -117.1133667
-    ], 
-    "desc": ""
-  }, 
   "Flora Vista Park": {
     "coord": [
       33.8791818, 
@@ -5592,10 +3856,10 @@
     ], 
     "desc": ""
   }, 
-  "Picacho State Recreation Area": {
+  "Eagle View Park": {
     "coord": [
-      33.0339285, 
-      -114.6727342
+      34.1925048, 
+      -118.7756471
     ], 
     "desc": ""
   }, 
@@ -5613,13 +3877,6 @@
     ], 
     "desc": ""
   }, 
-  "Lawler Park": {
-    "coord": [
-      33.7952967, 
-      -116.7464071
-    ], 
-    "desc": ""
-  }, 
   "Fernangeles Recreation Center": {
     "coord": [
       34.2288926, 
@@ -5631,13 +3888,6 @@
     "coord": [
       33.8483502, 
       -118.2622941
-    ], 
-    "desc": ""
-  }, 
-  "Encinitas Viewpoint Park": {
-    "coord": [
-      33.0467086, 
-      -117.2905928
     ], 
     "desc": ""
   }, 
@@ -5669,20 +3919,6 @@
     ], 
     "desc": ""
   }, 
-  "Doane Valley Natural Preserve": {
-    "coord": [
-      33.3492007, 
-      -116.9111365
-    ], 
-    "desc": ""
-  }, 
-  "Montgomery County Park": {
-    "coord": [
-      32.5783892, 
-      -117.0697496
-    ], 
-    "desc": ""
-  }, 
   "Arroyo Seco Park": {
     "coord": [
       34.1097312, 
@@ -5692,15 +3928,8 @@
   }, 
   "Hoffman Park": {
     "coord": [
-      33.7814084, 
-      -116.9594683
-    ], 
-    "desc": ""
-  }, 
-  "South Riverside Avenue Park": {
-    "coord": [
-      34.078901, 
-      -117.3686567
+      34.0730661, 
+      -117.6914443
     ], 
     "desc": ""
   }, 
@@ -5713,29 +3942,8 @@
   }, 
   "Sierra Park": {
     "coord": [
-      33.6964102, 
-      -117.2592038
-    ], 
-    "desc": ""
-  }, 
-  "Red Cross Park": {
-    "coord": [
-      32.7975508, 
-      -116.9628046
-    ], 
-    "desc": ""
-  }, 
-  "Pantoja Park": {
-    "coord": [
-      32.713107, 
-      -117.1680888
-    ], 
-    "desc": ""
-  }, 
-  "Carlson Park": {
-    "coord": [
-      33.9902926, 
-      -117.3911568
+      33.7911273, 
+      -117.9183918
     ], 
     "desc": ""
   }, 
@@ -5746,24 +3954,10 @@
     ], 
     "desc": ""
   }, 
-  "Towngate Memorial Park": {
-    "coord": [
-      33.9305726, 
-      -117.2708739
-    ], 
-    "desc": ""
-  }, 
   "Carpinteria State Beach": {
     "coord": [
       34.3919395, 
       -119.5212343
-    ], 
-    "desc": ""
-  }, 
-  "Torrey Highlands Park": {
-    "coord": [
-      32.9631005, 
-      -117.2178134
     ], 
     "desc": ""
   }, 
@@ -5778,13 +3972,6 @@
     "coord": [
       33.9722363, 
       -118.1667371
-    ], 
-    "desc": ""
-  }, 
-  "Guajome Park": {
-    "coord": [
-      33.2408685, 
-      -117.2667025
     ], 
     "desc": ""
   }, 
@@ -5830,13 +4017,6 @@
     ], 
     "desc": ""
   }, 
-  "Pines Park": {
-    "coord": [
-      33.4550279, 
-      -117.6653283
-    ], 
-    "desc": ""
-  }, 
   "Valencia Park": {
     "coord": [
       33.8675144, 
@@ -5855,13 +4035,6 @@
     "coord": [
       33.7780728, 
       -118.1389552
-    ], 
-    "desc": ""
-  }, 
-  "Westview Park": {
-    "coord": [
-      32.9231019, 
-      -117.1225331
     ], 
     "desc": ""
   }, 
@@ -5907,24 +4080,10 @@
     ], 
     "desc": ""
   }, 
-  "Palomar Park": {
-    "coord": [
-      32.612833, 
-      -117.0400266
-    ], 
-    "desc": ""
-  }, 
   "Harding Park": {
     "coord": [
       34.3541659, 
       -119.0512147
-    ], 
-    "desc": ""
-  }, 
-  "Eagle View Park": {
-    "coord": [
-      34.1925048, 
-      -118.7756471
     ], 
     "desc": ""
   }, 
@@ -5935,10 +4094,10 @@
     ], 
     "desc": ""
   }, 
-  "Sunbeam Recreation Area": {
+  "Wardens Field": {
     "coord": [
-      32.783391, 
-      -115.6891674
+      34.0930658, 
+      -117.6403318
     ], 
     "desc": ""
   }, 
@@ -5956,10 +4115,17 @@
     ], 
     "desc": ""
   }, 
-  "Webb Park": {
+  "Loma Park": {
     "coord": [
-      33.0175438, 
-      -117.0778103
+      33.8722371, 
+      -118.0683986
+    ], 
+    "desc": ""
+  }, 
+  "Rio Lindo Park": {
+    "coord": [
+      34.2222267, 
+      -119.1714961
     ], 
     "desc": ""
   }, 
@@ -5977,17 +4143,10 @@
     ], 
     "desc": ""
   }, 
-  "Sumac Park": {
+  "Peninsula Park": {
     "coord": [
-      34.1594496, 
-      -118.7550901
-    ], 
-    "desc": ""
-  }, 
-  "North Jackson Park": {
-    "coord": [
-      33.7352989, 
-      -116.2183397
+      34.1694492, 
+      -119.225942
     ], 
     "desc": ""
   }, 
@@ -5995,20 +4154,6 @@
     "coord": [
       33.9208475, 
       -118.0836779
-    ], 
-    "desc": ""
-  }, 
-  "Martin Tudor-Jurupa Hills Regional Park": {
-    "coord": [
-      34.0408461, 
-      -117.438381
-    ], 
-    "desc": ""
-  }, 
-  "Fountain Valley Park": {
-    "coord": [
-      33.7044625, 
-      -117.9639478
     ], 
     "desc": ""
   }, 
@@ -6033,13 +4178,6 @@
     ], 
     "desc": ""
   }, 
-  "Parque Del Mar": {
-    "coord": [
-      33.420862, 
-      -117.6197706
-    ], 
-    "desc": ""
-  }, 
   "Happy Camp Canyon Regional Park": {
     "coord": [
       34.3383333, 
@@ -6047,38 +4185,10 @@
     ], 
     "desc": ""
   }, 
-  "Kessler Park": {
-    "coord": [
-      34.0477907, 
-      -117.403102
-    ], 
-    "desc": ""
-  }, 
   "Madrid Fore Park": {
     "coord": [
       33.5825239, 
       -117.6692175
-    ], 
-    "desc": ""
-  }, 
-  "Joshua Tree National Park": {
-    "coord": [
-      33.9166757, 
-      -115.9174968
-    ], 
-    "desc": ""
-  }, 
-  "Abolitos Park": {
-    "coord": [
-      32.9833782, 
-      -117.0600321
-    ], 
-    "desc": ""
-  }, 
-  "Calafia Beach County Park": {
-    "coord": [
-      33.4061402, 
-      -117.605881
     ], 
     "desc": ""
   }, 
@@ -6131,17 +4241,10 @@
     ], 
     "desc": ""
   }, 
-  "Salee Park": {
+  "Palm Lane Park": {
     "coord": [
-      33.7902971, 
-      -116.961413
-    ], 
-    "desc": ""
-  }, 
-  "Verdugo Park": {
-    "coord": [
-      34.1716731, 
-      -118.2286854
+      33.8147378, 
+      -117.9378372
     ], 
     "desc": ""
   }, 
@@ -6243,20 +4346,6 @@
     ], 
     "desc": ""
   }, 
-  "Gazebo Park": {
-    "coord": [
-      33.4569723, 
-      -117.6692173
-    ], 
-    "desc": ""
-  }, 
-  "Meadowbrook Recreation Park": {
-    "coord": [
-      34.1000119, 
-      -117.283376
-    ], 
-    "desc": ""
-  }, 
   "Dockweiler Beach State Park": {
     "coord": [
       33.9222351, 
@@ -6285,24 +4374,10 @@
     ], 
     "desc": ""
   }, 
-  "Monte Vista Nature Park": {
-    "coord": [
-      34.26667, 
-      -118.8695409
-    ], 
-    "desc": ""
-  }, 
   "Acorn Acres Park": {
     "coord": [
       34.2138935, 
       -118.8720403
-    ], 
-    "desc": ""
-  }, 
-  "Gibbel Park": {
-    "coord": [
-      33.7480759, 
-      -116.9986357
     ], 
     "desc": ""
   }, 
@@ -6317,13 +4392,6 @@
     "coord": [
       34.231948, 
       -118.4236933
-    ], 
-    "desc": ""
-  }, 
-  "Tide Beach County Park": {
-    "coord": [
-      32.9978215, 
-      -117.2761482
     ], 
     "desc": ""
   }, 
@@ -6355,24 +4423,10 @@
     ], 
     "desc": ""
   }, 
-  "Point Loma Ecological Reserve": {
-    "coord": [
-      32.6944957, 
-      -117.2550366
-    ], 
-    "desc": ""
-  }, 
   "Six Flags Magic Mountain": {
     "coord": [
       34.4272181, 
       -118.5995318
-    ], 
-    "desc": ""
-  }, 
-  "Libby Lake City Park": {
-    "coord": [
-      33.2517014, 
-      -117.3067035
     ], 
     "desc": ""
   }, 
@@ -6411,24 +4465,10 @@
     ], 
     "desc": ""
   }, 
-  "Nichols Park": {
-    "coord": [
-      33.9577928, 
-      -117.4242129
-    ], 
-    "desc": ""
-  }, 
   "Yorba Regional Park": {
     "coord": [
       33.8702932, 
       -117.763944
-    ], 
-    "desc": ""
-  }, 
-  "Evergreen Playground": {
-    "coord": [
-      34.0383456, 
-      -118.2045168
     ], 
     "desc": ""
   }, 
@@ -6443,13 +4483,6 @@
     "coord": [
       34.0311222, 
       -117.9208962
-    ], 
-    "desc": ""
-  }, 
-  "Palo Verde County Park": {
-    "coord": [
-      33.3997524, 
-      -114.724959
     ], 
     "desc": ""
   }, 
@@ -6478,13 +4511,6 @@
     "coord": [
       33.6469662, 
       -117.6894958
-    ], 
-    "desc": ""
-  }, 
-  "North Ranch Park": {
-    "coord": [
-      34.1958381, 
-      -118.820649
     ], 
     "desc": ""
   }, 
@@ -6558,13 +4584,6 @@
     ], 
     "desc": ""
   }, 
-  "Chase Field": {
-    "coord": [
-      33.1564267, 
-      -117.3405937
-    ], 
-    "desc": ""
-  }, 
   "Fern Drive Park": {
     "coord": [
       33.8777921, 
@@ -6593,10 +4612,10 @@
     ], 
     "desc": ""
   }, 
-  "Santa Clarita Park": {
+  "Parque Culiacan": {
     "coord": [
-      34.446384, 
-      -118.535641
+      33.8939026, 
+      -118.4167425
     ], 
     "desc": ""
   }, 
@@ -6628,13 +4647,6 @@
     ], 
     "desc": ""
   }, 
-  "Mendel park": {
-    "coord": [
-      34.4430554, 
-      -117.1872645
-    ], 
-    "desc": ""
-  }, 
   "Plaza Square Park": {
     "coord": [
       33.7877945, 
@@ -6649,24 +4661,10 @@
     ], 
     "desc": ""
   }, 
-  "Orchard Park": {
-    "coord": [
-      34.2238934, 
-      -119.1806631
-    ], 
-    "desc": ""
-  }, 
   "Fritz Huntsinger Youth Sports Complex": {
     "coord": [
       34.280836, 
       -119.1578849
-    ], 
-    "desc": ""
-  }, 
-  "Chula Vista Bay Front Park": {
-    "coord": [
-      32.6203323, 
-      -117.1036406
     ], 
     "desc": ""
   }, 
@@ -6688,20 +4686,6 @@
     "coord": [
       33.8594596, 
       -118.0789543
-    ], 
-    "desc": ""
-  }, 
-  "South Crest Park": {
-    "coord": [
-      32.6936635, 
-      -117.1055861
-    ], 
-    "desc": ""
-  }, 
-  "Tyson Street Park": {
-    "coord": [
-      33.1911475, 
-      -117.3808724
     ], 
     "desc": ""
   }, 
@@ -6733,24 +4717,10 @@
     ], 
     "desc": ""
   }, 
-  "Humber Park": {
-    "coord": [
-      33.7658535, 
-      -116.6861288
-    ], 
-    "desc": ""
-  }, 
   "Hope Nature Preserve": {
     "coord": [
       34.1680611, 
       -118.896485
-    ], 
-    "desc": ""
-  }, 
-  "Plumosa Park": {
-    "coord": [
-      32.7444945, 
-      -117.2214247
     ], 
     "desc": ""
   }, 
@@ -6761,20 +4731,6 @@
     ], 
     "desc": ""
   }, 
-  "San Carlos Park": {
-    "coord": [
-      32.7983835, 
-      -117.0211398
-    ], 
-    "desc": ""
-  }, 
-  "Coachella Valley Fringe-Toed Lizard Preserve": {
-    "coord": [
-      33.797519, 
-      -116.3188982
-    ], 
-    "desc": ""
-  }, 
   "Alona Park": {
     "coord": [
       33.7630725, 
@@ -6782,17 +4738,17 @@
     ], 
     "desc": ""
   }, 
-  "Cahuilla Park": {
+  "Houghton Schreiber Park": {
     "coord": [
-      34.1152778, 
-      -117.7225
+      34.2938907, 
+      -118.7114797
     ], 
     "desc": ""
   }, 
-  "Meserve Park": {
+  "Gershon Place Mini Park": {
     "coord": [
-      32.9736571, 
-      -115.5377675
+      33.7594619, 
+      -117.8136658
     ], 
     "desc": ""
   }, 
@@ -6800,13 +4756,6 @@
     "coord": [
       34.0916761, 
       -118.3292434
-    ], 
-    "desc": ""
-  }, 
-  "Western Hills Park": {
-    "coord": [
-      32.7867159, 
-      -117.1958682
     ], 
     "desc": ""
   }, 
@@ -6821,13 +4770,6 @@
     "coord": [
       33.654743, 
       -117.8433891
-    ], 
-    "desc": ""
-  }, 
-  "Lindberg Park": {
-    "coord": [
-      32.8189376, 
-      -117.162256
     ], 
     "desc": ""
   }, 
@@ -6873,27 +4815,6 @@
     ], 
     "desc": ""
   }, 
-  "Hermosa School Park": {
-    "coord": [
-      33.9089028, 
-      -117.9258944
-    ], 
-    "desc": ""
-  }, 
-  "Fontana Farms Historic Site": {
-    "coord": [
-      34.0925112, 
-      -117.4419926
-    ], 
-    "desc": ""
-  }, 
-  "Picnic Lake Park": {
-    "coord": [
-      32.625337, 
-      -116.6122399
-    ], 
-    "desc": ""
-  }, 
   "Biscailuz Park": {
     "coord": [
       33.8530717, 
@@ -6924,8 +4845,8 @@
   }, 
   "El Dorado Park": {
     "coord": [
-      33.9314041, 
-      -117.4581026
+      33.6089119, 
+      -117.6683841
     ], 
     "desc": ""
   }, 
@@ -6947,13 +4868,6 @@
     "coord": [
       34.0280674, 
       -118.3461875
-    ], 
-    "desc": ""
-  }, 
-  "Ruth Hardy Park": {
-    "coord": [
-      33.8350181, 
-      -116.5394586
     ], 
     "desc": ""
   }, 
@@ -7006,13 +4920,6 @@
     ], 
     "desc": ""
   }, 
-  "Kearny Mesa Recreation Center": {
-    "coord": [
-      32.8025491, 
-      -117.1644782
-    ], 
-    "desc": ""
-  }, 
   "Frederick D Fagg Junior Park": {
     "coord": [
       34.0208463, 
@@ -7020,24 +4927,10 @@
     ], 
     "desc": ""
   }, 
-  "Bell Park": {
+  "Walnut Ranch Park": {
     "coord": [
-      33.8975154, 
-      -118.3020178
-    ], 
-    "desc": ""
-  }, 
-  "Pegleg Smith Historical Marker": {
-    "coord": [
-      33.2955927, 
-      -116.2977871
-    ], 
-    "desc": ""
-  }, 
-  "Carmel Mountain Ranch Community Park": {
-    "coord": [
-      32.9797671, 
-      -117.0841992
+      34.0386221, 
+      -117.8631164
     ], 
     "desc": ""
   }, 
@@ -7050,8 +4943,8 @@
   }, 
   "Seville Park": {
     "coord": [
-      34.1011221, 
-      -117.4425483
+      33.6308555, 
+      -117.6656061
     ], 
     "desc": ""
   }, 
@@ -7059,13 +4952,6 @@
     "coord": [
       34.0330629, 
       -118.7342532
-    ], 
-    "desc": ""
-  }, 
-  "La Quinta Community Park": {
-    "coord": [
-      33.6761347, 
-      -116.3063983
     ], 
     "desc": ""
   }, 
@@ -7090,20 +4976,6 @@
     ], 
     "desc": ""
   }, 
-  "Mast Park": {
-    "coord": [
-      32.8444935, 
-      -116.9911395
-    ], 
-    "desc": ""
-  }, 
-  "Lakeside County Park": {
-    "coord": [
-      32.9211593, 
-      -116.868637
-    ], 
-    "desc": ""
-  }, 
   "Dewar Park": {
     "coord": [
       34.1483384, 
@@ -7111,24 +4983,10 @@
     ], 
     "desc": ""
   }, 
-  "La Colonia County Park": {
-    "coord": [
-      32.9867109, 
-      -117.2592033
-    ], 
-    "desc": ""
-  }, 
   "Montrose Community Park": {
     "coord": [
       34.201394, 
       -118.2253521
-    ], 
-    "desc": ""
-  }, 
-  "Lamar County Park": {
-    "coord": [
-      32.7406075, 
-      -117.0075274
     ], 
     "desc": ""
   }, 
@@ -7160,31 +5018,17 @@
     ], 
     "desc": ""
   }, 
-  "Weston Park": {
-    "coord": [
-      33.7486314, 
-      -116.9653015
-    ], 
-    "desc": ""
-  }, 
-  "Frisbie Park": {
-    "coord": [
-      34.1333436, 
-      -117.35949
-    ], 
-    "desc": ""
-  }, 
   "Mesa Verde Park": {
     "coord": [
-      32.9058799, 
-      -117.1442002
+      33.6752971, 
+      -117.931447
     ], 
     "desc": ""
   }, 
-  "Salazar Park": {
+  "Almendra Park": {
     "coord": [
-      34.0230684, 
-      -118.1900718
+      34.4005526, 
+      -118.5442526
     ], 
     "desc": ""
   }, 
@@ -7199,13 +5043,6 @@
     "coord": [
       33.8850164, 
       -118.2547944
-    ], 
-    "desc": ""
-  }, 
-  "Heber Park": {
-    "coord": [
-      32.6778366, 
-      -115.5016612
     ], 
     "desc": ""
   }, 
@@ -7237,13 +5074,6 @@
     ], 
     "desc": ""
   }, 
-  "Maple Street Park": {
-    "coord": [
-      34.1144555, 
-      -117.3267109
-    ], 
-    "desc": ""
-  }, 
   "Julian Fisher Park": {
     "coord": [
       34.1416735, 
@@ -7258,24 +5088,10 @@
     ], 
     "desc": ""
   }, 
-  "Jacumba Community Park": {
-    "coord": [
-      32.6167294, 
-      -116.1852944
-    ], 
-    "desc": ""
-  }, 
-  "Camarillo House County Landmark": {
-    "coord": [
-      34.2183381, 
-      -119.0178793
-    ], 
-    "desc": ""
-  }, 
   "Westside Park": {
     "coord": [
-      33.1133736, 
-      -117.0894766
+      34.0297335, 
+      -118.3711882
     ], 
     "desc": ""
   }, 
@@ -7293,17 +5109,10 @@
     ], 
     "desc": ""
   }, 
-  "Westmont Park": {
+  "Rancho Park": {
     "coord": [
-      33.7127955, 
-      -117.9781148
-    ], 
-    "desc": ""
-  }, 
-  "Nobel Athletic Area": {
-    "coord": [
-      32.8653251, 
-      -117.1955905
+      34.0944536, 
+      -117.8400603
     ], 
     "desc": ""
   }, 
@@ -7321,13 +5130,6 @@
     ], 
     "desc": ""
   }, 
-  "Brengle Terrace City Park": {
-    "coord": [
-      33.210592, 
-      -117.2230904
-    ], 
-    "desc": ""
-  }, 
   "Lynwood Park": {
     "coord": [
       33.927793, 
@@ -7337,8 +5139,8 @@
   }, 
   "Harrison Park": {
     "coord": [
-      33.9036269, 
-      -117.4419905
+      34.1019538, 
+      -117.7420013
     ], 
     "desc": ""
   }, 
@@ -7349,20 +5151,6 @@
     ], 
     "desc": ""
   }, 
-  "Village Square Park": {
-    "coord": [
-      33.3816972, 
-      -117.2500354
-    ], 
-    "desc": ""
-  }, 
-  "Meadow Park": {
-    "coord": [
-      34.2472296, 
-      -116.9014211
-    ], 
-    "desc": ""
-  }, 
   "Mandalay County Park": {
     "coord": [
       34.2000045, 
@@ -7370,17 +5158,10 @@
     ], 
     "desc": ""
   }, 
-  "Los Ninos Park": {
+  "Evergreen Playground": {
     "coord": [
-      32.5989445, 
-      -117.044471
-    ], 
-    "desc": ""
-  }, 
-  "Fleming Park": {
-    "coord": [
-      34.0705683, 
-      -117.3244884
+      34.0383456, 
+      -118.2045168
     ], 
     "desc": ""
   }, 
@@ -7405,13 +5186,6 @@
     ], 
     "desc": ""
   }, 
-  "Apollo Park": {
-    "coord": [
-      33.9266814, 
-      -118.1545137
-    ], 
-    "desc": ""
-  }, 
   "Oak View Park": {
     "coord": [
       33.7130732, 
@@ -7419,17 +5193,10 @@
     ], 
     "desc": ""
   }, 
-  "Pacific Street Linear Park": {
+  "Glen Alla Park": {
     "coord": [
-      33.1925364, 
-      -117.3822613
-    ], 
-    "desc": ""
-  }, 
-  "San Clemente State Beach": {
-    "coord": [
-      33.4030848, 
-      -117.6047698
+      33.9841785, 
+      -118.4314668
     ], 
     "desc": ""
   }, 
@@ -7440,31 +5207,10 @@
     ], 
     "desc": ""
   }, 
-  "Yucaipa Regional Park": {
-    "coord": [
-      34.0530689, 
-      -117.047254
-    ], 
-    "desc": ""
-  }, 
-  "Maze Stone Historical Marker": {
-    "coord": [
-      33.7816862, 
-      -117.0564168
-    ], 
-    "desc": ""
-  }, 
   "Via Marina Park": {
     "coord": [
       34.1855604, 
       -119.2139973
-    ], 
-    "desc": ""
-  }, 
-  "Mission Bell Park": {
-    "coord": [
-      33.4797495, 
-      -117.6786624
     ], 
     "desc": ""
   }, 
@@ -7503,31 +5249,10 @@
     ], 
     "desc": ""
   }, 
-  "Spreckels Park": {
+  "Ortega Park": {
     "coord": [
-      32.6906076, 
-      -117.1764223
-    ], 
-    "desc": ""
-  }, 
-  "Tuttle Park": {
-    "coord": [
-      32.7786624, 
-      -116.9661379
-    ], 
-    "desc": ""
-  }, 
-  "Hi Desert Park": {
-    "coord": [
-      34.1125078, 
-      -116.4500131
-    ], 
-    "desc": ""
-  }, 
-  "Agua Caliente County Park": {
-    "coord": [
-      32.9517165, 
-      -116.3058468
+      34.424997, 
+      -119.6898564
     ], 
     "desc": ""
   }, 
@@ -7552,41 +5277,6 @@
     ], 
     "desc": ""
   }, 
-  "South Crest Recreation Center": {
-    "coord": [
-      32.693108, 
-      -117.1058639
-    ], 
-    "desc": ""
-  }, 
-  "Starridge Park": {
-    "coord": [
-      32.9647676, 
-      -117.0530872
-    ], 
-    "desc": ""
-  }, 
-  "Crafton Park": {
-    "coord": [
-      34.0619577, 
-      -117.1394807
-    ], 
-    "desc": ""
-  }, 
-  "Meadow Ridge Park": {
-    "coord": [
-      33.5641921, 
-      -117.1841998
-    ], 
-    "desc": ""
-  }, 
-  "Ortega Park": {
-    "coord": [
-      34.424997, 
-      -119.6898564
-    ], 
-    "desc": ""
-  }, 
   "Parmenter Park": {
     "coord": [
       33.9225148, 
@@ -7608,10 +5298,10 @@
     ], 
     "desc": ""
   }, 
-  "Animal Park": {
+  "Hermosillo Park": {
     "coord": [
-      34.2297302, 
-      -116.8589186
+      33.8850147, 
+      -118.0772881
     ], 
     "desc": ""
   }, 
@@ -7631,36 +5321,8 @@
   }, 
   "Live Oak Park": {
     "coord": [
-      34.4258332, 
-      -117.2822669
-    ], 
-    "desc": ""
-  }, 
-  "Rohr Park": {
-    "coord": [
-      32.6667205, 
-      -117.0280825
-    ], 
-    "desc": ""
-  }, 
-  "Wileys Well Rest Area": {
-    "coord": [
-      33.6097461, 
-      -114.9013548
-    ], 
-    "desc": ""
-  }, 
-  "Jerry Eaves Park": {
-    "coord": [
-      34.1269548, 
-      -117.3917133
-    ], 
-    "desc": ""
-  }, 
-  "Kinney Plaza": {
-    "coord": [
-      33.9883333, 
-      -118.4711111
+      34.1025085, 
+      -118.0478452
     ], 
     "desc": ""
   }, 
@@ -7671,24 +5333,10 @@
     ], 
     "desc": ""
   }, 
-  "Grape Day Park": {
-    "coord": [
-      33.126151, 
-      -117.0794763
-    ], 
-    "desc": ""
-  }, 
   "Seaside Wilderness Park": {
     "coord": [
       34.2800013, 
       -119.3148351
-    ], 
-    "desc": ""
-  }, 
-  "Ada Harris Park": {
-    "coord": [
-      33.0314315, 
-      -117.2742035
     ], 
     "desc": ""
   }, 
@@ -7713,31 +5361,10 @@
     ], 
     "desc": ""
   }, 
-  "Ramona Community Park": {
-    "coord": [
-      33.0486553, 
-      -116.8636374
-    ], 
-    "desc": ""
-  }, 
   "Pomona Jaycees Community Park": {
     "coord": [
       34.0800101, 
       -117.7353344
-    ], 
-    "desc": ""
-  }, 
-  "Revelle Plaza": {
-    "coord": [
-      32.8748, 
-      -117.241
-    ], 
-    "desc": ""
-  }, 
-  "Penn Athletic Area": {
-    "coord": [
-      32.6747756, 
-      -117.0469723
     ], 
     "desc": ""
   }, 
@@ -7748,34 +5375,6 @@
     ], 
     "desc": ""
   }, 
-  "Lucerne Valley Park": {
-    "coord": [
-      34.4597217, 
-      -116.9017
-    ], 
-    "desc": ""
-  }, 
-  "Paloma del Sol Park": {
-    "coord": [
-      33.4836399, 
-      -117.102252
-    ], 
-    "desc": ""
-  }, 
-  "Willie Henderson Sports Complex": {
-    "coord": [
-      32.6944969, 
-      -117.0969746
-    ], 
-    "desc": ""
-  }, 
-  "Bonsall Preserve": {
-    "coord": [
-      33.2967002, 
-      -117.2253124
-    ], 
-    "desc": ""
-  }, 
   "Cold Creek Canyon Preserve": {
     "coord": [
       34.0944512, 
@@ -7783,24 +5382,10 @@
     ], 
     "desc": ""
   }, 
-  "Carlsbad State Beach": {
-    "coord": [
-      33.14741, 
-      -117.34548
-    ], 
-    "desc": ""
-  }, 
   "French Park": {
     "coord": [
       33.72474, 
       -118.0664516
-    ], 
-    "desc": ""
-  }, 
-  "Lake Elsinore Diamond Stadium": {
-    "coord": [
-      33.6555777, 
-      -117.3014273
     ], 
     "desc": ""
   }, 
@@ -7815,13 +5400,6 @@
     "coord": [
       34.0847319, 
       -117.8036701
-    ], 
-    "desc": ""
-  }, 
-  "Quail Run Park": {
-    "coord": [
-      33.9591828, 
-      -117.3136536
     ], 
     "desc": ""
   }, 
@@ -7860,24 +5438,10 @@
     ], 
     "desc": ""
   }, 
-  "Juniper Park": {
-    "coord": [
-      34.0814005, 
-      -117.4411592
-    ], 
-    "desc": ""
-  }, 
   "Isla Vista County Park": {
     "coord": [
       34.4088849, 
       -119.8604161
-    ], 
-    "desc": ""
-  }, 
-  "John Marshall Park": {
-    "coord": [
-      33.8475149, 
-      -117.9545052
     ], 
     "desc": ""
   }, 
@@ -7916,13 +5480,6 @@
     ], 
     "desc": ""
   }, 
-  "Bancroft County Park": {
-    "coord": [
-      32.7403299, 
-      -116.9866933
-    ], 
-    "desc": ""
-  }, 
   "Sibrie Park": {
     "coord": [
       33.9152936, 
@@ -7930,17 +5487,10 @@
     ], 
     "desc": ""
   }, 
-  "Cliffridge Park": {
-    "coord": [
-      32.857825, 
-      -117.244481
-    ], 
-    "desc": ""
-  }, 
   "Civic Center Park": {
     "coord": [
-      33.2042033, 
-      -117.2342018
+      33.6633532, 
+      -117.9058907
     ], 
     "desc": ""
   }, 
@@ -7955,13 +5505,6 @@
     "coord": [
       34.2777797, 
       -118.4809179
-    ], 
-    "desc": ""
-  }, 
-  "La Mesita Park": {
-    "coord": [
-      32.7881062, 
-      -117.0061391
     ], 
     "desc": ""
   }, 
@@ -7993,24 +5536,10 @@
     ], 
     "desc": ""
   }, 
-  "Southridge Village Open Space Reserve": {
-    "coord": [
-      34.0397347, 
-      -117.4758823
-    ], 
-    "desc": ""
-  }, 
   "Leimert Park": {
     "coord": [
       34.0039019, 
       -118.3311868
-    ], 
-    "desc": ""
-  }, 
-  "Don Lorenzi Sports Center": {
-    "coord": [
-      33.9283486, 
-      -117.4439355
     ], 
     "desc": ""
   }, 
@@ -8035,13 +5564,6 @@
     ], 
     "desc": ""
   }, 
-  "Hermosillo Park": {
-    "coord": [
-      33.8850147, 
-      -118.0772881
-    ], 
-    "desc": ""
-  }, 
   "Vineyard Playground": {
     "coord": [
       34.028345, 
@@ -8063,27 +5585,6 @@
     ], 
     "desc": ""
   }, 
-  "Hesp Crest Desert Ecological Study Area": {
-    "coord": [
-      34.4444424, 
-      -117.3897694
-    ], 
-    "desc": ""
-  }, 
-  "Park F": {
-    "coord": [
-      33.5675255, 
-      -117.1639212
-    ], 
-    "desc": ""
-  }, 
-  "Park E": {
-    "coord": [
-      33.5700255, 
-      -117.1630878
-    ], 
-    "desc": ""
-  }, 
   "Boat Canyon Park": {
     "coord": [
       33.5483583, 
@@ -8098,13 +5599,6 @@
     ], 
     "desc": ""
   }, 
-  "Jones Park": {
-    "coord": [
-      33.9402932, 
-      -117.4183791
-    ], 
-    "desc": ""
-  }, 
   "John Ford Stadium": {
     "coord": [
       33.8383333, 
@@ -8112,24 +5606,17 @@
     ], 
     "desc": ""
   }, 
-  "Cabazon Park": {
+  "Evergreen Park": {
     "coord": [
-      33.9100156, 
-      -116.7822398
+      34.4374948, 
+      -119.8895838
     ], 
     "desc": ""
   }, 
-  "Rotary Park": {
+  "Stengel Field": {
     "coord": [
-      33.1594821, 
-      -117.3497606
-    ], 
-    "desc": ""
-  }, 
-  "Rancho Cucamonga Central Park": {
-    "coord": [
-      34.1225097, 
-      -117.5642188
+      34.1686111, 
+      -118.2311111
     ], 
     "desc": ""
   }, 
@@ -8175,13 +5662,6 @@
     ], 
     "desc": ""
   }, 
-  "Raintree Park": {
-    "coord": [
-      33.2117031, 
-      -117.2372575
-    ], 
-    "desc": ""
-  }, 
   "Alhambra Park": {
     "coord": [
       34.096676, 
@@ -8193,13 +5673,6 @@
     "coord": [
       33.8730701, 
       -117.9322828
-    ], 
-    "desc": ""
-  }, 
-  "Wardman Park": {
-    "coord": [
-      33.9691793, 
-      -116.5064007
     ], 
     "desc": ""
   }, 
@@ -8224,13 +5697,6 @@
     ], 
     "desc": ""
   }, 
-  "Padre Dam Park": {
-    "coord": [
-      32.8406052, 
-      -116.9603052
-    ], 
-    "desc": ""
-  }, 
   "Hasley Canyon Park": {
     "coord": [
       34.4522171, 
@@ -8242,13 +5708,6 @@
     "coord": [
       34.0525114, 
       -117.637276
-    ], 
-    "desc": ""
-  }, 
-  "West Renzuilli Park": {
-    "coord": [
-      32.8331049, 
-      -117.0100288
     ], 
     "desc": ""
   }, 
@@ -8301,13 +5760,6 @@
     ], 
     "desc": ""
   }, 
-  "Otay Park": {
-    "coord": [
-      32.5972777, 
-      -117.0572493
-    ], 
-    "desc": ""
-  }, 
   "Rose Bowl Aquatic Center": {
     "coord": [
       34.151396, 
@@ -8357,13 +5809,6 @@
     ], 
     "desc": ""
   }, 
-  "Norman Park": {
-    "coord": [
-      32.641443, 
-      -117.078362
-    ], 
-    "desc": ""
-  }, 
   "Eddleston Park": {
     "coord": [
       34.2866683, 
@@ -8380,29 +5825,15 @@
   }, 
   "Border Park": {
     "coord": [
-      32.666448, 
-      -115.4988833
+      33.857516, 
+      -117.6058837
     ], 
     "desc": ""
   }, 
-  "Lake Moree Park": {
+  "Mission Historical Park": {
     "coord": [
-      33.1303173, 
-      -117.1494779
-    ], 
-    "desc": ""
-  }, 
-  "Harbor Island Drive Park": {
-    "coord": [
-      32.7250508, 
-      -117.1986458
-    ], 
-    "desc": ""
-  }, 
-  "Beulah Picnic Ground (historical)": {
-    "coord": [
-      32.8489396, 
-      -116.5505734
+      34.4383304, 
+      -119.7115248
     ], 
     "desc": ""
   }, 
@@ -8420,17 +5851,10 @@
     ], 
     "desc": ""
   }, 
-  "Capistrano Park": {
+  "Faria County Park": {
     "coord": [
-      33.2114247, 
-      -117.3814279
-    ], 
-    "desc": ""
-  }, 
-  "John Quimby Park": {
-    "coord": [
-      34.1983379, 
-      -118.5878643
+      34.3205538, 
+      -119.3923385
     ], 
     "desc": ""
   }, 
@@ -8441,38 +5865,10 @@
     ], 
     "desc": ""
   }, 
-  "Old Poway Park": {
-    "coord": [
-      32.9706009, 
-      -117.0372536
-    ], 
-    "desc": ""
-  }, 
-  "Alamosa Park": {
-    "coord": [
-      33.2417018, 
-      -117.2778139
-    ], 
-    "desc": ""
-  }, 
-  "Terra Nova Park": {
-    "coord": [
-      32.6419987, 
-      -117.0450273
-    ], 
-    "desc": ""
-  }, 
   "Westminster Park": {
     "coord": [
       33.7530721, 
       -117.9711703
-    ], 
-    "desc": ""
-  }, 
-  "Polo Barn Park": {
-    "coord": [
-      32.8453271, 
-      -116.9716945
     ], 
     "desc": ""
   }, 
@@ -8483,13 +5879,6 @@
     ], 
     "desc": ""
   }, 
-  "Hilltop Community Park": {
-    "coord": [
-      32.9714339, 
-      -117.1192
-    ], 
-    "desc": ""
-  }, 
   "Valle Lindo Park": {
     "coord": [
       34.2263935, 
@@ -8497,10 +5886,10 @@
     ], 
     "desc": ""
   }, 
-  "Encino Park": {
+  "Logan Park": {
     "coord": [
-      34.1605612, 
-      -118.5028612
+      33.7544617, 
+      -117.8578336
     ], 
     "desc": ""
   }, 
@@ -8539,24 +5928,10 @@
     ], 
     "desc": ""
   }, 
-  "Cottonwood One County Park": {
-    "coord": [
-      32.7536639, 
-      -116.9128027
-    ], 
-    "desc": ""
-  }, 
   "Cortez Park": {
     "coord": [
-      32.6664474, 
-      -115.4827712
-    ], 
-    "desc": ""
-  }, 
-  "Bonita Canyon Park": {
-    "coord": [
-      33.4330839, 
-      -117.6222708
+      34.066121, 
+      -117.8920064
     ], 
     "desc": ""
   }, 
@@ -8581,13 +5956,6 @@
     ], 
     "desc": ""
   }, 
-  "Ridgewood Park": {
-    "coord": [
-      32.9472679, 
-      -117.1169776
-    ], 
-    "desc": ""
-  }, 
   "Marina Park": {
     "coord": [
       34.2536147, 
@@ -8597,8 +5965,8 @@
   }, 
   "Monroe Park": {
     "coord": [
-      33.9194601, 
-      -117.4217122
+      33.7275176, 
+      -117.9308913
     ], 
     "desc": ""
   }, 
@@ -8616,13 +5984,6 @@
     ], 
     "desc": ""
   }, 
-  "Old Town Plaza": {
-    "coord": [
-      32.7547722, 
-      -117.1972571
-    ], 
-    "desc": ""
-  }, 
   "Joaquin Miller Park": {
     "coord": [
       34.1833391, 
@@ -8634,20 +5995,6 @@
     "coord": [
       34.10013, 
       -118.23572
-    ], 
-    "desc": ""
-  }, 
-  "Flanders Park": {
-    "coord": [
-      32.9078244, 
-      -117.122533
-    ], 
-    "desc": ""
-  }, 
-  "Ecke Park": {
-    "coord": [
-      33.0544861, 
-      -117.2878149
     ], 
     "desc": ""
   }, 
@@ -8674,8 +6021,8 @@
   }, 
   "Sycamore Canyon Park": {
     "coord": [
-      33.9389053, 
-      -117.3194868
+      34.00779, 
+      -117.812559
     ], 
     "desc": ""
   }, 
@@ -8686,24 +6033,10 @@
     ], 
     "desc": ""
   }, 
-  "Cottonwood Two County Park": {
+  "El Marino Park": {
     "coord": [
-      32.7575527, 
-      -116.9086361
-    ], 
-    "desc": ""
-  }, 
-  "Sunridge Park": {
-    "coord": [
-      32.6289438, 
-      -117.0144702
-    ], 
-    "desc": ""
-  }, 
-  "McGee Park": {
-    "coord": [
-      32.7903332, 
-      -115.5424951
+      33.9925121, 
+      -118.3992438
     ], 
     "desc": ""
   }, 
@@ -8711,13 +6044,6 @@
     "coord": [
       33.7252966, 
       -118.2975713
-    ], 
-    "desc": ""
-  }, 
-  "Fairmount Park": {
-    "coord": [
-      33.9941815, 
-      -117.3836566
     ], 
     "desc": ""
   }, 
@@ -8742,13 +6068,6 @@
     ], 
     "desc": ""
   }, 
-  "Crosby Street Park": {
-    "coord": [
-      32.6972742, 
-      -117.1503101
-    ], 
-    "desc": ""
-  }, 
   "Rancho Simi Community Park": {
     "coord": [
       34.2655587, 
@@ -8760,20 +6079,6 @@
     "coord": [
       33.7891825, 
       -118.0100613
-    ], 
-    "desc": ""
-  }, 
-  "Mission Trails Regional Park": {
-    "coord": [
-      32.7858836, 
-      -117.0483628
-    ], 
-    "desc": ""
-  }, 
-  "Whitewater Park": {
-    "coord": [
-      33.7477994, 
-      -116.4161234
     ], 
     "desc": ""
   }, 
@@ -8791,17 +6096,17 @@
     ], 
     "desc": ""
   }, 
+  "Rio Hondo Park": {
+    "coord": [
+      34.0114013, 
+      -118.092013
+    ], 
+    "desc": ""
+  }, 
   "Veterans Memorial Park": {
     "coord": [
       34.352777, 
       -119.0595483
-    ], 
-    "desc": ""
-  }, 
-  "Barton Field": {
-    "coord": [
-      34.1019555, 
-      -117.4111583
     ], 
     "desc": ""
   }, 
@@ -8819,34 +6124,6 @@
     ], 
     "desc": ""
   }, 
-  "Laguna Recreation Area": {
-    "coord": [
-      32.8544955, 
-      -116.4380721
-    ], 
-    "desc": ""
-  }, 
-  "Qualcomm Stadium": {
-    "coord": [
-      32.7833832, 
-      -117.1197543
-    ], 
-    "desc": ""
-  }, 
-  "Glen Park": {
-    "coord": [
-      33.0186541, 
-      -117.2803148
-    ], 
-    "desc": ""
-  }, 
-  "Bostonia Park": {
-    "coord": [
-      32.8092176, 
-      -116.9314151
-    ], 
-    "desc": ""
-  }, 
   "Terry Park": {
     "coord": [
       33.6980737, 
@@ -8858,13 +6135,6 @@
     "coord": [
       33.9941793, 
       -117.8108921
-    ], 
-    "desc": ""
-  }, 
-  "San Luis Rey Park": {
-    "coord": [
-      33.4058623, 
-      -117.5964362
     ], 
     "desc": ""
   }, 
@@ -8886,13 +6156,6 @@
     "coord": [
       34.202227, 
       -118.8453723
-    ], 
-    "desc": ""
-  }, 
-  "Santa Ana Memorial Park": {
-    "coord": [
-      0.0, 
-      0.0
     ], 
     "desc": ""
   }, 
@@ -8924,20 +6187,6 @@
     ], 
     "desc": ""
   }, 
-  "Sunbeam Lake County Park": {
-    "coord": [
-      32.7800578, 
-      -115.6863897
-    ], 
-    "desc": ""
-  }, 
-  "Sweetwater Lane City Park": {
-    "coord": [
-      32.7169969, 
-      -117.0069713
-    ], 
-    "desc": ""
-  }, 
   "Mason Park": {
     "coord": [
       34.2605584, 
@@ -8945,17 +6194,17 @@
     ], 
     "desc": ""
   }, 
-  "Mount Brundage Park": {
+  "Parque Del Arroyo Verde": {
     "coord": [
-      32.8125487, 
-      -117.1872569
+      33.8844591, 
+      -117.8461691
     ], 
     "desc": ""
   }, 
-  "Seaside Gardens County Park": {
+  "John Marshall Park": {
     "coord": [
-      33.054486, 
-      -117.3011487
+      33.8475149, 
+      -117.9545052
     ], 
     "desc": ""
   }, 
@@ -8970,13 +6219,6 @@
     "coord": [
       33.8247385, 
       -118.1345113
-    ], 
-    "desc": ""
-  }, 
-  "Lake Jennings Park": {
-    "coord": [
-      32.8600499, 
-      -116.8858589
     ], 
     "desc": ""
   }, 
@@ -9001,13 +6243,6 @@
     ], 
     "desc": ""
   }, 
-  "California Citrus State Historical Park": {
-    "coord": [
-      33.8972383, 
-      -117.4217119
-    ], 
-    "desc": ""
-  }, 
   "San Remo Park": {
     "coord": [
       33.6197451, 
@@ -9022,13 +6257,6 @@
     ], 
     "desc": ""
   }, 
-  "Wolfson Park": {
-    "coord": [
-      33.7716874, 
-      -116.439735
-    ], 
-    "desc": ""
-  }, 
   "Castille Park": {
     "coord": [
       33.6172449, 
@@ -9036,10 +6264,10 @@
     ], 
     "desc": ""
   }, 
-  "Palomares Park": {
+  "Siminski Park": {
     "coord": [
-      34.0913986, 
-      -117.7433902
+      33.9480691, 
+      -118.3622978
     ], 
     "desc": ""
   }, 
@@ -9047,13 +6275,6 @@
     "coord": [
       34.2513931, 
       -119.1948305
-    ], 
-    "desc": ""
-  }, 
-  "Renette Park": {
-    "coord": [
-      32.7833845, 
-      -116.9675269
     ], 
     "desc": ""
   }, 
@@ -9071,13 +6292,6 @@
     ], 
     "desc": ""
   }, 
-  "Pine Valley County Park": {
-    "coord": [
-      32.8244956, 
-      -116.530573
-    ], 
-    "desc": ""
-  }, 
   "McMaster Park": {
     "coord": [
       33.871682, 
@@ -9085,10 +6299,10 @@
     ], 
     "desc": ""
   }, 
-  "Holifield Park": {
+  "Seeley Park": {
     "coord": [
-      33.8930701, 
-      -118.0667323
+      33.6458533, 
+      -117.9583921
     ], 
     "desc": ""
   }, 
@@ -9099,24 +6313,10 @@
     ], 
     "desc": ""
   }, 
-  "San Diego Wild Animal Park": {
-    "coord": [
-      33.1000413, 
-      -116.9800296
-    ], 
-    "desc": ""
-  }, 
   "Studio City Park": {
     "coord": [
       34.1522287, 
       -118.4086913
-    ], 
-    "desc": ""
-  }, 
-  "Oak Tree Park": {
-    "coord": [
-      33.6916873, 
-      -117.3964307
     ], 
     "desc": ""
   }, 
@@ -9141,24 +6341,10 @@
     ], 
     "desc": ""
   }, 
-  "Ocotillo Wells State Vehicular Recreation Area": {
-    "coord": [
-      33.15572, 
-      -116.16774
-    ], 
-    "desc": ""
-  }, 
   "Walnut Creek Park": {
     "coord": [
       34.0886205, 
       -117.8372823
-    ], 
-    "desc": ""
-  }, 
-  "Sinclair Commercial Block Heritage Site": {
-    "coord": [
-      34.0983444, 
-      -117.4364369
     ], 
     "desc": ""
   }, 
@@ -9183,10 +6369,10 @@
     ], 
     "desc": ""
   }, 
-  "Switzer Park": {
+  "Glenwood Park": {
     "coord": [
-      34.232507, 
-      -117.1864298
+      34.1955605, 
+      -118.8656508
     ], 
     "desc": ""
   }, 
@@ -9194,13 +6380,6 @@
     "coord": [
       34.2652812, 
       -119.2520548
-    ], 
-    "desc": ""
-  }, 
-  "Lime Street Park": {
-    "coord": [
-      34.406667, 
-      -117.3056006
     ], 
     "desc": ""
   }, 
@@ -9222,27 +6401,6 @@
     "coord": [
       34.2222269, 
       -119.0514918
-    ], 
-    "desc": ""
-  }, 
-  "East Clairmont Athletic Area": {
-    "coord": [
-      32.80366, 
-      -117.1833678
-    ], 
-    "desc": ""
-  }, 
-  "Palm Field Park": {
-    "coord": [
-      34.1111226, 
-      -117.27032
-    ], 
-    "desc": ""
-  }, 
-  "Wildmere Park": {
-    "coord": [
-      32.7931066, 
-      -116.9605823
     ], 
     "desc": ""
   }, 
@@ -9288,13 +6446,6 @@
     ], 
     "desc": ""
   }, 
-  "Sunbow Park": {
-    "coord": [
-      32.6208884, 
-      -117.0241927
-    ], 
-    "desc": ""
-  }, 
   "Victory Park": {
     "coord": [
       33.7655734, 
@@ -9330,17 +6481,10 @@
     ], 
     "desc": ""
   }, 
-  "Boyle Heights Recreation Center": {
+  "Gisler Park": {
     "coord": [
-      34.0311238, 
-      -118.2145171
-    ], 
-    "desc": ""
-  }, 
-  "Gilman Ranch Historic Park": {
-    "coord": [
-      33.9397377, 
-      -116.9041892
+      33.6869635, 
+      -117.9103352
     ], 
     "desc": ""
   }, 
@@ -9348,13 +6492,6 @@
     "coord": [
       34.1947271, 
       -118.430915
-    ], 
-    "desc": ""
-  }, 
-  "Marshal Scottys Playland": {
-    "coord": [
-      32.8419949, 
-      -116.8833586
     ], 
     "desc": ""
   }, 
@@ -9372,31 +6509,10 @@
     ], 
     "desc": ""
   }, 
-  "John Magee Park": {
-    "coord": [
-      33.4753067, 
-      -117.1169748
-    ], 
-    "desc": ""
-  }, 
   "Monarch Stadium": {
     "coord": [
       34.175, 
       -118.4161111
-    ], 
-    "desc": ""
-  }, 
-  "Martin Luther King Junior Memorial Park": {
-    "coord": [
-      32.6997748, 
-      -117.0591954
-    ], 
-    "desc": ""
-  }, 
-  "North Park Recreation Center": {
-    "coord": [
-      32.7508839, 
-      -117.1341991
     ], 
     "desc": ""
   }, 
@@ -9421,10 +6537,10 @@
     ], 
     "desc": ""
   }, 
-  "South Pasadena Historic District": {
+  "Lafayette Park": {
     "coord": [
-      34.1152864, 
-      -118.1561824
+      34.0625112, 
+      -118.2836862
     ], 
     "desc": ""
   }, 
@@ -9449,13 +6565,6 @@
     ], 
     "desc": ""
   }, 
-  "Barton Flats Recreation Area": {
-    "coord": [
-      34.1655652, 
-      -116.8825282
-    ], 
-    "desc": ""
-  }, 
   "Panorama Recreation Center": {
     "coord": [
       34.2275038, 
@@ -9463,24 +6572,10 @@
     ], 
     "desc": ""
   }, 
-  "Mission Hills Park": {
-    "coord": [
-      32.7489392, 
-      -117.1836455
-    ], 
-    "desc": ""
-  }, 
   "Ozone Park": {
     "coord": [
       34.0016774, 
       -118.4720236
-    ], 
-    "desc": ""
-  }, 
-  "Beeson Field": {
-    "coord": [
-      32.7378282, 
-      -117.2030905
     ], 
     "desc": ""
   }, 
@@ -9526,17 +6621,10 @@
     ], 
     "desc": ""
   }, 
-  "Fraizer Field": {
+  "San Marino Park": {
     "coord": [
-      32.802555, 
-      -115.5574954
-    ], 
-    "desc": ""
-  }, 
-  "Rowland Heights Park": {
-    "coord": [
-      33.9891792, 
-      -117.8797834
+      33.8361262, 
+      -118.0250629
     ], 
     "desc": ""
   }, 
@@ -9554,34 +6642,6 @@
     ], 
     "desc": ""
   }, 
-  "Fletcher Hills Park": {
-    "coord": [
-      32.8014392, 
-      -116.996139
-    ], 
-    "desc": ""
-  }, 
-  "Reeder Field": {
-    "coord": [
-      34.065, 
-      -118.1661111
-    ], 
-    "desc": ""
-  }, 
-  "California Mid-Winter Fairgrounds": {
-    "coord": [
-      32.8367201, 
-      -115.5677726
-    ], 
-    "desc": ""
-  }, 
-  "Shepard Stadium": {
-    "coord": [
-      34.1811111, 
-      -118.5775
-    ], 
-    "desc": ""
-  }, 
   "Lark View Park": {
     "coord": [
       33.7130733, 
@@ -9593,13 +6653,6 @@
     "coord": [
       33.8864034, 
       -117.892004
-    ], 
-    "desc": ""
-  }, 
-  "Union Place Circle": {
-    "coord": [
-      32.8461584, 
-      -117.2694817
     ], 
     "desc": ""
   }, 
@@ -9617,17 +6670,10 @@
     ], 
     "desc": ""
   }, 
-  "Boone Park": {
+  "Darby Memorial Park": {
     "coord": [
-      32.6972751, 
-      -117.03725
-    ], 
-    "desc": ""
-  }, 
-  "Fairview Avenue Park": {
-    "coord": [
-      34.1283408, 
-      -118.0514566
+      33.9539029, 
+      -118.3297971
     ], 
     "desc": ""
   }, 
@@ -9638,17 +6684,10 @@
     ], 
     "desc": ""
   }, 
-  "Idyllwild Park": {
-    "coord": [
-      33.7458539, 
-      -116.7239075
-    ], 
-    "desc": ""
-  }, 
   "Plaza Park": {
     "coord": [
-      32.9786568, 
-      -115.5349895
+      34.278613, 
+      -119.2906675
     ], 
     "desc": ""
   }, 
@@ -9666,10 +6705,10 @@
     ], 
     "desc": ""
   }, 
-  "Robb Memorial Field": {
+  "Estella Park": {
     "coord": [
-      32.7539386, 
-      -117.2419811
+      34.1808384, 
+      -118.8470387
     ], 
     "desc": ""
   }, 
@@ -9715,10 +6754,10 @@
     ], 
     "desc": ""
   }, 
-  "Washington Monument": {
+  "Langley Park": {
     "coord": [
-      34.1202887, 
-      -116.932251
+      34.0655661, 
+      -118.1281256
     ], 
     "desc": ""
   }, 
@@ -9764,10 +6803,17 @@
     ], 
     "desc": ""
   }, 
-  "Kearny Mesa Park": {
+  "La Loma Park": {
     "coord": [
-      32.8000491, 
-      -117.1689229
+      34.0416781, 
+      -118.1161806
+    ], 
+    "desc": ""
+  }, 
+  "Channel Islands National Park": {
+    "coord": [
+      34.004171, 
+      -119.397338
     ], 
     "desc": ""
   }, 
@@ -9778,31 +6824,10 @@
     ], 
     "desc": ""
   }, 
-  "Adobe Bluffs Park": {
-    "coord": [
-      32.9819891, 
-      -117.1314226
-    ], 
-    "desc": ""
-  }, 
-  "Don Tiburcio Tapia State Park": {
-    "coord": [
-      34.1191762, 
-      -117.6192203
-    ], 
-    "desc": ""
-  }, 
-  "Cuyamaca State Park": {
-    "coord": [
-      32.9358817, 
-      -116.5625185
-    ], 
-    "desc": ""
-  }, 
   "Olive Park": {
     "coord": [
-      32.7354, 
-      -117.1632
+      33.8372379, 
+      -117.8517239
     ], 
     "desc": ""
   }, 
@@ -9820,10 +6845,10 @@
     ], 
     "desc": ""
   }, 
-  "Adlena Park": {
+  "Willowbrook Park": {
     "coord": [
-      33.8725144, 
-      -117.9556169
+      34.2688919, 
+      -118.7773151
     ], 
     "desc": ""
   }, 
@@ -9834,17 +6859,10 @@
     ], 
     "desc": ""
   }, 
-  "Deer Lodge Park": {
+  "Modjeska Community Park": {
     "coord": [
-      34.2769497, 
-      -117.2108752
-    ], 
-    "desc": ""
-  }, 
-  "Valle Verde Park": {
-    "coord": [
-      33.0194882, 
-      -117.0461429
+      33.7102973, 
+      -117.6247714
     ], 
     "desc": ""
   }, 
@@ -9862,13 +6880,6 @@
     ], 
     "desc": ""
   }, 
-  "Boulder Hill Park": {
-    "coord": [
-      34.0186243, 
-      -117.4697709
-    ], 
-    "desc": ""
-  }, 
   "Lynnoaks Park": {
     "coord": [
       34.1750054, 
@@ -9883,45 +6894,10 @@
     ], 
     "desc": ""
   }, 
-  "Celestine Park": {
-    "coord": [
-      32.7903273, 
-      -117.1472554
-    ], 
-    "desc": ""
-  }, 
-  "James Simpson Park": {
-    "coord": [
-      33.7064108, 
-      -116.9147451
-    ], 
-    "desc": ""
-  }, 
-  "Gold Mountain Memorial Park": {
-    "coord": [
-      34.2513965, 
-      -116.8241956
-    ], 
-    "desc": ""
-  }, 
   "Edna Park": {
     "coord": [
       33.7633502, 
       -117.8989462
-    ], 
-    "desc": ""
-  }, 
-  "Fletcher Cove Beach Park": {
-    "coord": [
-      32.991155, 
-      -117.2744815
-    ], 
-    "desc": ""
-  }, 
-  "Seagrove Park": {
-    "coord": [
-      32.9606003, 
-      -117.2680925
     ], 
     "desc": ""
   }, 
@@ -9939,10 +6915,10 @@
     ], 
     "desc": ""
   }, 
-  "Cherry Cove Park": {
+  "Helen Keller Park": {
     "coord": [
-      33.8505718, 
-      -118.165624
+      33.917793, 
+      -118.2922957
     ], 
     "desc": ""
   }, 
@@ -10002,13 +6978,6 @@
     ], 
     "desc": ""
   }, 
-  "Palm Desert Community Park": {
-    "coord": [
-      33.7352996, 
-      -116.3694554
-    ], 
-    "desc": ""
-  }, 
   "Kroger-Melrose Historic District": {
     "coord": [
       33.835571, 
@@ -10016,10 +6985,10 @@
     ], 
     "desc": ""
   }, 
-  "Longfellow Park": {
+  "Industry Hills Recreation Center": {
     "coord": [
-      32.9758789, 
-      -115.5280448
+      34.025289, 
+      -117.9397858
     ], 
     "desc": ""
   }, 
@@ -10058,13 +7027,6 @@
     ], 
     "desc": ""
   }, 
-  "Pass Valley Park": {
-    "coord": [
-      33.9327932, 
-      -116.8641875
-    ], 
-    "desc": ""
-  }, 
   "Saddleback Park": {
     "coord": [
       33.8725147, 
@@ -10093,13 +7055,6 @@
     ], 
     "desc": ""
   }, 
-  "Panorama Park": {
-    "coord": [
-      33.8383512, 
-      -116.4677905
-    ], 
-    "desc": ""
-  }, 
   "Bruin Stadium": {
     "coord": [
       33.7761111, 
@@ -10111,27 +7066,6 @@
     "coord": [
       34.1900051, 
       -118.4261926
-    ], 
-    "desc": ""
-  }, 
-  "Sea Canyon Park": {
-    "coord": [
-      33.4814163, 
-      -117.7047746
-    ], 
-    "desc": ""
-  }, 
-  "University Heights Park": {
-    "coord": [
-      32.7619946, 
-      -117.1533666
-    ], 
-    "desc": ""
-  }, 
-  "Appleby Park": {
-    "coord": [
-      33.6055802, 
-      -114.5932898
     ], 
     "desc": ""
   }, 
@@ -10163,24 +7097,10 @@
     ], 
     "desc": ""
   }, 
-  "Buccaneer Beach Park": {
+  "Moyse Stadium": {
     "coord": [
-      33.1764259, 
-      -117.3689277
-    ], 
-    "desc": ""
-  }, 
-  "Noble Creek Park": {
-    "coord": [
-      33.9500158, 
-      -116.9869709
-    ], 
-    "desc": ""
-  }, 
-  "Rancho Mission Canyon Park": {
-    "coord": [
-      32.8075496, 
-      -117.0655859
+      34.1441667, 
+      -118.2316667
     ], 
     "desc": ""
   }, 
@@ -10198,13 +7118,6 @@
     ], 
     "desc": ""
   }, 
-  "El Toyon Park": {
-    "coord": [
-      32.6858861, 
-      -117.0875297
-    ], 
-    "desc": ""
-  }, 
   "Barranca Vista Park": {
     "coord": [
       34.2627814, 
@@ -10212,10 +7125,10 @@
     ], 
     "desc": ""
   }, 
-  "Doheny State Beach": {
+  "Evenstar Park": {
     "coord": [
-      33.46225, 
-      -117.6808846
+      34.1522278, 
+      -118.835371
     ], 
     "desc": ""
   }, 
@@ -10233,13 +7146,6 @@
     ], 
     "desc": ""
   }, 
-  "Loring Park": {
-    "coord": [
-      33.9891815, 
-      -117.3864344
-    ], 
-    "desc": ""
-  }, 
   "Ralston Village Linear Park": {
     "coord": [
       34.2627814, 
@@ -10254,38 +7160,10 @@
     ], 
     "desc": ""
   }, 
-  "International Park": {
-    "coord": [
-      32.537279, 
-      -117.1078062
-    ], 
-    "desc": ""
-  }, 
   "Lake Eleanor Open Space": {
     "coord": [
       34.1347281, 
       -118.8509269
-    ], 
-    "desc": ""
-  }, 
-  "Stengel Field": {
-    "coord": [
-      34.1686111, 
-      -118.2311111
-    ], 
-    "desc": ""
-  }, 
-  "Crummett Park": {
-    "coord": [
-      32.6750584, 
-      -115.4869382
-    ], 
-    "desc": ""
-  }, 
-  "Quail Valley Park": {
-    "coord": [
-      33.7052989, 
-      -117.241981
     ], 
     "desc": ""
   }, 
@@ -10296,31 +7174,10 @@
     ], 
     "desc": ""
   }, 
-  "Demuth Park": {
-    "coord": [
-      33.8075194, 
-      -116.5011251
-    ], 
-    "desc": ""
-  }, 
-  "Silver Strand State Beach": {
-    "coord": [
-      32.63633, 
-      -117.14278
-    ], 
-    "desc": ""
-  }, 
   "Grant Rea Park": {
     "coord": [
       34.0169565, 
       -118.0903463
-    ], 
-    "desc": ""
-  }, 
-  "Eastwood Memorial Park": {
-    "coord": [
-      34.214449, 
-      -119.1856631
     ], 
     "desc": ""
   }, 
@@ -10335,13 +7192,6 @@
     "coord": [
       34.2969456, 
       -118.5420307
-    ], 
-    "desc": ""
-  }, 
-  "Sungold Park": {
-    "coord": [
-      33.6147465, 
-      -114.5869008
     ], 
     "desc": ""
   }, 
@@ -10380,20 +7230,6 @@
     ], 
     "desc": ""
   }, 
-  "Aztec Park": {
-    "coord": [
-      32.7781063, 
-      -117.0275287
-    ], 
-    "desc": ""
-  }, 
-  "Abraham Lincoln Shrine": {
-    "coord": [
-      34.0536248, 
-      -117.1836492
-    ], 
-    "desc": ""
-  }, 
   "Pioneer Park": {
     "coord": [
       34.1297312, 
@@ -10415,31 +7251,10 @@
     ], 
     "desc": ""
   }, 
-  "Wells Park": {
-    "coord": [
-      32.7986621, 
-      -116.9428041
-    ], 
-    "desc": ""
-  }, 
-  "Jacks Pond Park": {
-    "coord": [
-      33.1305952, 
-      -117.1405888
-    ], 
-    "desc": ""
-  }, 
   "Menlo Avenue-West Twenty-ninth Street Historic District": {
     "coord": [
       34.0302903, 
       -118.2903526
-    ], 
-    "desc": ""
-  }, 
-  "Glen Helen Off Highway Vehicle Park": {
-    "coord": [
-      34.1913972, 
-      -117.391436
     ], 
     "desc": ""
   }, 
@@ -10454,13 +7269,6 @@
     "coord": [
       34.395275, 
       -118.5492527
-    ], 
-    "desc": ""
-  }, 
-  "Smiley Park": {
-    "coord": [
-      34.0527916, 
-      -117.1855937
     ], 
     "desc": ""
   }, 
@@ -10513,10 +7321,10 @@
     ], 
     "desc": ""
   }, 
-  "Temecula Sports Park": {
+  "Libbey Park": {
     "coord": [
-      33.5003058, 
-      -117.128364
+      34.4463829, 
+      -119.2448336
     ], 
     "desc": ""
   }, 
@@ -10534,24 +7342,10 @@
     ], 
     "desc": ""
   }, 
-  "Hesperia Lake Park": {
-    "coord": [
-      34.3869459, 
-      -117.2486547
-    ], 
-    "desc": ""
-  }, 
   "Hurless Barton Park": {
     "coord": [
       33.8950146, 
       -117.825613
-    ], 
-    "desc": ""
-  }, 
-  "Serra Mesa Park": {
-    "coord": [
-      32.8064381, 
-      -117.1319771
     ], 
     "desc": ""
   }, 
@@ -10590,10 +7384,10 @@
     ], 
     "desc": ""
   }, 
-  "Niland Park": {
+  "Orchard Park": {
     "coord": [
-      33.2425365, 
-      -115.519709
+      34.2238934, 
+      -119.1806631
     ], 
     "desc": ""
   }, 
@@ -10611,24 +7405,10 @@
     ], 
     "desc": ""
   }, 
-  "Grant Hill Park": {
-    "coord": [
-      32.7097739, 
-      -117.1378098
-    ], 
-    "desc": ""
-  }, 
-  "Marshall College Field": {
-    "coord": [
-      32.8823, 
-      -117.2417
-    ], 
-    "desc": ""
-  }, 
   "Marina View Park": {
     "coord": [
-      32.6203323, 
-      -117.0994737
+      33.6425203, 
+      -117.9428361
     ], 
     "desc": ""
   }, 
@@ -10660,24 +7440,10 @@
     ], 
     "desc": ""
   }, 
-  "Whittier Park": {
-    "coord": [
-      32.9825454, 
-      -115.5319337
-    ], 
-    "desc": ""
-  }, 
   "Confluence Park": {
     "coord": [
       34.1391755, 
       -117.630054
-    ], 
-    "desc": ""
-  }, 
-  "Covington Park": {
-    "coord": [
-      34.0494549, 
-      -116.5730693
     ], 
     "desc": ""
   }, 
@@ -10716,38 +7482,10 @@
     ], 
     "desc": ""
   }, 
-  "Fletcher Hills Open Space": {
-    "coord": [
-      32.8139388, 
-      -116.9944724
-    ], 
-    "desc": ""
-  }, 
-  "Valencia Meadows Park": {
-    "coord": [
-      34.3924973, 
-      -118.5556418
-    ], 
-    "desc": ""
-  }, 
-  "Harper Field": {
-    "coord": [
-      34.1616762, 
-      -117.2889323
-    ], 
-    "desc": ""
-  }, 
   "San Antonio Canyon Park": {
     "coord": [
       34.4572191, 
       -119.7801392
-    ], 
-    "desc": ""
-  }, 
-  "Bayside Park": {
-    "coord": [
-      32.5889442, 
-      -117.1141961
     ], 
     "desc": ""
   }, 
@@ -10762,13 +7500,6 @@
     "coord": [
       34.1300094, 
       -117.5842194
-    ], 
-    "desc": ""
-  }, 
-  "Heritage County Park": {
-    "coord": [
-      32.7536612, 
-      -117.1933681
     ], 
     "desc": ""
   }, 
@@ -10800,13 +7531,6 @@
     ], 
     "desc": ""
   }, 
-  "Gaslamp Quarter Historic District": {
-    "coord": [
-      32.7119959, 
-      -117.1603107
-    ], 
-    "desc": ""
-  }, 
   "Obregon Park": {
     "coord": [
       34.3505549, 
@@ -10832,27 +7556,6 @@
     "coord": [
       34.0844546, 
       -118.2817418
-    ], 
-    "desc": ""
-  }, 
-  "North Shore Recreation Area": {
-    "coord": [
-      34.2644511, 
-      -116.9314226
-    ], 
-    "desc": ""
-  }, 
-  "William R Bradley Park": {
-    "coord": [
-      33.1378169, 
-      -117.2017013
-    ], 
-    "desc": ""
-  }, 
-  "Chicano Park": {
-    "coord": [
-      32.7003297, 
-      -117.1436433
     ], 
     "desc": ""
   }, 
@@ -10891,20 +7594,6 @@
     ], 
     "desc": ""
   }, 
-  "Westbluff Park": {
-    "coord": [
-      33.9652943, 
-      -117.260874
-    ], 
-    "desc": ""
-  }, 
-  "Oasis Water Park": {
-    "coord": [
-      33.805575, 
-      -116.492236
-    ], 
-    "desc": ""
-  }, 
   "Talbert Regional Park": {
     "coord": [
       33.6514088, 
@@ -10912,17 +7601,10 @@
     ], 
     "desc": ""
   }, 
-  "Eastview Park": {
+  "Oxnard Shores Park": {
     "coord": [
-      33.7641843, 
-      -118.3097939
-    ], 
-    "desc": ""
-  }, 
-  "Gershon Place Mini Park": {
-    "coord": [
-      33.7594619, 
-      -117.8136658
+      34.196949, 
+      -119.240665
     ], 
     "desc": ""
   }, 
@@ -10951,13 +7633,6 @@
     "coord": [
       34.1738889, 
       -118.4155556
-    ], 
-    "desc": ""
-  }, 
-  "Andulka Park": {
-    "coord": [
-      33.9569602, 
-      -117.3414323
     ], 
     "desc": ""
   }, 
@@ -10996,31 +7671,10 @@
     ], 
     "desc": ""
   }, 
-  "Bobby Bonds Park and Sports Complex": {
-    "coord": [
-      33.9733487, 
-      -117.3558775
-    ], 
-    "desc": ""
-  }, 
   "Eastside Neighborhood Park": {
     "coord": [
       34.427219, 
       -119.6770779
-    ], 
-    "desc": ""
-  }, 
-  "Tidelands Park": {
-    "coord": [
-      32.6917187, 
-      -117.1658663
-    ], 
-    "desc": ""
-  }, 
-  "William Green Park": {
-    "coord": [
-      33.8777927, 
-      -118.3567409
     ], 
     "desc": ""
   }, 
@@ -11035,20 +7689,6 @@
     "coord": [
       34.2941687, 
       -118.8492623
-    ], 
-    "desc": ""
-  }, 
-  "Smith Field": {
-    "coord": [
-      32.7744948, 
-      -117.078086
-    ], 
-    "desc": ""
-  }, 
-  "Century Park": {
-    "coord": [
-      33.8269627, 
-      -116.4425123
     ], 
     "desc": ""
   }, 
@@ -11101,20 +7741,6 @@
     ], 
     "desc": ""
   }, 
-  "Bogart County Park": {
-    "coord": [
-      33.9830704, 
-      -116.9533584
-    ], 
-    "desc": ""
-  }, 
-  "Rio Lindo Park": {
-    "coord": [
-      34.2222267, 
-      -119.1714961
-    ], 
-    "desc": ""
-  }, 
   "Baldwin Hills Playground": {
     "coord": [
       34.0241783, 
@@ -11129,27 +7755,6 @@
     ], 
     "desc": ""
   }, 
-  "Patterson Park": {
-    "coord": [
-      33.9786265, 
-      -117.351433
-    ], 
-    "desc": ""
-  }, 
-  "Val Scheer Rodeo Grounds": {
-    "coord": [
-      34.4077781, 
-      -117.3056007
-    ], 
-    "desc": ""
-  }, 
-  "Kimball Park": {
-    "coord": [
-      32.6708864, 
-      -117.1033635
-    ], 
-    "desc": ""
-  }, 
   "Dennison Park": {
     "coord": [
       34.4363835, 
@@ -11157,38 +7762,10 @@
     ], 
     "desc": ""
   }, 
-  "Pedrorena Park": {
-    "coord": [
-      33.8850178, 
-      -117.2180931
-    ], 
-    "desc": ""
-  }, 
-  "Mission Heights Park": {
-    "coord": [
-      32.7744942, 
-      -117.1675339
-    ], 
-    "desc": ""
-  }, 
-  "Bub Williamson Park": {
-    "coord": [
-      33.2003144, 
-      -117.2764252
-    ], 
-    "desc": ""
-  }, 
   "Ted Green Field": {
     "coord": [
       34.0841766, 
       -117.747557
-    ], 
-    "desc": ""
-  }, 
-  "Silverwood Lake State Recreation Area": {
-    "coord": [
-      34.2911157, 
-      -117.3283787
     ], 
     "desc": ""
   }, 
@@ -11217,13 +7794,6 @@
     "coord": [
       33.878349, 
       -117.5706052
-    ], 
-    "desc": ""
-  }, 
-  "Montgomery Waller Recreation Center": {
-    "coord": [
-      32.5825558, 
-      -117.0675274
     ], 
     "desc": ""
   }, 
@@ -11269,24 +7839,17 @@
     ], 
     "desc": ""
   }, 
-  "Taylor Pool": {
-    "coord": [
-      34.1269444, 
-      -118.2133333
-    ], 
-    "desc": ""
-  }, 
   "John F Kennedy Park": {
     "coord": [
-      32.6967192, 
-      -117.0916966
+      34.091121, 
+      -117.6967222
     ], 
     "desc": ""
   }, 
   "Independence Park": {
     "coord": [
-      32.6356104, 
-      -117.0078033
+      33.9202924, 
+      -118.1239571
     ], 
     "desc": ""
   }, 
@@ -11294,13 +7857,6 @@
     "coord": [
       34.1808384, 
       -118.4800832
-    ], 
-    "desc": ""
-  }, 
-  "Dinwiddie Preserve": {
-    "coord": [
-      33.3566982, 
-      -117.2305903
     ], 
     "desc": ""
   }, 
@@ -11315,13 +7871,6 @@
     "coord": [
       34.0641769, 
       -118.0867353
-    ], 
-    "desc": ""
-  }, 
-  "Swarthout Field": {
-    "coord": [
-      32.7994994, 
-      -115.5508285
     ], 
     "desc": ""
   }, 
@@ -11353,17 +7902,10 @@
     ], 
     "desc": ""
   }, 
-  "Promenade Park": {
+  "Camarillo House County Landmark": {
     "coord": [
-      34.2763908, 
-      -119.2967788
-    ], 
-    "desc": ""
-  }, 
-  "Van Der Linden Field": {
-    "coord": [
-      32.8069946, 
-      -115.3791532
+      34.2183381, 
+      -119.0178793
     ], 
     "desc": ""
   }, 
@@ -11388,20 +7930,6 @@
     ], 
     "desc": ""
   }, 
-  "Leucadia Park": {
-    "coord": [
-      33.0644856, 
-      -117.3028153
-    ], 
-    "desc": ""
-  }, 
-  "Palomares House and Park": {
-    "coord": [
-      33.3583647, 
-      -117.2305903
-    ], 
-    "desc": ""
-  }, 
   "Bodger Park": {
     "coord": [
       33.8966816, 
@@ -11423,27 +7951,6 @@
     ], 
     "desc": ""
   }, 
-  "Sefton Plaza": {
-    "coord": [
-      32.7317176, 
-      -117.1580887
-    ], 
-    "desc": ""
-  }, 
-  "Sweetwater Heights Park": {
-    "coord": [
-      32.6622759, 
-      -117.0591948
-    ], 
-    "desc": ""
-  }, 
-  "Sunset Cliffs": {
-    "coord": [
-      32.73, 
-      -117.2563
-    ], 
-    "desc": ""
-  }, 
   "Theresa Lindsay Park": {
     "coord": [
       33.9900141, 
@@ -11451,45 +7958,10 @@
     ], 
     "desc": ""
   }, 
-  "East San Diego Adult Recreation Center": {
-    "coord": [
-      32.7508842, 
-      -117.1005867
-    ], 
-    "desc": ""
-  }, 
-  "Upland Game Hunting Area": {
-    "coord": [
-      33.8797399, 
-      -117.1528118
-    ], 
-    "desc": ""
-  }, 
   "Cerritos Park East": {
     "coord": [
       33.8789035, 
       -118.0508981
-    ], 
-    "desc": ""
-  }, 
-  "Blue Sky Ecological Reserve": {
-    "coord": [
-      33.0250437, 
-      -117.010031
-    ], 
-    "desc": ""
-  }, 
-  "De Oro Park": {
-    "coord": [
-      33.6861335, 
-      -116.1866721
-    ], 
-    "desc": ""
-  }, 
-  "Silverset Park": {
-    "coord": [
-      32.9875448, 
-      -117.0536431
     ], 
     "desc": ""
   }, 
@@ -11502,8 +7974,8 @@
   }, 
   "Rio Vista Park": {
     "coord": [
-      34.122233, 
-      -117.3300445
+      33.8430711, 
+      -117.8681134
     ], 
     "desc": ""
   }, 
@@ -11528,13 +8000,6 @@
     ], 
     "desc": ""
   }, 
-  "Salt Creek Beach Park": {
-    "coord": [
-      33.4764165, 
-      -117.7219975
-    ], 
-    "desc": ""
-  }, 
   "Los Angeles Swim Stadium": {
     "coord": [
       34.0122355, 
@@ -11542,38 +8007,10 @@
     ], 
     "desc": ""
   }, 
-  "Tourmaline Surfing Park": {
-    "coord": [
-      32.8050483, 
-      -117.2617038
-    ], 
-    "desc": ""
-  }, 
   "Sowers Park": {
     "coord": [
       33.6644638, 
       -117.9661701
-    ], 
-    "desc": ""
-  }, 
-  "Woodland Park": {
-    "coord": [
-      33.14865, 
-      -117.1316996
-    ], 
-    "desc": ""
-  }, 
-  "Moonridge Zoo": {
-    "coord": [
-      34.2297302, 
-      -116.8605852
-    ], 
-    "desc": ""
-  }, 
-  "Rutland Park": {
-    "coord": [
-      33.956959, 
-      -117.4656033
     ], 
     "desc": ""
   }, 
@@ -11595,13 +8032,6 @@
     "coord": [
       34.1755608, 
       -118.503695
-    ], 
-    "desc": ""
-  }, 
-  "Meadow Natural Preserve": {
-    "coord": [
-      32.9728252, 
-      -116.5564074
     ], 
     "desc": ""
   }, 
@@ -11633,10 +8063,10 @@
     ], 
     "desc": ""
   }, 
-  "Bailey Canyon Wilderness Park": {
+  "Westwood Park": {
     "coord": [
-      34.1750057, 
-      -118.0614571
+      34.0533333, 
+      -118.4458333
     ], 
     "desc": ""
   }, 
@@ -11651,20 +8081,6 @@
     "coord": [
       34.1611173, 
       -118.0572902
-    ], 
-    "desc": ""
-  }, 
-  "Grantville Park": {
-    "coord": [
-      32.7872721, 
-      -117.095309
-    ], 
-    "desc": ""
-  }, 
-  "Old Town San Diego State Historical Park": {
-    "coord": [
-      32.7542167, 
-      -117.1969793
     ], 
     "desc": ""
   }, 
@@ -11710,31 +8126,10 @@
     ], 
     "desc": ""
   }, 
-  "Encinitas Beach County Park": {
-    "coord": [
-      33.0600414, 
-      -117.3036487
-    ], 
-    "desc": ""
-  }, 
-  "Winterwood Lane Park": {
-    "coord": [
-      32.9117131, 
-      -117.1592007
-    ], 
-    "desc": ""
-  }, 
   "Bicknell Park": {
     "coord": [
       34.0289009, 
       -118.1300699
-    ], 
-    "desc": ""
-  }, 
-  "Sandburg Park": {
-    "coord": [
-      32.9247683, 
-      -117.1489228
     ], 
     "desc": ""
   }, 
@@ -11773,38 +8168,17 @@
     ], 
     "desc": ""
   }, 
-  "East San Diego County Fairgrounds": {
-    "coord": [
-      32.8194945, 
-      -116.9678051
-    ], 
-    "desc": ""
-  }, 
   "Miles Park": {
     "coord": [
-      33.7222438, 
-      -116.2241733
-    ], 
-    "desc": ""
-  }, 
-  "Salton Sea National Wildlife Refuge": {
-    "coord": [
-      33.1500426, 
-      -115.7341625
-    ], 
-    "desc": ""
-  }, 
-  "Thermal Ball Park": {
-    "coord": [
-      33.6372458, 
-      -116.1430597
+      33.9797367, 
+      -118.21785
     ], 
     "desc": ""
   }, 
   "Bonita Park": {
     "coord": [
-      33.4850271, 
-      -117.6767179
+      34.1388959, 
+      -118.0250668
     ], 
     "desc": ""
   }, 
@@ -11836,13 +8210,6 @@
     ], 
     "desc": ""
   }, 
-  "Thirty-eighth Street Park": {
-    "coord": [
-      33.6172434, 
-      -117.9347804
-    ], 
-    "desc": ""
-  }, 
   "Satellite Park": {
     "coord": [
       33.8825147, 
@@ -11861,13 +8228,6 @@
     "coord": [
       34.104731, 
       -118.3359104
-    ], 
-    "desc": ""
-  }, 
-  "Radio Towers Park": {
-    "coord": [
-      32.8519936, 
-      -116.9644722
     ], 
     "desc": ""
   }, 
@@ -11899,52 +8259,10 @@
     ], 
     "desc": ""
   }, 
-  "Skyline Park": {
-    "coord": [
-      32.7053305, 
-      -117.0253052
-    ], 
-    "desc": ""
-  }, 
-  "Coast Boulevard Park": {
-    "coord": [
-      32.8444917, 
-      -117.2786487
-    ], 
-    "desc": ""
-  }, 
-  "Indian Hills Palms Park": {
-    "coord": [
-      33.8241843, 
-      -116.2916751
-    ], 
-    "desc": ""
-  }, 
   "Harmon Park": {
     "coord": [
       34.256115, 
       -119.1956639
-    ], 
-    "desc": ""
-  }, 
-  "Memorial Park Recreation Center": {
-    "coord": [
-      32.7000521, 
-      -117.1300316
-    ], 
-    "desc": ""
-  }, 
-  "Mathenson Park": {
-    "coord": [
-      32.6872743, 
-      -117.1728109
-    ], 
-    "desc": ""
-  }, 
-  "In-Ko-Pah County Park": {
-    "coord": [
-      32.6503398, 
-      -116.1100155
     ], 
     "desc": ""
   }, 
@@ -11978,8 +8296,8 @@
   }, 
   "Buena Vista Park": {
     "coord": [
-      33.1550384, 
-      -117.2439246
+      34.1522291, 
+      -118.3284108
     ], 
     "desc": ""
   }, 
@@ -12004,38 +8322,10 @@
     ], 
     "desc": ""
   }, 
-  "Santa Clara Point Community Park": {
-    "coord": [
-      32.7833822, 
-      -117.2492035
-    ], 
-    "desc": ""
-  }, 
   "Del Rancho Park": {
     "coord": [
       34.0369562, 
       -117.6639434
-    ], 
-    "desc": ""
-  }, 
-  "West Hills Park": {
-    "coord": [
-      32.8467155, 
-      -117.0211405
-    ], 
-    "desc": ""
-  }, 
-  "Berry Park": {
-    "coord": [
-      32.5675561, 
-      -117.0897503
-    ], 
-    "desc": ""
-  }, 
-  "Tokay Park": {
-    "coord": [
-      34.111955, 
-      -117.4567154
     ], 
     "desc": ""
   }, 
@@ -12060,13 +8350,6 @@
     ], 
     "desc": ""
   }, 
-  "Ocean Beach Recreation Center": {
-    "coord": [
-      32.7444943, 
-      -117.2455923
-    ], 
-    "desc": ""
-  }, 
   "Arroyo Verde Park": {
     "coord": [
       34.2875023, 
@@ -12078,20 +8361,6 @@
     "coord": [
       34.1550067, 
       -118.1192368
-    ], 
-    "desc": ""
-  }, 
-  "Louis Rubidoux Nature Center": {
-    "coord": [
-      33.979459, 
-      -117.4267133
-    ], 
-    "desc": ""
-  }, 
-  "Streeter Park": {
-    "coord": [
-      33.9505708, 
-      -117.4172682
     ], 
     "desc": ""
   }, 
@@ -12130,17 +8399,10 @@
     ], 
     "desc": ""
   }, 
-  "Swick and Matich Park": {
+  "Rocky Nook Park": {
     "coord": [
-      33.6655772, 
-      -117.3339284
-    ], 
-    "desc": ""
-  }, 
-  "Hawthorne Park": {
-    "coord": [
-      32.9800457, 
-      -115.5405453
+      34.4427749, 
+      -119.7109693
     ], 
     "desc": ""
   }, 
@@ -12155,13 +8417,6 @@
     "coord": [
       34.1766722, 
       -118.0178443
-    ], 
-    "desc": ""
-  }, 
-  "MacArthur Park Recreation Center": {
-    "coord": [
-      32.7697732, 
-      -117.0155836
     ], 
     "desc": ""
   }, 
@@ -12181,8 +8436,8 @@
   }, 
   "Prospect Park": {
     "coord": [
-      34.040292, 
-      -117.171704
+      34.0541784, 
+      -118.217573
     ], 
     "desc": ""
   }, 
@@ -12190,13 +8445,6 @@
     "coord": [
       34.0269557, 
       -118.0450672
-    ], 
-    "desc": ""
-  }, 
-  "Machris Park": {
-    "coord": [
-      34.0852856, 
-      -116.3772333
     ], 
     "desc": ""
   }, 
@@ -12249,13 +8497,6 @@
     ], 
     "desc": ""
   }, 
-  "Hartford Spring County Park": {
-    "coord": [
-      33.81167, 
-      -117.35111
-    ], 
-    "desc": ""
-  }, 
   "Gilmore Field (historical)": {
     "coord": [
       34.075, 
@@ -12263,38 +8504,10 @@
     ], 
     "desc": ""
   }, 
-  "Tiffany Park": {
+  "George Izay Park": {
     "coord": [
-      32.6461658, 
-      -116.990303
-    ], 
-    "desc": ""
-  }, 
-  "Rangel Park": {
-    "coord": [
-      33.926683, 
-      -116.9847483
-    ], 
-    "desc": ""
-  }, 
-  "Second Street Park": {
-    "coord": [
-      33.780576, 
-      -116.4589021
-    ], 
-    "desc": ""
-  }, 
-  "Del Playa Park": {
-    "coord": [
-      34.4091626, 
-      -119.8659717
-    ], 
-    "desc": ""
-  }, 
-  "Los Penasquitos Waterfowl Refuge": {
-    "coord": [
-      32.9294899, 
-      -117.2503143
+      34.1716729, 
+      -118.3200775
     ], 
     "desc": ""
   }, 
@@ -12312,10 +8525,10 @@
     ], 
     "desc": ""
   }, 
-  "Carmel del Mar Park": {
+  "Gould Park": {
     "coord": [
-      32.9386565, 
-      -117.2328138
+      34.4549959, 
+      -119.6531882
     ], 
     "desc": ""
   }, 
@@ -12323,27 +8536,6 @@
     "coord": [
       34.2747248, 
       -118.7231467
-    ], 
-    "desc": ""
-  }, 
-  "Guadalupe Park": {
-    "coord": [
-      33.9286245, 
-      -117.960896
-    ], 
-    "desc": ""
-  }, 
-  "Volcan Mountains Wilderness Preserve": {
-    "coord": [
-      33.1103208, 
-      -116.5825187
-    ], 
-    "desc": ""
-  }, 
-  "Tierrasanta Community Park": {
-    "coord": [
-      32.8306044, 
-      -117.0886425
     ], 
     "desc": ""
   }, 
@@ -12358,13 +8550,6 @@
     "coord": [
       34.0863988, 
       -118.3042425
-    ], 
-    "desc": ""
-  }, 
-  "Mira Mesa Park and Recreation Center": {
-    "coord": [
-      32.9139353, 
-      -117.1411447
     ], 
     "desc": ""
   }, 
@@ -12410,13 +8595,6 @@
     ], 
     "desc": ""
   }, 
-  "Plaza de Panama": {
-    "coord": [
-      32.7308843, 
-      -117.1503106
-    ], 
-    "desc": ""
-  }, 
   "Helme Park": {
     "coord": [
       33.6925183, 
@@ -12424,38 +8602,10 @@
     ], 
     "desc": ""
   }, 
-  "Silverwing Park": {
-    "coord": [
-      32.5775561, 
-      -117.0528043
-    ], 
-    "desc": ""
-  }, 
-  "Star Park": {
-    "coord": [
-      32.6842188, 
-      -117.1842003
-    ], 
-    "desc": ""
-  }, 
   "Barcelona Park": {
     "coord": [
       33.6319666, 
       -117.6578281
-    ], 
-    "desc": ""
-  }, 
-  "Westmorland City Park": {
-    "coord": [
-      33.0369896, 
-      -115.6180481
-    ], 
-    "desc": ""
-  }, 
-  "Todd Memorial Park": {
-    "coord": [
-      33.2080916, 
-      -117.3478158
     ], 
     "desc": ""
   }, 
@@ -12477,13 +8627,6 @@
     "coord": [
       34.4172186, 
       -119.8295828
-    ], 
-    "desc": ""
-  }, 
-  "Imperial National Wildlife Refuge": {
-    "coord": [
-      33.0819829, 
-      -114.6941241
     ], 
     "desc": ""
   }, 
@@ -12522,24 +8665,10 @@
     ], 
     "desc": ""
   }, 
-  "Salt Lake Park": {
-    "coord": [
-      33.9741811, 
-      -118.2064607
-    ], 
-    "desc": ""
-  }, 
   "Prado County Park": {
     "coord": [
       33.9261257, 
       -117.5978289
-    ], 
-    "desc": ""
-  }, 
-  "Gediman Park": {
-    "coord": [
-      33.6686327, 
-      -117.3280949
     ], 
     "desc": ""
   }, 
@@ -12578,52 +8707,10 @@
     ], 
     "desc": ""
   }, 
-  "Gompers Park": {
-    "coord": [
-      32.7156075, 
-      -117.0897524
-    ], 
-    "desc": ""
-  }, 
   "One Hundred Ninth Street Recreation Center": {
     "coord": [
       33.9361266, 
       -118.2486838
-    ], 
-    "desc": ""
-  }, 
-  "Tecolate Canyon Natural Park": {
-    "coord": [
-      32.8133819, 
-      -117.1964239
-    ], 
-    "desc": ""
-  }, 
-  "Crest Line Park": {
-    "coord": [
-      34.243062, 
-      -117.2764324
-    ], 
-    "desc": ""
-  }, 
-  "Paradise Hills Park": {
-    "coord": [
-      32.6861642, 
-      -117.0508615
-    ], 
-    "desc": ""
-  }, 
-  "Horsemans Center Park": {
-    "coord": [
-      34.4849984, 
-      -117.1319854
-    ], 
-    "desc": ""
-  }, 
-  "Gould Park": {
-    "coord": [
-      34.4549959, 
-      -119.6531882
     ], 
     "desc": ""
   }, 
@@ -12641,24 +8728,10 @@
     ], 
     "desc": ""
   }, 
-  "Todd Park": {
-    "coord": [
-      33.6147465, 
-      -114.5974568
-    ], 
-    "desc": ""
-  }, 
   "Paramount Park": {
     "coord": [
       33.9016819, 
       -118.158958
-    ], 
-    "desc": ""
-  }, 
-  "Evergreen Park": {
-    "coord": [
-      34.4374948, 
-      -119.8895838
     ], 
     "desc": ""
   }, 
@@ -12683,20 +8756,6 @@
     ], 
     "desc": ""
   }, 
-  "Black Mountain Scenic Area": {
-    "coord": [
-      33.8252959, 
-      -116.7702961
-    ], 
-    "desc": ""
-  }, 
-  "Del Obispo Community Park": {
-    "coord": [
-      33.4683609, 
-      -117.6831069
-    ], 
-    "desc": ""
-  }, 
   "Bicentennial Park": {
     "coord": [
       34.1138968, 
@@ -12704,17 +8763,10 @@
     ], 
     "desc": ""
   }, 
-  "Doheny Marine Life Refuge": {
+  "Oakwood Recreation Center": {
     "coord": [
-      33.4603056, 
-      -117.6808846
-    ], 
-    "desc": ""
-  }, 
-  "Shamel Park": {
-    "coord": [
-      33.9455711, 
-      -117.393934
+      33.9947332, 
+      -118.46369
     ], 
     "desc": ""
   }, 
@@ -12725,10 +8777,10 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Mission Viejo Ecological Reserve": {
+  "Don Tiburcio Tapia State Park": {
     "coord": [
-      33.4805821, 
-      -117.5675468
+      34.1191762, 
+      -117.6192203
     ], 
     "desc": ""
   }, 
@@ -12736,13 +8788,6 @@
     "coord": [
       34.424719, 
       -119.6765223
-    ], 
-    "desc": ""
-  }, 
-  "Surf and Turf Recreation Center": {
-    "coord": [
-      32.9756, 
-      -117.254481
     ], 
     "desc": ""
   }, 
@@ -12760,38 +8805,17 @@
     ], 
     "desc": ""
   }, 
-  "Repplier Park": {
+  "Oak Knoll Park": {
     "coord": [
-      33.9311267, 
-      -116.8797438
-    ], 
-    "desc": ""
-  }, 
-  "Levante School Park": {
-    "coord": [
-      33.0800411, 
-      -117.2425359
-    ], 
-    "desc": ""
-  }, 
-  "Elysian Valley Recreation Center": {
-    "coord": [
-      34.0991765, 
-      -118.2450742
+      33.8236265, 
+      -118.0336741
     ], 
     "desc": ""
   }, 
   "Santa Fe Park": {
     "coord": [
-      34.095289, 
-      -117.4369924
-    ], 
-    "desc": ""
-  }, 
-  "Lopez Canyon Open Space": {
-    "coord": [
-      32.9083796, 
-      -117.1908683
+      33.8702927, 
+      -117.8767253
     ], 
     "desc": ""
   }, 
@@ -12816,10 +8840,10 @@
     ], 
     "desc": ""
   }, 
-  "Lake Morena County Park": {
+  "Belfo Park": {
     "coord": [
-      32.6981112, 
-      -116.521128
+      33.8633481, 
+      -118.3817412
     ], 
     "desc": ""
   }, 
@@ -12844,20 +8868,6 @@
     ], 
     "desc": ""
   }, 
-  "Moonlight State Beach": {
-    "coord": [
-      33.0480974, 
-      -117.2969819
-    ], 
-    "desc": ""
-  }, 
-  "Kit Carson Park": {
-    "coord": [
-      33.0742085, 
-      -117.0625318
-    ], 
-    "desc": ""
-  }, 
   "Reynier Park": {
     "coord": [
       34.0355665, 
@@ -12879,10 +8889,10 @@
     ], 
     "desc": ""
   }, 
-  "Mount Rubidoux Park": {
+  "El Centro Park": {
     "coord": [
-      33.9830705, 
-      -117.3911566
+      33.9333466, 
+      -117.9428399
     ], 
     "desc": ""
   }, 
@@ -12907,13 +8917,6 @@
     ], 
     "desc": ""
   }, 
-  "Mission Springs Park": {
-    "coord": [
-      33.9436247, 
-      -116.4983453
-    ], 
-    "desc": ""
-  }, 
   "San Rafael Park": {
     "coord": [
       34.1405632, 
@@ -12921,17 +8924,10 @@
     ], 
     "desc": ""
   }, 
-  "Mission Historical Park": {
+  "Thirty-eighth Street Park": {
     "coord": [
-      34.4383304, 
-      -119.7115248
-    ], 
-    "desc": ""
-  }, 
-  "North Oaks Park": {
-    "coord": [
-      34.4277736, 
-      -118.4753615
+      33.6172434, 
+      -117.9347804
     ], 
     "desc": ""
   }, 
@@ -12998,10 +8994,10 @@
     ], 
     "desc": ""
   }, 
-  "Westwood Park": {
+  "Bailey Canyon Wilderness Park": {
     "coord": [
-      34.0533333, 
-      -118.4458333
+      34.1750057, 
+      -118.0614571
     ], 
     "desc": ""
   }, 
@@ -13077,15 +9073,8 @@
   }, 
   "Veterans Park": {
     "coord": [
-      33.5178054, 
-      -117.1203081
-    ], 
-    "desc": ""
-  }, 
-  "Twin Trails Park": {
-    "coord": [
-      32.9586564, 
-      -117.1339225
+      33.8172379, 
+      -118.0536747
     ], 
     "desc": ""
   }, 
@@ -13103,13 +9092,6 @@
     ], 
     "desc": ""
   }, 
-  "Dana Point Marine Life Refuge": {
-    "coord": [
-      33.4597502, 
-      -117.7161638
-    ], 
-    "desc": ""
-  }, 
   "San Dimas Canyon Nature Center": {
     "coord": [
       34.1283416, 
@@ -13119,8 +9101,8 @@
   }, 
   "Victoria Park": {
     "coord": [
-      33.853073, 
-      -116.540014
+      33.8714047, 
+      -117.5639383
     ], 
     "desc": ""
   }, 
@@ -13145,10 +9127,10 @@
     ], 
     "desc": ""
   }, 
-  "Botanical Gardens": {
+  "Harbor Park": {
     "coord": [
-      34.1319521, 
-      -118.11507
+      33.7875175, 
+      -118.287016
     ], 
     "desc": ""
   }, 
@@ -13159,17 +9141,10 @@
     ], 
     "desc": ""
   }, 
-  "Hidden Palms State Ecological Reserve": {
+  "Knapp Ranch Park": {
     "coord": [
-      33.6233589, 
-      -116.4036235
-    ], 
-    "desc": ""
-  }, 
-  "Treasure Island Park": {
-    "coord": [
-      33.9675138, 
-      -118.1320137
+      34.1888937, 
+      -118.6634216
     ], 
     "desc": ""
   }, 
@@ -13180,13 +9155,6 @@
     ], 
     "desc": ""
   }, 
-  "Doyle Community Park": {
-    "coord": [
-      32.8667139, 
-      -117.2119799
-    ], 
-    "desc": ""
-  }, 
   "Peck Park": {
     "coord": [
       33.7502958, 
@@ -13194,10 +9162,10 @@
     ], 
     "desc": ""
   }, 
-  "Jerome Park": {
+  "Camino Real Park": {
     "coord": [
-      33.7358509, 
-      -117.8967236
+      34.2686144, 
+      -119.2342764
     ], 
     "desc": ""
   }, 
@@ -13208,17 +9176,17 @@
     ], 
     "desc": ""
   }, 
-  "Point Loma Park": {
+  "Beardslee Park": {
     "coord": [
-      32.7247726, 
-      -117.2508701
+      34.1272296, 
+      -117.9786763
     ], 
     "desc": ""
   }, 
-  "Madison Park": {
+  "Treasure Island Park": {
     "coord": [
-      34.0466778, 
-      -117.752557
+      33.9675138, 
+      -118.1320137
     ], 
     "desc": ""
   }, 
@@ -13292,27 +9260,6 @@
     ], 
     "desc": ""
   }, 
-  "La Jolla Shores Park": {
-    "coord": [
-      32.8581028, 
-      -117.2567035
-    ], 
-    "desc": ""
-  }, 
-  "Oakbrook Community Park": {
-    "coord": [
-      34.2088935, 
-      -118.8331498
-    ], 
-    "desc": ""
-  }, 
-  "Shoreline Beach Park": {
-    "coord": [
-      32.7147731, 
-      -117.22448
-    ], 
-    "desc": ""
-  }, 
   "Shatto Recreation Center": {
     "coord": [
       34.0675109, 
@@ -13327,13 +9274,6 @@
     ], 
     "desc": ""
   }, 
-  "Goodland Acres Park": {
-    "coord": [
-      32.7372742, 
-      -117.0089163
-    ], 
-    "desc": ""
-  }, 
   "Crescent Bay Park": {
     "coord": [
       34.0058436, 
@@ -13341,10 +9281,10 @@
     ], 
     "desc": ""
   }, 
-  "Asilomar Park": {
+  "Jackie Robinson Park": {
     "coord": [
-      34.0397311, 
-      -118.5373039
+      34.1633398, 
+      -118.1503491
     ], 
     "desc": ""
   }, 
@@ -13352,13 +9292,6 @@
     "coord": [
       33.8233484, 
       -117.9981171
-    ], 
-    "desc": ""
-  }, 
-  "Del Dios Community Park": {
-    "coord": [
-      33.0772637, 
-      -117.1164219
     ], 
     "desc": ""
   }, 
@@ -13378,8 +9311,8 @@
   }, 
   "Descanso Park": {
     "coord": [
-      33.491138, 
-      -117.6653286
+      33.9333467, 
+      -117.9286729
     ], 
     "desc": ""
   }, 
@@ -13432,13 +9365,6 @@
     ], 
     "desc": ""
   }, 
-  "Bennington Monument": {
-    "coord": [
-      32.6897736, 
-      -117.2522587
-    ], 
-    "desc": ""
-  }, 
   "Sierra Linda Park": {
     "coord": [
       34.2277823, 
@@ -13450,20 +9376,6 @@
     "coord": [
       33.9627913, 
       -118.0967346
-    ], 
-    "desc": ""
-  }, 
-  "Dixon Dam and Lake City Park": {
-    "coord": [
-      33.1617054, 
-      -117.0466974
-    ], 
-    "desc": ""
-  }, 
-  "Rancho Conejo Open Space": {
-    "coord": [
-      34.2072271, 
-      -118.9334315
     ], 
     "desc": ""
   }, 
@@ -13502,10 +9414,10 @@
     ], 
     "desc": ""
   }, 
-  "Ponto State Beach": {
+  "Encino Park": {
     "coord": [
-      33.0669855, 
-      -117.3064265
+      34.1605612, 
+      -118.5028612
     ], 
     "desc": ""
   }, 
@@ -13551,24 +9463,10 @@
     ], 
     "desc": ""
   }, 
-  "Fire Mountain Park": {
-    "coord": [
-      33.1939255, 
-      -117.3383713
-    ], 
-    "desc": ""
-  }, 
   "Washington Park": {
     "coord": [
-      33.9339047, 
-      -117.3850446
-    ], 
-    "desc": ""
-  }, 
-  "Cleator Community Park": {
-    "coord": [
-      32.7469943, 
-      -117.2333696
+      34.1680619, 
+      -118.136182
     ], 
     "desc": ""
   }, 
@@ -13607,13 +9505,6 @@
     ], 
     "desc": ""
   }, 
-  "Glenoak Hills Park": {
-    "coord": [
-      33.5486389, 
-      -116.9961366
-    ], 
-    "desc": ""
-  }, 
   "Doctor Thomas G Mills Park": {
     "coord": [
       33.8483503, 
@@ -13649,20 +9540,6 @@
     ], 
     "desc": ""
   }, 
-  "Miller Park": {
-    "coord": [
-      33.6019691, 
-      -114.604679
-    ], 
-    "desc": ""
-  }, 
-  "Horine Park": {
-    "coord": [
-      34.1477879, 
-      -117.2794873
-    ], 
-    "desc": ""
-  }, 
   "Wilson Mini Park": {
     "coord": [
       34.1483409, 
@@ -13677,17 +9554,10 @@
     ], 
     "desc": ""
   }, 
-  "Machado Park": {
+  "Sumac Park": {
     "coord": [
-      33.686132, 
-      -117.3753188
-    ], 
-    "desc": ""
-  }, 
-  "Peninsula Park": {
-    "coord": [
-      34.1694492, 
-      -119.225942
+      34.1594496, 
+      -118.7550901
     ], 
     "desc": ""
   }, 
@@ -13700,8 +9570,8 @@
   }, 
   "Hilltop Park": {
     "coord": [
-      32.6286657, 
-      -117.0611389
+      33.9200133, 
+      -118.4075762
     ], 
     "desc": ""
   }, 
@@ -13719,13 +9589,6 @@
     ], 
     "desc": ""
   }, 
-  "Campo Stone Store County Park": {
-    "coord": [
-      32.6086714, 
-      -116.4750164
-    ], 
-    "desc": ""
-  }, 
   "Bixby Park": {
     "coord": [
       33.765851, 
@@ -13737,13 +9600,6 @@
     "coord": [
       34.418886, 
       -119.6940232
-    ], 
-    "desc": ""
-  }, 
-  "Walker-Wangenheim School Park": {
-    "coord": [
-      32.9089355, 
-      -117.1250331
     ], 
     "desc": ""
   }, 
@@ -13775,10 +9631,10 @@
     ], 
     "desc": ""
   }, 
-  "Oak Hill City Park": {
+  "North Ranch Park": {
     "coord": [
-      33.1314287, 
-      -117.0494755
+      34.1958381, 
+      -118.820649
     ], 
     "desc": ""
   }, 
@@ -13887,13 +9743,6 @@
     ], 
     "desc": ""
   }, 
-  "Mount San Jacinto State Park": {
-    "coord": [
-      33.8102965, 
-      -116.6758501
-    ], 
-    "desc": ""
-  }, 
   "George Key Ranch Historic Park": {
     "coord": [
       33.8975143, 
@@ -13943,13 +9792,6 @@
     ], 
     "desc": ""
   }, 
-  "Rockwood Plaza": {
-    "coord": [
-      32.6703366, 
-      -115.4930496
-    ], 
-    "desc": ""
-  }, 
   "Dawson Park": {
     "coord": [
       34.1180639, 
@@ -13957,24 +9799,10 @@
     ], 
     "desc": ""
   }, 
-  "Blair Park": {
+  "Kinney Plaza": {
     "coord": [
-      34.1513987, 
-      -117.3175443
-    ], 
-    "desc": ""
-  }, 
-  "Dana Cove Park": {
-    "coord": [
-      33.4611391, 
-      -117.7069967
-    ], 
-    "desc": ""
-  }, 
-  "Viaduct Park": {
-    "coord": [
-      34.1030672, 
-      -117.3128215
+      33.9883333, 
+      -118.4711111
     ], 
     "desc": ""
   }, 
@@ -13982,13 +9810,6 @@
     "coord": [
       33.7105733, 
       -117.9945042
-    ], 
-    "desc": ""
-  }, 
-  "Porter Park": {
-    "coord": [
-      32.7678289, 
-      -117.0155836
     ], 
     "desc": ""
   }, 
@@ -14015,43 +9836,8 @@
   }, 
   "Centennial Park": {
     "coord": [
-      32.6994962, 
-      -117.1719777
-    ], 
-    "desc": ""
-  }, 
-  "Power Easement Park": {
-    "coord": [
-      34.0383457, 
-      -117.4947719
-    ], 
-    "desc": ""
-  }, 
-  "Legion Park": {
-    "coord": [
-      32.6708924, 
-      -115.5049947
-    ], 
-    "desc": ""
-  }, 
-  "South Bay Recreation Center": {
-    "coord": [
-      32.5781114, 
-      -117.0953062
-    ], 
-    "desc": ""
-  }, 
-  "Solano Highlands Park": {
-    "coord": [
-      32.9581005, 
-      -117.2355916
-    ], 
-    "desc": ""
-  }, 
-  "La Costa Meadows-Fuerte Park": {
-    "coord": [
-      33.1042069, 
-      -117.2417024
+      34.0202901, 
+      -117.6406093
     ], 
     "desc": ""
   }, 
@@ -14125,31 +9911,10 @@
     ], 
     "desc": ""
   }, 
-  "Encanto Park Recreation Center": {
-    "coord": [
-      32.7144966, 
-      -117.0578066
-    ], 
-    "desc": ""
-  }, 
   "Toberman Playground": {
     "coord": [
       34.0394566, 
       -118.2792413
-    ], 
-    "desc": ""
-  }, 
-  "High Ridge Park": {
-    "coord": [
-      33.7669609, 
-      -118.3822952
-    ], 
-    "desc": ""
-  }, 
-  "West Main Park": {
-    "coord": [
-      32.7933889, 
-      -115.5711072
     ], 
     "desc": ""
   }, 
@@ -14160,17 +9925,10 @@
     ], 
     "desc": ""
   }, 
-  "Parkside Park": {
+  "Willow Glen Park": {
     "coord": [
-      32.6681092, 
-      -117.0516946
-    ], 
-    "desc": ""
-  }, 
-  "El Rancho del Rey Park": {
-    "coord": [
-      32.6367215, 
-      -117.0039144
+      34.4499975, 
+      -119.7443049
     ], 
     "desc": ""
   }, 
@@ -14178,13 +9936,6 @@
     "coord": [
       33.7847394, 
       -118.1572893
-    ], 
-    "desc": ""
-  }, 
-  "Orange Crest Number 2 Park": {
-    "coord": [
-      33.892795, 
-      -117.3086525
     ], 
     "desc": ""
   }, 
@@ -14202,13 +9953,6 @@
     ], 
     "desc": ""
   }, 
-  "South Jackson Park": {
-    "coord": [
-      33.7119662, 
-      -116.2147286
-    ], 
-    "desc": ""
-  }, 
   "Bandini Park": {
     "coord": [
       33.746407, 
@@ -14220,20 +9964,6 @@
     "coord": [
       33.9655699, 
       -118.1822931
-    ], 
-    "desc": ""
-  }, 
-  "Steele Canyon County Park": {
-    "coord": [
-      32.7336642, 
-      -116.9300252
-    ], 
-    "desc": ""
-  }, 
-  "Carreon Park": {
-    "coord": [
-      33.7080777, 
-      -116.2327847
     ], 
     "desc": ""
   }, 
@@ -14258,10 +9988,10 @@
     ], 
     "desc": ""
   }, 
-  "Azalea Park": {
+  "Salt Lake Park": {
     "coord": [
-      32.7311625, 
-      -117.1053088
+      33.9741811, 
+      -118.2064607
     ], 
     "desc": ""
   }, 
@@ -14286,10 +10016,10 @@
     ], 
     "desc": ""
   }, 
-  "Joshua Drive Park": {
+  "Toro Canyon County Park": {
     "coord": [
-      34.1041744, 
-      -116.4214012
+      34.4402725, 
+      -119.5609599
     ], 
     "desc": ""
   }, 
@@ -14304,13 +10034,6 @@
     "coord": [
       34.171394, 
       -119.1570506
-    ], 
-    "desc": ""
-  }, 
-  "Jesmond Dene Park": {
-    "coord": [
-      33.1678162, 
-      -117.0916985
     ], 
     "desc": ""
   }, 
@@ -14342,20 +10065,6 @@
     ], 
     "desc": ""
   }, 
-  "Maddox Park": {
-    "coord": [
-      32.9069909, 
-      -117.1567006
-    ], 
-    "desc": ""
-  }, 
-  "Gershwin Park": {
-    "coord": [
-      32.8339369, 
-      -117.2114244
-    ], 
-    "desc": ""
-  }, 
   "La Pintoresca Park": {
     "coord": [
       34.1694507, 
@@ -14365,8 +10074,8 @@
   }, 
   "Rainbow Park": {
     "coord": [
-      33.413086, 
-      -117.1503097
+      33.8619592, 
+      -118.0403417
     ], 
     "desc": ""
   }, 
@@ -14426,13 +10135,6 @@
     ], 
     "desc": ""
   }, 
-  "Castleview Park": {
-    "coord": [
-      33.9339051, 
-      -117.3444876
-    ], 
-    "desc": ""
-  }, 
   "Spaulding Field": {
     "coord": [
       34.0688979, 
@@ -14440,38 +10142,10 @@
     ], 
     "desc": ""
   }, 
-  "South Lane Park": {
-    "coord": [
-      32.8019963, 
-      -116.8664133
-    ], 
-    "desc": ""
-  }, 
   "Siger Park": {
     "coord": [
       33.7572385, 
       -118.0020046
-    ], 
-    "desc": ""
-  }, 
-  "Laurelwood Park": {
-    "coord": [
-      34.226949, 
-      -119.0423248
-    ], 
-    "desc": ""
-  }, 
-  "Sunnyslope Park": {
-    "coord": [
-      32.5778337, 
-      -117.0783611
-    ], 
-    "desc": ""
-  }, 
-  "Lake Cahuilla Park": {
-    "coord": [
-      33.6341916, 
-      -116.2794531
     ], 
     "desc": ""
   }, 
@@ -14503,17 +10177,10 @@
     ], 
     "desc": ""
   }, 
-  "Sea Terrace Community Park": {
+  "Eastview Park": {
     "coord": [
-      33.4791942, 
-      -117.7183863
-    ], 
-    "desc": ""
-  }, 
-  "Edmund C Jaeger Nature Sanctuary": {
-    "coord": [
-      33.6869641, 
-      -115.4441509
+      33.7641843, 
+      -118.3097939
     ], 
     "desc": ""
   }, 
@@ -14545,13 +10212,6 @@
     ], 
     "desc": ""
   }, 
-  "San Pasqual Battlefield State Historical Monument": {
-    "coord": [
-      33.0861528, 
-      -116.99003
-    ], 
-    "desc": ""
-  }, 
   "Honda Valley Park": {
     "coord": [
       34.4083309, 
@@ -14580,13 +10240,6 @@
     ], 
     "desc": ""
   }, 
-  "River Park": {
-    "coord": [
-      32.9686577, 
-      -115.5544352
-    ], 
-    "desc": ""
-  }, 
   "Price Playground": {
     "coord": [
       34.0561216, 
@@ -14608,13 +10261,6 @@
     ], 
     "desc": ""
   }, 
-  "Knob Hill Park": {
-    "coord": [
-      33.139206, 
-      -117.1211439
-    ], 
-    "desc": ""
-  }, 
   "Behringer Park": {
     "coord": [
       33.9014026, 
@@ -14629,13 +10275,6 @@
     ], 
     "desc": ""
   }, 
-  "Lake Mathews Ecological Reserve": {
-    "coord": [
-      33.8405731, 
-      -117.3772651
-    ], 
-    "desc": ""
-  }, 
   "Roger Chaffee Park": {
     "coord": [
       33.8919585, 
@@ -14647,13 +10286,6 @@
     "coord": [
       34.2611136, 
       -118.3214674
-    ], 
-    "desc": ""
-  }, 
-  "Breeze Hill Park": {
-    "coord": [
-      33.185315, 
-      -117.2544802
     ], 
     "desc": ""
   }, 
@@ -14678,27 +10310,6 @@
     ], 
     "desc": ""
   }, 
-  "Tamarind Park": {
-    "coord": [
-      34.1083442, 
-      -117.4214365
-    ], 
-    "desc": ""
-  }, 
-  "Mira Costa Park": {
-    "coord": [
-      33.4530835, 
-      -117.6558835
-    ], 
-    "desc": ""
-  }, 
-  "Kensington Park": {
-    "coord": [
-      32.7631061, 
-      -117.1064204
-    ], 
-    "desc": ""
-  }, 
   "De Portola Park": {
     "coord": [
       33.7930722, 
@@ -14706,31 +10317,10 @@
     ], 
     "desc": ""
   }, 
-  "Scripps Park": {
-    "coord": [
-      32.775606, 
-      -117.0725303
-    ], 
-    "desc": ""
-  }, 
   "Hamilton Park": {
     "coord": [
       34.0608439, 
       -117.7639464
-    ], 
-    "desc": ""
-  }, 
-  "El Cajon City Park": {
-    "coord": [
-      32.7989398, 
-      -116.9539156
-    ], 
-    "desc": ""
-  }, 
-  "Lugonia Park": {
-    "coord": [
-      34.0697353, 
-      -117.184205
     ], 
     "desc": ""
   }, 
@@ -14755,13 +10345,6 @@
     ], 
     "desc": ""
   }, 
-  "Estrella County Park": {
-    "coord": [
-      32.7508852, 
-      -116.9844712
-    ], 
-    "desc": ""
-  }, 
   "Cherry Avenue Park": {
     "coord": [
       33.8394608, 
@@ -14769,24 +10352,10 @@
     ], 
     "desc": ""
   }, 
-  "Emerald Hills Park": {
-    "coord": [
-      32.721163, 
-      -117.0739186
-    ], 
-    "desc": ""
-  }, 
   "Lomita Park": {
     "coord": [
-      32.7097748, 
-      -117.0280832
-    ], 
-    "desc": ""
-  }, 
-  "Green Spot Picnic Area": {
-    "coord": [
-      34.2258416, 
-      -116.8103051
+      33.8033502, 
+      -118.3139612
     ], 
     "desc": ""
   }, 
@@ -14832,20 +10401,6 @@
     ], 
     "desc": ""
   }, 
-  "Verdemont Park": {
-    "coord": [
-      34.2013969, 
-      -117.3669907
-    ], 
-    "desc": ""
-  }, 
-  "Loma Linda Community Park": {
-    "coord": [
-      34.0561249, 
-      -117.2605971
-    ], 
-    "desc": ""
-  }, 
   "Coronet Park": {
     "coord": [
       33.7405725, 
@@ -14874,13 +10429,6 @@
     ], 
     "desc": ""
   }, 
-  "Willow Glen Park": {
-    "coord": [
-      34.4499975, 
-      -119.7443049
-    ], 
-    "desc": ""
-  }, 
   "Val Verde Park": {
     "coord": [
       34.4449952, 
@@ -14888,17 +10436,10 @@
     ], 
     "desc": ""
   }, 
-  "California Oaks Sports Park": {
+  "East Shore Recreational Vehicle Park": {
     "coord": [
-      33.5708583, 
-      -117.2036451
-    ], 
-    "desc": ""
-  }, 
-  "Beardslee Park": {
-    "coord": [
-      34.1272296, 
-      -117.9786763
+      34.0863985, 
+      -117.7953364
     ], 
     "desc": ""
   }, 
@@ -14923,13 +10464,6 @@
     ], 
     "desc": ""
   }, 
-  "Halecrest Park": {
-    "coord": [
-      32.6353323, 
-      -117.0455827
-    ], 
-    "desc": ""
-  }, 
   "Jesse Owens Track And Field": {
     "coord": [
       34.0641667, 
@@ -14944,38 +10478,10 @@
     ], 
     "desc": ""
   }, 
-  "Mandell-Weiss Eastgate City Park": {
-    "coord": [
-      32.8758803, 
-      -117.2161468
-    ], 
-    "desc": ""
-  }, 
-  "Highland and Lands Park": {
-    "coord": [
-      32.7464399, 
-      -117.1000311
-    ], 
-    "desc": ""
-  }, 
   "Junior High Park": {
     "coord": [
       33.9264026, 
       -117.8931159
-    ], 
-    "desc": ""
-  }, 
-  "Box Springs Mountain Regional Park": {
-    "coord": [
-      33.9652942, 
-      -117.2717077
-    ], 
-    "desc": ""
-  }, 
-  "El Marino Park": {
-    "coord": [
-      33.9925121, 
-      -118.3992438
     ], 
     "desc": ""
   }, 
@@ -14986,31 +10492,10 @@
     ], 
     "desc": ""
   }, 
-  "Fallbrook Park": {
-    "coord": [
-      33.3772529, 
-      -117.2364239
-    ], 
-    "desc": ""
-  }, 
   "Windermere Park": {
     "coord": [
       33.891125, 
       -118.0070079
-    ], 
-    "desc": ""
-  }, 
-  "Eddie West Field": {
-    "coord": [
-      33.7505556, 
-      -117.8772222
-    ], 
-    "desc": ""
-  }, 
-  "Tucca Park": {
-    "coord": [
-      34.1050084, 
-      -116.4933471
     ], 
     "desc": ""
   }, 
@@ -15021,38 +10506,10 @@
     ], 
     "desc": ""
   }, 
-  "Niguel Marine Life Refuge": {
-    "coord": [
-      33.475861, 
-      -117.7231086
-    ], 
-    "desc": ""
-  }, 
-  "Fanuel Street Park": {
-    "coord": [
-      32.7914377, 
-      -117.2425366
-    ], 
-    "desc": ""
-  }, 
   "Rancho Ventura Linear Park": {
     "coord": [
       34.2661145, 
       -119.1906637
-    ], 
-    "desc": ""
-  }, 
-  "Indio Terrace Park": {
-    "coord": [
-      33.7333543, 
-      -116.2030614
-    ], 
-    "desc": ""
-  }, 
-  "Cadencia Park": {
-    "coord": [
-      33.0933739, 
-      -117.2342023
     ], 
     "desc": ""
   }, 
@@ -15077,24 +10534,10 @@
     ], 
     "desc": ""
   }, 
-  "El Vado Historical Marker": {
-    "coord": [
-      33.3425353, 
-      -116.3939015
-    ], 
-    "desc": ""
-  }, 
   "Pacific Park": {
     "coord": [
       34.1886165, 
       -118.3525788
-    ], 
-    "desc": ""
-  }, 
-  "Meadowbrook Park": {
-    "coord": [
-      34.1039006, 
-      -117.2855983
     ], 
     "desc": ""
   }, 
@@ -15154,13 +10597,6 @@
     ], 
     "desc": ""
   }, 
-  "Bagdouma Park": {
-    "coord": [
-      33.6714118, 
-      -116.1888945
-    ], 
-    "desc": ""
-  }, 
   "Essex Park": {
     "coord": [
       34.0505667, 
@@ -15184,8 +10620,8 @@
   }, 
   "North Park": {
     "coord": [
-      32.7522728, 
-      -117.1344769
+      33.9797354, 
+      -118.3478534
     ], 
     "desc": ""
   }, 
@@ -15200,13 +10636,6 @@
     "coord": [
       33.7644609, 
       -118.0350618
-    ], 
-    "desc": ""
-  }, 
-  "Santee Lake Regional Park": {
-    "coord": [
-      32.8808813, 
-      -116.9989181
     ], 
     "desc": ""
   }, 
@@ -15231,13 +10660,6 @@
     ], 
     "desc": ""
   }, 
-  "Van Zanten Park": {
-    "coord": [
-      32.8119952, 
-      -116.9305818
-    ], 
-    "desc": ""
-  }, 
   "Michelson Street Park": {
     "coord": [
       33.8575159, 
@@ -15252,38 +10674,10 @@
     ], 
     "desc": ""
   }, 
-  "Squibob Square": {
-    "coord": [
-      32.7533834, 
-      -117.196146
-    ], 
-    "desc": ""
-  }, 
-  "Ayala Park": {
-    "coord": [
-      34.0691789, 
-      -117.4050468
-    ], 
-    "desc": ""
-  }, 
-  "Harry A Lyon Park": {
-    "coord": [
-      34.3000009, 
-      -119.2898343
-    ], 
-    "desc": ""
-  }, 
   "McCambridge Park": {
     "coord": [
       34.1919497, 
       -118.3211889
-    ], 
-    "desc": ""
-  }, 
-  "Rod McLeod Park": {
-    "coord": [
-      33.146428, 
-      -117.0980877
     ], 
     "desc": ""
   }, 
@@ -15322,13 +10716,6 @@
     ], 
     "desc": ""
   }, 
-  "San Gorgonio Park": {
-    "coord": [
-      33.4505835, 
-      -117.6425496
-    ], 
-    "desc": ""
-  }, 
   "Upland Memorial Park": {
     "coord": [
       34.1058431, 
@@ -15340,13 +10727,6 @@
     "coord": [
       33.6444662, 
       -117.6794954
-    ], 
-    "desc": ""
-  }, 
-  "Holiday Park": {
-    "coord": [
-      33.1600377, 
-      -117.3392047
     ], 
     "desc": ""
   }, 
@@ -15378,20 +10758,6 @@
     ], 
     "desc": ""
   }, 
-  "La Sierra Park": {
-    "coord": [
-      33.9264038, 
-      -117.4914371
-    ], 
-    "desc": ""
-  }, 
-  "San Diego-La Jolla Ecological Reserve": {
-    "coord": [
-      32.8578249, 
-      -117.2667038
-    ], 
-    "desc": ""
-  }, 
   "Highlands Park": {
     "coord": [
       34.0583443, 
@@ -15399,17 +10765,10 @@
     ], 
     "desc": ""
   }, 
-  "Damon Lane County Park": {
+  "Venice City Beach": {
     "coord": [
-      32.754219, 
-      -116.9425258
-    ], 
-    "desc": ""
-  }, 
-  "Canyon Country Park": {
-    "coord": [
-      34.4183295, 
-      -118.4473052
+      33.9786224, 
+      -118.4675787
     ], 
     "desc": ""
   }, 
@@ -15424,13 +10783,6 @@
     "coord": [
       34.0311209, 
       -118.4750799
-    ], 
-    "desc": ""
-  }, 
-  "Perris Hill Park": {
-    "coord": [
-      34.1341774, 
-      -117.2669868
     ], 
     "desc": ""
   }, 
@@ -15469,17 +10821,10 @@
     ], 
     "desc": ""
   }, 
-  "Thirty Eighth Street County Park": {
+  "Eddie West Field": {
     "coord": [
-      33.4347514, 
-      -114.6277338
-    ], 
-    "desc": ""
-  }, 
-  "North Fontana Park": {
-    "coord": [
-      34.1383431, 
-      -117.4542155
+      33.7505556, 
+      -117.8772222
     ], 
     "desc": ""
   }, 
@@ -15499,8 +10844,8 @@
   }, 
   "Hollywood Park": {
     "coord": [
-      32.7283848, 
-      -117.1036421
+      33.94944, 
+      -118.335
     ], 
     "desc": ""
   }, 
@@ -15518,24 +10863,10 @@
     ], 
     "desc": ""
   }, 
-  "South Oceanside Park": {
-    "coord": [
-      33.177537, 
-      -117.3564274
-    ], 
-    "desc": ""
-  }, 
   "Paul Griffin Park": {
     "coord": [
       34.2975018, 
       -118.8400953
-    ], 
-    "desc": ""
-  }, 
-  "University of California San Diego Park": {
-    "coord": [
-      32.8847689, 
-      -117.2342028
     ], 
     "desc": ""
   }, 
@@ -15602,13 +10933,6 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Jurupa Park": {
-    "coord": [
-      33.979737, 
-      -117.4064349
-    ], 
-    "desc": ""
-  }, 
   "Garden Grove Park": {
     "coord": [
       33.7625164, 
@@ -15625,8 +10949,8 @@
   }, 
   "South Park": {
     "coord": [
-      34.0761194, 
-      -116.3991779
+      33.9972364, 
+      -118.2672962
     ], 
     "desc": ""
   }, 
@@ -15637,31 +10961,10 @@
     ], 
     "desc": ""
   }, 
-  "Ocean Beach Park": {
-    "coord": [
-      32.7522718, 
-      -117.2519815
-    ], 
-    "desc": ""
-  }, 
-  "Soledad Park": {
-    "coord": [
-      32.8411587, 
-      -117.2439255
-    ], 
-    "desc": ""
-  }, 
   "Stimson Park": {
     "coord": [
       34.0030675, 
       -117.9611754
-    ], 
-    "desc": ""
-  }, 
-  "Roy W Kabian Memorial Park": {
-    "coord": [
-      33.720854, 
-      -117.2480925
     ], 
     "desc": ""
   }, 
@@ -15693,27 +10996,6 @@
     ], 
     "desc": ""
   }, 
-  "Muir Field": {
-    "coord": [
-      32.8769, 
-      -117.2428
-    ], 
-    "desc": ""
-  }, 
-  "Peter Mclntyre County Park": {
-    "coord": [
-      33.5164158, 
-      -114.5638435
-    ], 
-    "desc": ""
-  }, 
-  "Summer Lake Park": {
-    "coord": [
-      33.6930762, 
-      -117.3919861
-    ], 
-    "desc": ""
-  }, 
   "Cleland Avenue Bicentennial Park": {
     "coord": [
       34.1133423, 
@@ -15728,17 +11010,10 @@
     ], 
     "desc": ""
   }, 
-  "San Eligo Lagoon County Park and Ecological Reserve": {
+  "Taylor Pool": {
     "coord": [
-      33.0100435, 
-      -117.2617033
-    ], 
-    "desc": ""
-  }, 
-  "Mount Acadia Park": {
-    "coord": [
-      32.8122709, 
-      -117.1797566
+      34.1269444, 
+      -118.2133333
     ], 
     "desc": ""
   }, 
@@ -15753,20 +11028,6 @@
     "coord": [
       34.2163931, 
       -118.604254
-    ], 
-    "desc": ""
-  }, 
-  "Ivey Ranch Park": {
-    "coord": [
-      33.2297576, 
-      -117.3161483
-    ], 
-    "desc": ""
-  }, 
-  "Morley Field Sports Complex": {
-    "coord": [
-      32.7394953, 
-      -117.1391991
     ], 
     "desc": ""
   }, 
@@ -15791,24 +11052,10 @@
     ], 
     "desc": ""
   }, 
-  "Rocky Nook Park": {
-    "coord": [
-      34.4427749, 
-      -119.7109693
-    ], 
-    "desc": ""
-  }, 
   "Franklin Park": {
     "coord": [
       34.4263857, 
       -119.6793002
-    ], 
-    "desc": ""
-  }, 
-  "La Jolla Heights Park": {
-    "coord": [
-      32.8428253, 
-      -117.2608704
     ], 
     "desc": ""
   }, 
@@ -15840,10 +11087,10 @@
     ], 
     "desc": ""
   }, 
-  "Reseda Park": {
+  "William Peak Park": {
     "coord": [
-      34.1883381, 
-      -118.5339739
+      33.8491814, 
+      -118.0086737
     ], 
     "desc": ""
   }, 
@@ -15851,34 +11098,6 @@
     "coord": [
       33.7489063, 
       -117.8686672
-    ], 
-    "desc": ""
-  }, 
-  "Northmont Park": {
-    "coord": [
-      32.7883839, 
-      -117.0003055
-    ], 
-    "desc": ""
-  }, 
-  "Highland Ranch Park": {
-    "coord": [
-      32.9922668, 
-      -117.0758659
-    ], 
-    "desc": ""
-  }, 
-  "Ocean Knoll Park": {
-    "coord": [
-      33.4664166, 
-      -117.6925518
-    ], 
-    "desc": ""
-  }, 
-  "Clairmont Park": {
-    "coord": [
-      32.8061599, 
-      -117.1992017
     ], 
     "desc": ""
   }, 
@@ -15945,17 +11164,10 @@
     ], 
     "desc": ""
   }, 
-  "Desert Highland Park": {
-    "coord": [
-      33.8675168, 
-      -116.5522361
-    ], 
-    "desc": ""
-  }, 
   "Rolling Hills Park": {
     "coord": [
-      32.9925446, 
-      -117.0919773
+      33.9000142, 
+      -117.9003378
     ], 
     "desc": ""
   }, 
@@ -15970,20 +11182,6 @@
     "coord": [
       33.7883493, 
       -118.0342288
-    ], 
-    "desc": ""
-  }, 
-  "Triangle Park": {
-    "coord": [
-      32.6958851, 
-      -117.1786447
-    ], 
-    "desc": ""
-  }, 
-  "Old Town Park": {
-    "coord": [
-      34.0927882, 
-      -117.586997
     ], 
     "desc": ""
   }, 
@@ -16003,22 +11201,8 @@
   }, 
   "Sierra Vista Park": {
     "coord": [
-      33.6825223, 
-      -116.163338
-    ], 
-    "desc": ""
-  }, 
-  "Mormon Battalion Memorial": {
-    "coord": [
-      32.7538725, 
-      -117.1943411
-    ], 
-    "desc": ""
-  }, 
-  "Inaja Memorial Park": {
-    "coord": [
-      33.0986546, 
-      -116.6641872
+      34.1172316, 
+      -117.6475544
     ], 
     "desc": ""
   }, 
@@ -16026,13 +11210,6 @@
     "coord": [
       33.8722383, 
       -118.1956255
-    ], 
-    "desc": ""
-  }, 
-  "San Diego County Fairgrounds": {
-    "coord": [
-      32.9733777, 
-      -117.2630923
     ], 
     "desc": ""
   }, 
@@ -16057,45 +11234,10 @@
     ], 
     "desc": ""
   }, 
-  "Libbey Park": {
-    "coord": [
-      34.4463829, 
-      -119.2448336
-    ], 
-    "desc": ""
-  }, 
-  "Agricultural Park": {
-    "coord": [
-      33.9597367, 
-      -117.4714369
-    ], 
-    "desc": ""
-  }, 
-  "Golden Rule Park": {
-    "coord": [
-      34.1291739, 
-      -116.4383466
-    ], 
-    "desc": ""
-  }, 
-  "Summit Park": {
-    "coord": [
-      32.6858867, 
-      -117.006693
-    ], 
-    "desc": ""
-  }, 
   "Cucamonga-Gusti Regional Park": {
     "coord": [
       34.0736221, 
       -117.5908859
-    ], 
-    "desc": ""
-  }, 
-  "Hunter Park": {
-    "coord": [
-      33.9991818, 
-      -117.3419885
     ], 
     "desc": ""
   }, 
@@ -16134,13 +11276,6 @@
     ], 
     "desc": ""
   }, 
-  "Renzuilli Park": {
-    "coord": [
-      32.8339382, 
-      -117.0083621
-    ], 
-    "desc": ""
-  }, 
   "Joe Rodgers Field": {
     "coord": [
       33.78, 
@@ -16169,13 +11304,6 @@
     ], 
     "desc": ""
   }, 
-  "Parque Del Arroyo Verde": {
-    "coord": [
-      33.8844591, 
-      -117.8461691
-    ], 
-    "desc": ""
-  }, 
   "McDonald Park": {
     "coord": [
       34.1625065, 
@@ -16199,22 +11327,15 @@
   }, 
   "Hillside Park": {
     "coord": [
-      32.8056059, 
-      -116.9869721
+      34.4377748, 
+      -119.7040244
     ], 
     "desc": ""
   }, 
-  "Petco Park": {
+  "Chumash County Park": {
     "coord": [
-      32.7075516, 
-      -117.1569772
-    ], 
-    "desc": ""
-  }, 
-  "Cabrillo": {
-    "coord": [
-      32.6731075, 
-      -117.2497584
+      34.1502832, 
+      -118.7556454
     ], 
     "desc": ""
   }, 
@@ -16229,27 +11350,6 @@
     "coord": [
       34.2686139, 
       -118.6820345
-    ], 
-    "desc": ""
-  }, 
-  "Gateway Park": {
-    "coord": [
-      33.9619611, 
-      -117.2444844
-    ], 
-    "desc": ""
-  }, 
-  "Missile Park": {
-    "coord": [
-      32.8306042, 
-      -117.1311439
-    ], 
-    "desc": ""
-  }, 
-  "Hilleary Park": {
-    "coord": [
-      32.9633788, 
-      -117.0380869
     ], 
     "desc": ""
   }, 
@@ -16274,10 +11374,10 @@
     ], 
     "desc": ""
   }, 
-  "Gwinn Park": {
+  "Kingsbriar Park": {
     "coord": [
-      34.1577843, 
-      -118.088958
+      33.8819595, 
+      -117.7867226
     ], 
     "desc": ""
   }, 
@@ -16292,13 +11392,6 @@
     "coord": [
       33.8564036, 
       -117.9575611
-    ], 
-    "desc": ""
-  }, 
-  "College View Park": {
-    "coord": [
-      33.7255728, 
-      -118.0120049
     ], 
     "desc": ""
   }, 
@@ -16323,20 +11416,6 @@
     ], 
     "desc": ""
   }, 
-  "Imperial Beach Sports Park": {
-    "coord": [
-      32.5758889, 
-      -117.1236408
-    ], 
-    "desc": ""
-  }, 
-  "Sand Hills Park": {
-    "coord": [
-      34.1039003, 
-      -117.3486561
-    ], 
-    "desc": ""
-  }, 
   "Leavey Field": {
     "coord": [
       33.9688889, 
@@ -16351,27 +11430,6 @@
     ], 
     "desc": ""
   }, 
-  "Lincoln Acres County Park": {
-    "coord": [
-      32.6661646, 
-      -117.0711399
-    ], 
-    "desc": ""
-  }, 
-  "Vista La Mesa Park": {
-    "coord": [
-      32.7483846, 
-      -117.0486402
-    ], 
-    "desc": ""
-  }, 
-  "Wilderness Gardens Park": {
-    "coord": [
-      33.348922, 
-      -117.0375289
-    ], 
-    "desc": ""
-  }, 
   "Jasmine View Park": {
     "coord": [
       33.6028001, 
@@ -16383,27 +11441,6 @@
     "coord": [
       34.1469444, 
       -117.5675
-    ], 
-    "desc": ""
-  }, 
-  "Capistrano Beach Park": {
-    "coord": [
-      33.4547501, 
-      -117.6681062
-    ], 
-    "desc": ""
-  }, 
-  "Otay County Open Space Preserve": {
-    "coord": [
-      32.6136679, 
-      -116.9139119
-    ], 
-    "desc": ""
-  }, 
-  "Spanish Landing Park": {
-    "coord": [
-      32.7289395, 
-      -117.2072573
     ], 
     "desc": ""
   }, 
@@ -16428,45 +11465,10 @@
     ], 
     "desc": ""
   }, 
-  "Yarborough Park": {
-    "coord": [
-      33.6758547, 
-      -117.3292061
-    ], 
-    "desc": ""
-  }, 
-  "Cardiff State Beach": {
-    "coord": [
-      33.0100433, 
-      -117.2792037
-    ], 
-    "desc": ""
-  }, 
   "College Estates Park": {
     "coord": [
       34.1666718, 
       -119.1623286
-    ], 
-    "desc": ""
-  }, 
-  "Chalen Hill Park": {
-    "coord": [
-      33.9261264, 
-      -117.4583803
-    ], 
-    "desc": ""
-  }, 
-  "Jerabek Park": {
-    "coord": [
-      32.9078246, 
-      -117.0847542
-    ], 
-    "desc": ""
-  }, 
-  "Davis Sports Complex": {
-    "coord": [
-      33.712244, 
-      -116.2108396
     ], 
     "desc": ""
   }, 
@@ -16498,31 +11500,10 @@
     ], 
     "desc": ""
   }, 
-  "Jess Martin Park": {
-    "coord": [
-      33.0719887, 
-      -116.5927968
-    ], 
-    "desc": ""
-  }, 
   "Carrotwood Park": {
     "coord": [
       33.7077974, 
       -117.7603309
-    ], 
-    "desc": ""
-  }, 
-  "Hunt Park": {
-    "coord": [
-      33.9297376, 
-      -117.4400464
-    ], 
-    "desc": ""
-  }, 
-  "Guhin Park": {
-    "coord": [
-      34.1994524, 
-      -117.3697686
     ], 
     "desc": ""
   }, 
@@ -16582,24 +11563,10 @@
     ], 
     "desc": ""
   }, 
-  "Sea Cliff County Park": {
-    "coord": [
-      33.0347645, 
-      -117.2928151
-    ], 
-    "desc": ""
-  }, 
   "Tripolis Park": {
     "coord": [
       34.1280631, 
       -118.0611791
-    ], 
-    "desc": ""
-  }, 
-  "Balboa Stadium": {
-    "coord": [
-      32.7206069, 
-      -117.1516994
     ], 
     "desc": ""
   }, 
@@ -16624,13 +11591,6 @@
     ], 
     "desc": ""
   }, 
-  "Salton Sea State Recreation Area": {
-    "coord": [
-      33.4178087, 
-      -115.8316621
-    ], 
-    "desc": ""
-  }, 
   "Gloria Heer Park": {
     "coord": [
       33.9791793, 
@@ -16638,10 +11598,10 @@
     ], 
     "desc": ""
   }, 
-  "George Izay Park": {
+  "Del Playa Park": {
     "coord": [
-      34.1716729, 
-      -118.3200775
+      34.4091626, 
+      -119.8659717
     ], 
     "desc": ""
   }, 
@@ -16687,13 +11647,6 @@
     ], 
     "desc": ""
   }, 
-  "Oxnard Shores Park": {
-    "coord": [
-      34.196949, 
-      -119.240665
-    ], 
-    "desc": ""
-  }, 
   "San Dimas Canyon Park": {
     "coord": [
       34.1333414, 
@@ -16705,27 +11658,6 @@
     "coord": [
       33.9989016, 
       -118.3572985
-    ], 
-    "desc": ""
-  }, 
-  "Colina del Sol Park": {
-    "coord": [
-      32.7519954, 
-      -117.0811415
-    ], 
-    "desc": ""
-  }, 
-  "Harrison Canyon Park": {
-    "coord": [
-      34.1630651, 
-      -117.2628202
-    ], 
-    "desc": ""
-  }, 
-  "Pepper Park": {
-    "coord": [
-      32.6506092, 
-      -117.1111413
     ], 
     "desc": ""
   }, 
@@ -16757,13 +11689,6 @@
     ], 
     "desc": ""
   }, 
-  "Traingle Park": {
-    "coord": [
-      34.1202853, 
-      -116.4439021
-    ], 
-    "desc": ""
-  }, 
   "Vail Park": {
     "coord": [
       34.1275088, 
@@ -16771,10 +11696,10 @@
     ], 
     "desc": ""
   }, 
-  "Siminski Park": {
+  "Palomares Park": {
     "coord": [
-      33.9480691, 
-      -118.3622978
+      34.0913986, 
+      -117.7433902
     ], 
     "desc": ""
   }, 
@@ -16785,20 +11710,6 @@
     ], 
     "desc": ""
   }, 
-  "Vista Bahia Park": {
-    "coord": [
-      33.4105845, 
-      -117.5919916
-    ], 
-    "desc": ""
-  }, 
-  "Anza-Borrego Desert State Park": {
-    "coord": [
-      33.2289286, 
-      -116.2611194
-    ], 
-    "desc": ""
-  }, 
   "Palos Verdes Peninsular Park": {
     "coord": [
       33.7250183, 
@@ -16806,17 +11717,10 @@
     ], 
     "desc": ""
   }, 
-  "La Loma Park": {
+  "Laguna Lake Park": {
     "coord": [
-      34.0416781, 
-      -118.1161806
-    ], 
-    "desc": ""
-  }, 
-  "Earl Walker County Park": {
-    "coord": [
-      32.8064393, 
-      -115.3869315
+      33.9030695, 
+      -117.9392281
     ], 
     "desc": ""
   }, 
@@ -16834,10 +11738,10 @@
     ], 
     "desc": ""
   }, 
-  "John Bryant Park": {
+  "Reeder Field": {
     "coord": [
-      33.9369594, 
-      -117.4600472
+      34.065, 
+      -118.1661111
     ], 
     "desc": ""
   }, 
@@ -16869,31 +11773,10 @@
     ], 
     "desc": ""
   }, 
-  "Conway City Park": {
-    "coord": [
-      33.1500391, 
-      -117.0753093
-    ], 
-    "desc": ""
-  }, 
   "Window-to-the-Sea Park": {
     "coord": [
       34.4091626, 
       -119.861805
-    ], 
-    "desc": ""
-  }, 
-  "Motte Field Park": {
-    "coord": [
-      33.7444646, 
-      -117.1708666
-    ], 
-    "desc": ""
-  }, 
-  "Knapp Ranch Park": {
-    "coord": [
-      34.1888937, 
-      -118.6634216
     ], 
     "desc": ""
   }, 
@@ -16939,13 +11822,6 @@
     ], 
     "desc": ""
   }, 
-  "Pine Cove County Park": {
-    "coord": [
-      33.7666866, 
-      -116.7352962
-    ], 
-    "desc": ""
-  }, 
   "Shorebird Park": {
     "coord": [
       33.6861313, 
@@ -16960,20 +11836,6 @@
     ], 
     "desc": ""
   }, 
-  "Sam Hicks Monument Park": {
-    "coord": [
-      33.4983611, 
-      -117.1508649
-    ], 
-    "desc": ""
-  }, 
-  "Desert Park": {
-    "coord": [
-      33.7458539, 
-      -116.202228
-    ], 
-    "desc": ""
-  }, 
   "Robertson Recreation Center": {
     "coord": [
       34.0494548, 
@@ -16981,17 +11843,10 @@
     ], 
     "desc": ""
   }, 
-  "Linda Lane Park": {
+  "Harry A Lyon Park": {
     "coord": [
-      33.4230842, 
-      -117.6225485
-    ], 
-    "desc": ""
-  }, 
-  "Dennis V Allen Park": {
-    "coord": [
-      32.7158851, 
-      -117.1125312
+      34.3000009, 
+      -119.2898343
     ], 
     "desc": ""
   }, 
@@ -17023,24 +11878,10 @@
     ], 
     "desc": ""
   }, 
-  "Skyview Park": {
-    "coord": [
-      32.704497, 
-      -117.0416947
-    ], 
-    "desc": ""
-  }, 
   "Las Flores Park": {
     "coord": [
       34.1055648, 
       -117.7642243
-    ], 
-    "desc": ""
-  }, 
-  "Cerro de las Posas Park": {
-    "coord": [
-      33.1547608, 
-      -117.1805896
     ], 
     "desc": ""
   }, 
@@ -17051,10 +11892,10 @@
     ], 
     "desc": ""
   }, 
-  "Handy Park": {
+  "Marshall Canyon Regional Park": {
     "coord": [
-      33.8005722, 
-      -117.8306114
+      34.1547299, 
+      -117.7406126
     ], 
     "desc": ""
   }, 
@@ -17076,13 +11917,6 @@
     "coord": [
       34.2741693, 
       -118.7075908
-    ], 
-    "desc": ""
-  }, 
-  "Lowell Park": {
-    "coord": [
-      0.0, 
-      0.0
     ], 
     "desc": ""
   }, 
@@ -17114,10 +11948,10 @@
     ], 
     "desc": ""
   }, 
-  "Southridge Park": {
+  "Shepard Stadium": {
     "coord": [
-      34.0341793, 
-      -117.4889384
+      34.1811111, 
+      -118.5775
     ], 
     "desc": ""
   }, 
@@ -17142,31 +11976,10 @@
     ], 
     "desc": ""
   }, 
-  "Discovery Park": {
-    "coord": [
-      32.6444989, 
-      -117.0091924
-    ], 
-    "desc": ""
-  }, 
   "Mile Square Regional Park": {
     "coord": [
       33.7247398, 
       -117.9411694
-    ], 
-    "desc": ""
-  }, 
-  "Lake Hennessey Recreation Area": {
-    "coord": [
-      0.0, 
-      0.0
-    ], 
-    "desc": ""
-  }, 
-  "Glory of Gods Grace Sculpture": {
-    "coord": [
-      33.9112, 
-      -117.4994
     ], 
     "desc": ""
   }, 
@@ -17181,20 +11994,6 @@
     "coord": [
       34.0847288, 
       -118.706476
-    ], 
-    "desc": ""
-  }, 
-  "Green Canyon Group Camp": {
-    "coord": [
-      34.2236194, 
-      -116.8058604
-    ], 
-    "desc": ""
-  }, 
-  "Ridge Park": {
-    "coord": [
-      32.9900453, 
-      -115.5458231
     ], 
     "desc": ""
   }, 
@@ -17219,13 +12018,6 @@
     ], 
     "desc": ""
   }, 
-  "Logan Park": {
-    "coord": [
-      33.7544617, 
-      -117.8578336
-    ], 
-    "desc": ""
-  }, 
   "Point Vicente Park": {
     "coord": [
       33.7444611, 
@@ -17247,10 +12039,10 @@
     ], 
     "desc": ""
   }, 
-  "Rio Hondo Park": {
+  "Salazar Park": {
     "coord": [
-      34.0114013, 
-      -118.092013
+      34.0230684, 
+      -118.1900718
     ], 
     "desc": ""
   }, 
@@ -17261,10 +12053,10 @@
     ], 
     "desc": ""
   }, 
-  "Seeley Park": {
+  "Holifield Park": {
     "coord": [
-      33.6458533, 
-      -117.9583921
+      33.8930701, 
+      -118.0667323
     ], 
     "desc": ""
   }, 
@@ -17279,20 +12071,6 @@
     "coord": [
       34.0214018, 
       -118.2853524
-    ], 
-    "desc": ""
-  }, 
-  "Camp Wright Historical Marker": {
-    "coord": [
-      33.388367, 
-      -116.7933555
-    ], 
-    "desc": ""
-  }, 
-  "White Park": {
-    "coord": [
-      33.9816818, 
-      -117.3767116
     ], 
     "desc": ""
   }, 
@@ -17366,13 +12144,6 @@
     ], 
     "desc": ""
   }, 
-  "Desert Christ Park": {
-    "coord": [
-      34.1286183, 
-      -116.4397355
-    ], 
-    "desc": ""
-  }, 
   "San Pedro Plaza Park": {
     "coord": [
       33.7341854, 
@@ -17380,31 +12151,17 @@
     ], 
     "desc": ""
   }, 
-  "Villegas Park": {
+  "Reseda Park": {
     "coord": [
-      33.9347379, 
-      -117.3964339
+      34.1883381, 
+      -118.5339739
     ], 
     "desc": ""
   }, 
-  "Lake Henshaw": {
+  "LeBard Stadium": {
     "coord": [
-      33.2319835, 
-      -116.7600221
-    ], 
-    "desc": ""
-  }, 
-  "Wardens Field": {
-    "coord": [
-      34.0930658, 
-      -117.6403318
-    ], 
-    "desc": ""
-  }, 
-  "Border Field State Park": {
-    "coord": [
-      32.5428343, 
-      -117.1222514
+      33.6727778, 
+      -117.9105556
     ], 
     "desc": ""
   }, 
@@ -17415,17 +12172,17 @@
     ], 
     "desc": ""
   }, 
-  "West Riverside Memorial Park": {
+  "Verdugo Park": {
     "coord": [
-      33.9950143, 
-      -117.422269
+      34.1716731, 
+      -118.2286854
     ], 
     "desc": ""
   }, 
-  "Thunderbird Park": {
+  "Rancho Cucamonga Central Park": {
     "coord": [
-      33.4775274, 
-      -117.6900518
+      34.1225097, 
+      -117.5642188
     ], 
     "desc": ""
   }, 
@@ -17436,10 +12193,10 @@
     ], 
     "desc": ""
   }, 
-  "Walnut Ranch Park": {
+  "Old Town Park": {
     "coord": [
-      34.0386221, 
-      -117.8631164
+      34.0927882, 
+      -117.586997
     ], 
     "desc": ""
   }, 
@@ -17457,13 +12214,6 @@
     ], 
     "desc": ""
   }, 
-  "Tijuana River County Open Space Preserve": {
-    "coord": [
-      32.5489455, 
-      -117.0905834
-    ], 
-    "desc": ""
-  }, 
   "Palm View Park": {
     "coord": [
       34.081676, 
@@ -17478,17 +12228,10 @@
     ], 
     "desc": ""
   }, 
-  "Faria County Park": {
+  "John Quimby Park": {
     "coord": [
-      34.3205538, 
-      -119.3923385
-    ], 
-    "desc": ""
-  }, 
-  "Villa La Jolla Park": {
-    "coord": [
-      32.8578251, 
-      -117.2344806
+      34.1983379, 
+      -118.5878643
     ], 
     "desc": ""
   }, 
@@ -17520,13 +12263,6 @@
     ], 
     "desc": ""
   }, 
-  "Palm Ridge Park": {
-    "coord": [
-      32.5822783, 
-      -117.0394705
-    ], 
-    "desc": ""
-  }, 
   "Arcadia High School Recreation Park": {
     "coord": [
       34.1300073, 
@@ -17548,13 +12284,6 @@
     ], 
     "desc": ""
   }, 
-  "Willowglen Park": {
-    "coord": [
-      33.5775247, 
-      -117.2158679
-    ], 
-    "desc": ""
-  }, 
   "Culver Slauson Park": {
     "coord": [
       33.9941787, 
@@ -17569,24 +12298,10 @@
     ], 
     "desc": ""
   }, 
-  "Lantern Bay County Park": {
-    "coord": [
-      33.4630834, 
-      -117.6914406
-    ], 
-    "desc": ""
-  }, 
-  "Encantato Park": {
-    "coord": [
-      32.7108857, 
-      -117.053362
-    ], 
-    "desc": ""
-  }, 
   "Hudson Park": {
     "coord": [
-      34.1694535, 
-      -117.3256002
+      33.7977954, 
+      -118.221181
     ], 
     "desc": ""
   }, 
@@ -17625,20 +12340,6 @@
     ], 
     "desc": ""
   }, 
-  "Euclid Park": {
-    "coord": [
-      33.7772385, 
-      -117.9403365
-    ], 
-    "desc": ""
-  }, 
-  "Town Center Ball Field": {
-    "coord": [
-      32.8486602, 
-      -116.9825282
-    ], 
-    "desc": ""
-  }, 
   "Malibu Bluff State Recreation Area": {
     "coord": [
       34.0325076, 
@@ -17660,24 +12361,10 @@
     ], 
     "desc": ""
   }, 
-  "Oakcrest County Park": {
-    "coord": [
-      33.0450422, 
-      -117.2661477
-    ], 
-    "desc": ""
-  }, 
   "Citrus Park": {
     "coord": [
       34.0916768, 
       -117.664777
-    ], 
-    "desc": ""
-  }, 
-  "Tuxedo Park": {
-    "coord": [
-      32.8075497, 
-      -117.0453074
     ], 
     "desc": ""
   }, 
@@ -17688,31 +12375,10 @@
     ], 
     "desc": ""
   }, 
-  "Rodriguez Park": {
-    "coord": [
-      32.6767256, 
-      -115.5061059
-    ], 
-    "desc": ""
-  }, 
   "Bailey Canyon Park": {
     "coord": [
       34.1713948, 
       -118.0614571
-    ], 
-    "desc": ""
-  }, 
-  "Glenwood Park": {
-    "coord": [
-      34.1955605, 
-      -118.8656508
-    ], 
-    "desc": ""
-  }, 
-  "Ted Runner Stadium": {
-    "coord": [
-      34.0675132, 
-      -117.1650375
     ], 
     "desc": ""
   }, 
@@ -17737,24 +12403,10 @@
     ], 
     "desc": ""
   }, 
-  "Jenks Lake Junction Recreation Area": {
-    "coord": [
-      34.1650096, 
-      -116.9119739
-    ], 
-    "desc": ""
-  }, 
   "Estancia Park": {
     "coord": [
       33.6730749, 
       -117.9367248
-    ], 
-    "desc": ""
-  }, 
-  "Olive Grove Park": {
-    "coord": [
-      32.8264373, 
-      -117.1703118
     ], 
     "desc": ""
   }, 
@@ -17779,13 +12431,6 @@
     ], 
     "desc": ""
   }, 
-  "Northcote Park": {
-    "coord": [
-      32.8389387, 
-      -116.9461382
-    ], 
-    "desc": ""
-  }, 
   "Crestwood Hills Park": {
     "coord": [
       34.0766749, 
@@ -17793,31 +12438,10 @@
     ], 
     "desc": ""
   }, 
-  "Lake Poway Recreation Area": {
-    "coord": [
-      33.0056, 
-      -117.0125312
-    ], 
-    "desc": ""
-  }, 
-  "Toro Canyon County Park": {
-    "coord": [
-      34.4402725, 
-      -119.5609599
-    ], 
-    "desc": ""
-  }, 
   "Ardmore Recreation Center": {
     "coord": [
       34.054178, 
       -118.3014644
-    ], 
-    "desc": ""
-  }, 
-  "Emerson Wildlife Preserve": {
-    "coord": [
-      33.4666967, 
-      -117.0403054
     ], 
     "desc": ""
   }, 
@@ -17842,13 +12466,6 @@
     ], 
     "desc": ""
   }, 
-  "Wildwood Park": {
-    "coord": [
-      33.2047588, 
-      -117.235313
-    ], 
-    "desc": ""
-  }, 
   "Seal Beach National Wildlife Refuge": {
     "coord": [
       33.7416841, 
@@ -17856,17 +12473,10 @@
     ], 
     "desc": ""
   }, 
-  "Agua Caliente Park": {
+  "Rancho Conejo Open Space": {
     "coord": [
-      33.8241853, 
-      -116.4889024
-    ], 
-    "desc": ""
-  }, 
-  "Allied Gardens Recreation Center": {
-    "coord": [
-      32.7958831, 
-      -117.0808641
+      34.2072271, 
+      -118.9334315
     ], 
     "desc": ""
   }, 
@@ -17888,13 +12498,6 @@
     "coord": [
       34.2563917, 
       -118.4536947
-    ], 
-    "desc": ""
-  }, 
-  "Warne Park": {
-    "coord": [
-      32.9847677, 
-      -115.5402673
     ], 
     "desc": ""
   }, 
@@ -17933,13 +12536,6 @@
     ], 
     "desc": ""
   }, 
-  "Weinburg Park": {
-    "coord": [
-      32.9769905, 
-      -115.5499903
-    ], 
-    "desc": ""
-  }, 
   "Mission Verde Park": {
     "coord": [
       34.225838, 
@@ -17958,13 +12554,6 @@
     "coord": [
       34.0072351, 
       -118.3256311
-    ], 
-    "desc": ""
-  }, 
-  "McCall Memorial Park": {
-    "coord": [
-      33.711133, 
-      -116.735019
     ], 
     "desc": ""
   }, 
@@ -17996,13 +12585,6 @@
     ], 
     "desc": ""
   }, 
-  "North Seascape Surf Park": {
-    "coord": [
-      32.9853219, 
-      -117.2730925
-    ], 
-    "desc": ""
-  }, 
   "Helm Park": {
     "coord": [
       33.6975183, 
@@ -18024,13 +12606,6 @@
     ], 
     "desc": ""
   }, 
-  "Summerhill Park": {
-    "coord": [
-      33.6658551, 
-      -117.2967049
-    ], 
-    "desc": ""
-  }, 
   "Carriage Crest Park": {
     "coord": [
       33.8083505, 
@@ -18045,20 +12620,6 @@
     ], 
     "desc": ""
   }, 
-  "Rancho del Oro Community Park": {
-    "coord": [
-      33.2297577, 
-      -117.2925366
-    ], 
-    "desc": ""
-  }, 
-  "Helen Bougher Memorial Park": {
-    "coord": [
-      33.1567054, 
-      -117.1297551
-    ], 
-    "desc": ""
-  }, 
   "Lake Los Carneros Park": {
     "coord": [
       34.4416623, 
@@ -18066,24 +12627,10 @@
     ], 
     "desc": ""
   }, 
-  "Eastside Park": {
-    "coord": [
-      33.203925, 
-      -117.3711499
-    ], 
-    "desc": ""
-  }, 
   "Center Park": {
     "coord": [
       33.7436285, 
       -117.8970014
-    ], 
-    "desc": ""
-  }, 
-  "Standley Recreation Center": {
-    "coord": [
-      32.8511587, 
-      -117.2103132
     ], 
     "desc": ""
   }, 
@@ -18103,8 +12650,8 @@
   }, 
   "Canyon Park": {
     "coord": [
-      33.1333719, 
-      -117.3355936
+      33.6433548, 
+      -117.8064438
     ], 
     "desc": ""
   }, 
@@ -18112,20 +12659,6 @@
     "coord": [
       33.9369583, 
       -118.0853449
-    ], 
-    "desc": ""
-  }, 
-  "Kennedy Gardens Park": {
-    "coord": [
-      32.6889473, 
-      -115.4974944
-    ], 
-    "desc": ""
-  }, 
-  "Leslie Park": {
-    "coord": [
-      33.41114, 
-      -117.6108812
     ], 
     "desc": ""
   }, 
@@ -18143,45 +12676,10 @@
     ], 
     "desc": ""
   }, 
-  "Heber Dunes State Vehicular Recreation Area": {
-    "coord": [
-      32.73022, 
-      -115.38755
-    ], 
-    "desc": ""
-  }, 
-  "Emerson Park": {
-    "coord": [
-      32.6767253, 
-      -115.4938831
-    ], 
-    "desc": ""
-  }, 
-  "Goose Flats Park": {
-    "coord": [
-      33.56697, 
-      -114.5352321
-    ], 
-    "desc": ""
-  }, 
   "Gingrich Park": {
     "coord": [
       34.0244557, 
       -117.9086736
-    ], 
-    "desc": ""
-  }, 
-  "Soule Recreation Area": {
-    "coord": [
-      34.439161, 
-      -119.2409445
-    ], 
-    "desc": ""
-  }, 
-  "Valley Wide Regional Park": {
-    "coord": [
-      33.7750197, 
-      -116.9764132
     ], 
     "desc": ""
   }, 
@@ -18192,20 +12690,6 @@
     ], 
     "desc": ""
   }, 
-  "Seal Rock Reserve": {
-    "coord": [
-      32.847825, 
-      -117.279482
-    ], 
-    "desc": ""
-  }, 
-  "Los Jilgueros Preserve": {
-    "coord": [
-      33.3586424, 
-      -117.2461464
-    ], 
-    "desc": ""
-  }, 
   "Wagner Park": {
     "coord": [
       33.8927923, 
@@ -18213,24 +12697,10 @@
     ], 
     "desc": ""
   }, 
-  "Stage Station Historical Marker": {
-    "coord": [
-      32.6706169, 
-      -116.1047376
-    ], 
-    "desc": ""
-  }, 
   "Palm Chase Recreation Center": {
     "coord": [
       34.4141638, 
       -119.6862448
-    ], 
-    "desc": ""
-  }, 
-  "Sylvan Park": {
-    "coord": [
-      33.929738, 
-      -116.907245
     ], 
     "desc": ""
   }, 
@@ -18248,10 +12718,10 @@
     ], 
     "desc": ""
   }, 
-  "Harbor Park": {
+  "Valencia Meadows Park": {
     "coord": [
-      33.7875175, 
-      -118.287016
+      34.3924973, 
+      -118.5556418
     ], 
     "desc": ""
   }, 
@@ -18269,24 +12739,10 @@
     ], 
     "desc": ""
   }, 
-  "Smith and Schaffer Memorial Baseball Field": {
-    "coord": [
-      33.8877956, 
-      -117.2453167
-    ], 
-    "desc": ""
-  }, 
   "Cabrillo Park": {
     "coord": [
       34.2138935, 
       -119.198997
-    ], 
-    "desc": ""
-  }, 
-  "Newman Park": {
-    "coord": [
-      33.9772373, 
-      -117.3797673
     ], 
     "desc": ""
   }, 
@@ -18301,13 +12757,6 @@
     "coord": [
       33.6858536, 
       -117.7758871
-    ], 
-    "desc": ""
-  }, 
-  "Nicholson Point Park": {
-    "coord": [
-      32.8400474, 
-      -117.2814266
     ], 
     "desc": ""
   }, 
@@ -18350,20 +12799,6 @@
     "coord": [
       34.1138979, 
       -117.7339457
-    ], 
-    "desc": ""
-  }, 
-  "Adams Avenue Park": {
-    "coord": [
-      32.7625504, 
-      -117.1180874
-    ], 
-    "desc": ""
-  }, 
-  "Los Penasquitos Canyon Preserve": {
-    "coord": [
-      32.9378235, 
-      -117.1758679
     ], 
     "desc": ""
   }, 
@@ -18423,27 +12858,6 @@
     ], 
     "desc": ""
   }, 
-  "Blakey Park": {
-    "coord": [
-      33.7588889, 
-      -117.9786111
-    ], 
-    "desc": ""
-  }, 
-  "Alta Murrieta Sports Park": {
-    "coord": [
-      33.5630811, 
-      -117.178644
-    ], 
-    "desc": ""
-  }, 
-  "John F Kennedy Veterans Memorial Park": {
-    "coord": [
-      33.901962, 
-      -117.2355942
-    ], 
-    "desc": ""
-  }, 
   "Bell Gardens Park": {
     "coord": [
       33.967514, 
@@ -18451,10 +12865,10 @@
     ], 
     "desc": ""
   }, 
-  "La Jolla Strand Park": {
+  "Laurelwood Park": {
     "coord": [
-      32.8275477, 
-      -117.2797599
+      34.226949, 
+      -119.0423248
     ], 
     "desc": ""
   }, 
@@ -18472,13 +12886,6 @@
     ], 
     "desc": ""
   }, 
-  "Old Ironsides County Park": {
-    "coord": [
-      32.823385, 
-      -116.8272457
-    ], 
-    "desc": ""
-  }, 
   "Golden Park": {
     "coord": [
       33.7714068, 
@@ -18486,10 +12893,10 @@
     ], 
     "desc": ""
   }, 
-  "Gisler Park": {
+  "Boyle Heights Recreation Center": {
     "coord": [
-      33.6869635, 
-      -117.9103352
+      34.0311238, 
+      -118.2145171
     ], 
     "desc": ""
   }, 
@@ -18528,45 +12935,10 @@
     ], 
     "desc": ""
   }, 
-  "Beth Israel Park": {
-    "coord": [
-      32.7328287, 
-      -117.1625334
-    ], 
-    "desc": ""
-  }, 
-  "Bonita Long Canyon Park": {
-    "coord": [
-      32.6647762, 
-      -117.0022481
-    ], 
-    "desc": ""
-  }, 
   "Robinson Stadium": {
     "coord": [
       34.1427778, 
       -118.1177778
-    ], 
-    "desc": ""
-  }, 
-  "Lake Perris State Recreation Area": {
-    "coord": [
-      33.8647402, 
-      -117.166979
-    ], 
-    "desc": ""
-  }, 
-  "Lindo Lake Park": {
-    "coord": [
-      32.8581052, 
-      -116.9158598
-    ], 
-    "desc": ""
-  }, 
-  "East Shore Recreational Vehicle Park": {
-    "coord": [
-      34.0863985, 
-      -117.7953364
     ], 
     "desc": ""
   }, 
@@ -18584,10 +12956,10 @@
     ], 
     "desc": ""
   }, 
-  "Big Bear City Park": {
+  "Rancho Madera Community Park": {
     "coord": [
-      34.2641738, 
-      -116.84503
+      34.2436151, 
+      -118.8120385
     ], 
     "desc": ""
   }, 
@@ -18598,13 +12970,6 @@
     ], 
     "desc": ""
   }, 
-  "Desert Gardens Park": {
-    "coord": [
-      32.777834, 
-      -115.5577738
-    ], 
-    "desc": ""
-  }, 
   "Bolsa View Park": {
     "coord": [
       33.7044624, 
@@ -18612,24 +12977,10 @@
     ], 
     "desc": ""
   }, 
-  "Waverly Park": {
+  "Canyon Country Park": {
     "coord": [
-      34.2050048, 
-      -118.8578729
-    ], 
-    "desc": ""
-  }, 
-  "Venice City Beach": {
-    "coord": [
-      33.9786224, 
-      -118.4675787
-    ], 
-    "desc": ""
-  }, 
-  "Rancho Bernardo Community Park": {
-    "coord": [
-      33.0514315, 
-      -117.0800324
+      34.4183295, 
+      -118.4473052
     ], 
     "desc": ""
   }, 
@@ -18689,10 +13040,10 @@
     ], 
     "desc": ""
   }, 
-  "Pacific Gateway Park": {
+  "Richard Bard Bubbling Springs Park": {
     "coord": [
-      32.5670011, 
-      -117.0047466
+      34.1575051, 
+      -119.1906628
     ], 
     "desc": ""
   }, 
@@ -18731,20 +13082,6 @@
     ], 
     "desc": ""
   }, 
-  "Cactus County Park": {
-    "coord": [
-      32.8717159, 
-      -116.9119709
-    ], 
-    "desc": ""
-  }, 
-  "Mission Bay Athletic Area": {
-    "coord": [
-      32.8014376, 
-      -117.2208691
-    ], 
-    "desc": ""
-  }, 
   "Los Angeles Plaza Historic District": {
     "coord": [
       34.0569561, 
@@ -18766,24 +13103,10 @@
     ], 
     "desc": ""
   }, 
-  "Victoriano Park": {
+  "College View Park": {
     "coord": [
-      33.8897399, 
-      -117.2130929
-    ], 
-    "desc": ""
-  }, 
-  "Hurkey Creek Park": {
-    "coord": [
-      33.6794678, 
-      -116.6822405
-    ], 
-    "desc": ""
-  }, 
-  "William Peak Park": {
-    "coord": [
-      33.8491814, 
-      -118.0086737
+      33.7255728, 
+      -118.0120049
     ], 
     "desc": ""
   }, 
@@ -18822,20 +13145,6 @@
     ], 
     "desc": ""
   }, 
-  "Pedro Fages Monument": {
-    "coord": [
-      32.9931024, 
-      -116.536407
-    ], 
-    "desc": ""
-  }, 
-  "Scripps Shoreline Underwater Reserve": {
-    "coord": [
-      32.8667137, 
-      -117.2555924
-    ], 
-    "desc": ""
-  }, 
   "Old School Park": {
     "coord": [
       33.6030778, 
@@ -18864,31 +13173,10 @@
     ], 
     "desc": ""
   }, 
-  "City Heights Community Park": {
-    "coord": [
-      32.7508842, 
-      -117.1003088
-    ], 
-    "desc": ""
-  }, 
-  "Kate O Sessions Memorial Park": {
-    "coord": [
-      32.8133816, 
-      -117.2380919
-    ], 
-    "desc": ""
-  }, 
   "Barnes Park": {
     "coord": [
       34.0700094, 
       -117.9995102
-    ], 
-    "desc": ""
-  }, 
-  "El Campo Santo": {
-    "coord": [
-      32.751439, 
-      -117.1936459
     ], 
     "desc": ""
   }, 
@@ -18899,13 +13187,6 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Madera Community Park": {
-    "coord": [
-      34.2436151, 
-      -118.8120385
-    ], 
-    "desc": ""
-  }, 
   "Conejo Creek Park": {
     "coord": [
       34.1958382, 
@@ -18913,10 +13194,10 @@
     ], 
     "desc": ""
   }, 
-  "Marshall Canyon Regional Park": {
+  "Handy Park": {
     "coord": [
-      34.1547299, 
-      -117.7406126
+      33.8005722, 
+      -117.8306114
     ], 
     "desc": ""
   }, 
@@ -18948,13 +13229,6 @@
     ], 
     "desc": ""
   }, 
-  "North Town Center Park": {
-    "coord": [
-      32.8500492, 
-      -116.9744724
-    ], 
-    "desc": ""
-  }, 
   "Horsemans Park": {
     "coord": [
       33.9391812, 
@@ -18976,13 +13250,6 @@
     ], 
     "desc": ""
   }, 
-  "Cabrillo National Monument": {
-    "coord": [
-      32.6708853, 
-      -117.2425359
-    ], 
-    "desc": ""
-  }, 
   "Bear Gulch Park": {
     "coord": [
       34.1000101, 
@@ -18997,31 +13264,10 @@
     ], 
     "desc": ""
   }, 
-  "Rancho Santa Rosa Historic Area": {
-    "coord": [
-      33.5116928, 
-      -117.2703139
-    ], 
-    "desc": ""
-  }, 
   "Carpinteria Community Swimming Pool": {
     "coord": [
       34.3944394, 
       -119.5140117
-    ], 
-    "desc": ""
-  }, 
-  "Chula Vista Recreation Center": {
-    "coord": [
-      32.6381098, 
-      -117.0825288
-    ], 
-    "desc": ""
-  }, 
-  "Fritz Burns Park": {
-    "coord": [
-      33.6703015, 
-      -116.2863977
     ], 
     "desc": ""
   }, 
@@ -19062,8 +13308,8 @@
   }, 
   "Brookside Park": {
     "coord": [
-      34.0450142, 
-      -117.2086503
+      34.1536181, 
+      -118.164794
     ], 
     "desc": ""
   }, 
@@ -19090,8 +13336,8 @@
   }, 
   "Sunshine Park": {
     "coord": [
-      32.7617177, 
-      -117.0480847
+      33.8561261, 
+      -118.0520088
     ], 
     "desc": ""
   }, 
@@ -19099,27 +13345,6 @@
     "coord": [
       34.2047266, 
       -118.5725863
-    ], 
-    "desc": ""
-  }, 
-  "Landes Park": {
-    "coord": [
-      33.1944812, 
-      -117.2864255
-    ], 
-    "desc": ""
-  }, 
-  "Double Butte County Park": {
-    "coord": [
-      33.7250209, 
-      -117.1066966
-    ], 
-    "desc": ""
-  }, 
-  "Oak Oasis County Park": {
-    "coord": [
-      32.9172703, 
-      -116.8878041
     ], 
     "desc": ""
   }, 
@@ -19137,13 +13362,6 @@
     ], 
     "desc": ""
   }, 
-  "Fourteenth": {
-    "coord": [
-      34.1244552, 
-      -117.3133772
-    ], 
-    "desc": ""
-  }, 
   "Alizondo Drive Park": {
     "coord": [
       34.1505613, 
@@ -19151,10 +13369,10 @@
     ], 
     "desc": ""
   }, 
-  "University Gardens Park": {
+  "Blakey Park": {
     "coord": [
-      32.8536588, 
-      -117.1903125
+      33.7588889, 
+      -117.9786111
     ], 
     "desc": ""
   }, 
@@ -19172,24 +13390,10 @@
     ], 
     "desc": ""
   }, 
-  "Jensen Ranch Historical Park": {
-    "coord": [
-      33.9933477, 
-      -117.41838
-    ], 
-    "desc": ""
-  }, 
   "Julianna Park": {
     "coord": [
       33.8491818, 
       -117.9145039
-    ], 
-    "desc": ""
-  }, 
-  "Canyonside Community Park": {
-    "coord": [
-      32.9417124, 
-      -117.1314224
     ], 
     "desc": ""
   }, 
@@ -19214,20 +13418,6 @@
     ], 
     "desc": ""
   }, 
-  "Rolando Park": {
-    "coord": [
-      32.7581066, 
-      -117.0525294
-    ], 
-    "desc": ""
-  }, 
-  "Oakwood Recreation Center": {
-    "coord": [
-      33.9947332, 
-      -118.46369
-    ], 
-    "desc": ""
-  }, 
   "Allendale Park": {
     "coord": [
       34.1261192, 
@@ -19244,15 +13434,15 @@
   }, 
   "Greenwood Park": {
     "coord": [
-      0.0, 
-      0.0
+      33.8339049, 
+      -118.3328509
     ], 
     "desc": ""
   }, 
   "Mountain View Park": {
     "coord": [
-      33.1294843, 
-      -117.0366974
+      34.0114014, 
+      -117.6667211
     ], 
     "desc": ""
   }, 

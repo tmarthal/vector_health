@@ -1,0 +1,16 @@
+{
+  "CALIFORNIA ARMY NATIONAL GUARD": {
+    "coord": [
+      33.7949, 
+      -118.056
+    ], 
+    "pollution": 2
+  }, 
+  "NAVAL BASE VENTURA COUNTY": {
+    "coord": [
+      34.1616, 
+      -119.22
+    ], 
+    "pollution": 28
+  }
+}
