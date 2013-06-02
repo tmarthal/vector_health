@@ -12,6 +12,13 @@ object ApplicationBuild extends Build {
       // Comment this for local development of the Play Authentication core
       "com.feth" %% "play-authenticate" % "0.2.5-SNAPSHOT",
       "mysql" % "mysql-connector-java" % "5.1.25",
+      
+      // For apache SOAP client
+      "axis" % "axis" % "1.4",
+      "axis" % "axis-jaxrpc" % "1.4",
+      "axis" % "axis-saaj" % "1.4",
+      "axis" % "axis-wsdl4j" % "1.4",
+      
       javaCore,
       javaJdbc,
       javaEbean

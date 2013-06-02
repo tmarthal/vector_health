@@ -37,9 +37,25 @@ var fireIcon = {
 };
 
 
+// from the noun-project
+var airportIcon = {
+  path: 'M99.998,58.823v5.883l-41.176-5.883v23.528l11.766,11.766c0,2.942-2.941,5.883-5.884,5.883c-11.763,0-29.411,0-29.411,0c-2.941,0-5.883-2.94-5.883-5.883l11.765-11.766V58.823L0,64.705v-5.882l41.176-23.529c0,0,0-1.96,0-11.765C41.176,17.647,44.117,0,49.999,0s8.823,17.647,8.823,23.529c0,9.805,0,11.765,0,11.765L99.998,58.823z',
+  fillColor: "black",
+  fillOpacity: 0.8,
+  scale: 0.2,
+};
+
+
 marker = new google.maps.Marker({
   position: new google.maps.LatLng(34.0339, -118.2044),
   icon: fireIcon,
+  map: map
+});  
+
+
+airport = new google.maps.Marker({
+  position: new google.maps.LatLng(34.0539, -118.2044),
+  icon: airportIcon,
   map: map
 });  
       
