@@ -29,7 +29,8 @@
           <input type="checkbox" id="windcheck"> Show Wind Data <br/>
           Date:<br/>
           <input type="text" id="datetime" style="border: 0; color: #aaaaa; font-weight: bold;" /><br/>
-		  <div id="timeslider" style="background:grey; width:180px;"></div>
+		  <div id="timeslider" style="background:grey; width:180px;"></div><br/>
+		  <i>Note: The grid data returned by the <a href="http://graphical.weather.gov/xml/#XML_contents">NDFD</a> needs to be explored further.</i>
         </div>
       </div>
     }
@@ -44,10 +45,16 @@ $(function() {
       max: 1370131200000,
       step: 10800000,
       slide: function( event, ui ) {
-        $( "#datetime" ).val( moment(ui.value).format("YYYY/MM/DD+HH:mm") );
+        $( "#datetime" ).val( moment(ui.value).format("YYYY/MM/DD+HH:mm Z") );
+        displayWind(ui.value);
       }
     });
-    $( "#datetime" ).val( moment($("#timeslider").slider("value")).format("YYYY/MM/DD+HH:mm") );
+    // Global state of the slider
+    sliderTime = $("#timeslider").slider("value");
+    $( "#datetime" ).val( moment($("#timeslider").slider("value")).format("YYYY/MM/DD+HH:mm Z") );
+    $("#windcheck").change(function() {
+    	displayWind($("#timeslider").slider("value"));
+   	});
     
     $("#airportcheck").change(function() {
      	var show = $(this).is(":checked"); 
@@ -79,6 +86,8 @@ $(function() {
      	}
    	});
    	
+   	// loading the time data json files
+   	loadTimeData("@routes.Assets.at("data/wind/")");
 });
 
 // Calculates the pixel weight of the pollution
@@ -221,4 +230,51 @@ function loadTargetJSON() {
 		console.log("done hospital park data");
 	});
 }
+
+
+
+lineSymbol = {
+    path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+    scale: 1.5 //pixels
+};
+
+
+function displayWind(timestamp) {
+	//
+	var previousMarkerArrayName = 'lines'+sliderTime;
+	var previousMarkers = window[previousMarkerArrayName];
+	if (previousMarkers) {
+   		for (var i=0;i<previousMarkers.length;i++) {
+     		previousMarkers[i].setVisible(false);
+		}
+	}
+	sliderTime = timestamp;
+
+	// Check to see if we should draw, else return
+	if (!$("#windcheck").is(":checked")) { return; }
+	
+	console.log("displaying wind for " + timestamp);
+	var markerArrayName = 'lines'+timestamp;
+	// Get the associated array from the window scope
+	var localMarkers = window[markerArrayName];
+	// if localMarkers is not defined, we slid to a time that does not have data
+	if (localMarkers) {
+   		for (var i=0;i<localMarkers.length;i++) {
+     		localMarkers[i].setVisible(true);
+		}
+	} else {
+		console.log("did not find data for time: " + timestamp);
+	}
+}
+
+// Assume theta is in radians
+function rotate2D(x, y, theta) {
+  var xTemp = x;
+  x = x*Math.cos(theta) - y*Math.sin(theta);
+  y = xTemp*Math.sin(theta) + y*Math.cos(theta);
+  return [x,y];
+}
+
+
 </script>
+
