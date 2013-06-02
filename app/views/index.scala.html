@@ -12,11 +12,17 @@
         <div class="span4">
           <h2>Pollution Sources</h2>
            <p>List of pollution sources</p>
-          
+           <input type="checkbox" id="airportcheck"> Show Airports<br/>
+           <input type="checkbox" id="refinerycheck"> Show Refineries<br/>
+           <br/>
+
+           <input type="checkbox" id="pollutioncheck"> Show Pollution Radii<br/>
+           
         </div>
         <div class="span4">
           <h2>Vulenerable Points</h2>
            <p>This we care about</p>
+           <input type="checkbox" id="schoolcheck"> Show Schools<br/>
        </div>
         <div class="span4">
           <h2>Propagation Model</h2>
@@ -42,16 +48,56 @@ $(function() {
       }
     });
     $( "#datetime" ).val( moment($("#timeslider").slider("value")).format("YYYY/MM/DD+HH:mm") );
-    console.log("?:");
+    
+    $("#airportcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<airportMarkers.length;i++) {
+     		airportMarkers[i].setVisible(show);
+     	}
+   	});
+   	
+    $("#refinerycheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<refineryMarkers.length;i++) {
+     		refineryMarkers[i].setVisible(show);
+     	}
+   	});
+
+    $("#pollutioncheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<pollutionMarkers.length;i++) {
+     		pollutionMarkers[i].setVisible(show);
+     	}
+   	});
+   	
+    $("#schoolcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<schoolMarkers.length;i++) {
+     		schoolMarkers[i].setVisible(show);
+     	}
+   	});
+   	
 });
+
+// Calculates the pixel weight of the pollution
+function scalePollution(pollution) {
+	var logPollution = 2*Math.log(pollution);
+	if (logPollution > 40) logPolltion = 40; 
+	return logPollution;
+}
 
 
 // Initialize the pollution data
 function loadSourceJSON() {
 	console.log("loading?");
 
+	// The array of scaled pollution circles 
+	pollutionMarkers = []
+	
 	airportMarkers = []
-	d3.json("@routes.Assets.at("data/airports.json")", function(data) {
+	d3.json("@routes.Assets.at("data/pollute/airports.json")", function(data) {
 		console.log("loading airport data");
 		for (k in data) {
 			var marker = new google.maps.Marker({
@@ -63,18 +109,68 @@ function loadSourceJSON() {
 		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
 			});			  
 			airportMarkers.push(marker);
+			
+			var pollutionMarker = new google.maps.Marker({
+  				position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+  				map: map,
+  				icon: {
+    				path: google.maps.SymbolPath.CIRCLE,
+    				fillOpacity: 0.5,
+    				fillColor: 'ff0000',
+    				strokeOpacity: 1.0,
+    				strokeColor: 'fff000',
+    				strokeWeight: 3.0, 
+    				scale: scalePollution(data[k].pollution) //pixels
+  				},
+	  			visible: false,
+			});
+			pollutionMarkers.push(pollutionMarker);			
 		}
-		console.log("done loading airport data");
+		console.log("done airport data");
 	});
 	
+	refineryMarkers = []
+	d3.json("@routes.Assets.at("data/pollute/refinery.json")", function(data) {
+		console.log("loading refinery data");
+		for (k in data) {
+			var marker = new google.maps.Marker({
+		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+		  			map:map,
+		  			icon: airportIcon,
+		  			title: k,
+		  			visible: false,
+		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+			});			  
+			refineryMarkers.push(marker);
 
+			var pollutionMarker = new google.maps.Marker({
+  				position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+  				map: map,
+  				icon: {
+    				path: google.maps.SymbolPath.CIRCLE,
+    				fillOpacity: 0.5,
+    				fillColor: '222222',
+    				strokeOpacity: 1.0,
+    				strokeColor: 'aaaaaa',
+    				strokeWeight: 3.0, 
+    				scale: scalePollution(data[k].pollution) //pixels
+  				},
+	  			visible: false,
+			});
+			pollutionMarkers.push(pollutionMarker);			
+		}
+		console.log("done refinery data");
+	});
+	
 }
 
+// The source information
+// Note: the d3.json calls should be ajax requests :(
 function loadTargetJSON() {
 	console.log("loading?");
 
 	schoolMarkers = []
-	d3.json("@routes.Assets.at("data/schools.json")", function(data) {
+	d3.json("@routes.Assets.at("data/affected/schools.json")", function(data) {
 		console.log("loading school data");
 		for (k in data) {
 			var schoolMarker = new google.maps.Marker({
@@ -90,7 +186,39 @@ function loadTargetJSON() {
 		console.log("done loading school data");
 		//schoolMarkerCluster = new MarkerClusterer(map, schoolMarkers);
 	});
-
-
+	
+	parkMarkers = [];
+	d3.json("@routes.Assets.at("data/affected/parks.json")", function(data) {
+		console.log("loading park data");
+		for (k in data) {
+			var marker = new google.maps.Marker({
+		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+		  			map:map,
+		  			icon: parkIcon,
+		  			title: k,
+		  			visible: false,
+		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+			});			  
+			parkMarkers.push(marker);
+		}
+		console.log("done loading park data");
+	});
+	
+	hospitalMarkers = [];
+	d3.json("@routes.Assets.at("data/affected/hospitals.json")", function(data) {
+		console.log("loading hospital data");
+		for (k in data) {
+			var marker = new google.maps.Marker({
+		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+		  			map:map,
+		  			icon: hospitalIcon,
+		  			title: k,
+		  			visible: false,
+		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+			});			  
+			hospitalMarkers.push(marker);
+		}
+		console.log("done hospital park data");
+	});
 }
 </script>
