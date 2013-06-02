@@ -6,6 +6,20 @@
     ], 
     "desc": ""
   }, 
+  "NEW OTANI HOTEL THE": {
+    "coord": [
+      "34.05084", 
+      "-118.24292"
+    ], 
+    "desc": ""
+  }, 
+  "IDEAL JEWELRY": {
+    "coord": [
+      "34.04791", 
+      "-118.25045"
+    ], 
+    "desc": ""
+  }, 
   "MONICO ALLOYS INC": {
     "coord": [
       "34.0215", 
@@ -20,6 +34,20 @@
     ], 
     "desc": ""
   }, 
+  "S E RYKOFF CO": {
+    "coord": [
+      "34.03347", 
+      "-118.24093"
+    ], 
+    "desc": ""
+  }, 
+  "T A GREENE CO INC": {
+    "coord": [
+      "34.03043", 
+      "-118.23224"
+    ], 
+    "desc": ""
+  }, 
   "ARCADIA INC": {
     "coord": [
       "34.01445", 
@@ -27,38 +55,52 @@
     ], 
     "desc": ""
   }, 
-  "VIKING TRANSPORTATION": {
+  "MIRAMA CO, INC": {
     "coord": [
-      "34.02224", 
-      "-118.1777"
+      "34.04076", 
+      "-118.24052"
     ], 
     "desc": ""
   }, 
-  "HONEYWELL": {
+  "BEN EISENBERG PROPERTIES": {
     "coord": [
-      "34.00428", 
-      "-118.19288"
+      "34.04091", 
+      "-118.25432"
     ], 
     "desc": ""
   }, 
   "LA CITY DEPARTMENT OF GENERAL SERVICES": {
     "coord": [
-      "34.03442", 
-      "-118.22248"
+      "34.05434", 
+      "-118.2313"
     ], 
     "desc": ""
   }, 
-  "EXXONMOBIL OIL CORP VERNON": {
+  "MESROBIAN JEWELRY": {
     "coord": [
-      "34.00894", 
-      "-118.22188"
+      "34.046251", 
+      "-118.252354"
     ], 
     "desc": ""
   }, 
-  "HERNANDEZ AUTO BODY, S HERNANDEZ, DBA": {
+  "HOTEL INTER CONTINENTAL": {
     "coord": [
-      "34.01657", 
-      "-118.17659"
+      "34.05264", 
+      "-118.2499"
+    ], 
+    "desc": ""
+  }, 
+  "METROPOLITAN DISTRIBUTION CTRS": {
+    "coord": [
+      "34.038212", 
+      "-118.234707"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES DIE CASTING": {
+    "coord": [
+      "34.04514", 
+      "-118.23963"
     ], 
     "desc": ""
   }, 
@@ -69,31 +111,52 @@
     ], 
     "desc": ""
   }, 
-  "U.S. GROWERS COLD STORAGE AREAS ONE, TWO AND THREE": {
+  "MICHAEL P MC CAFFREY INC": {
     "coord": [
-      "34.00379", 
-      "-118.21288"
+      "34.01478", 
+      "-118.23322"
     ], 
     "desc": ""
   }, 
-  "GOLDENWEST LUBRICANTS INC": {
+  "COCA COLA BOTTLING CO OF LA": {
     "coord": [
-      "34.00794", 
-      "-118.18229"
+      "34.0294", 
+      "-118.24268"
     ], 
     "desc": ""
   }, 
-  "UNIVERSAL DYEING AND PRINTING INC": {
+  "MORWEAR MANUFACTURING, INC.": {
     "coord": [
-      "34.02366", 
-      "-118.23221"
+      "34.06654", 
+      "-118.22262"
     ], 
     "desc": ""
   }, 
-  "HARDINGE BROS": {
+  "LOS ANGELES SOAP CO": {
     "coord": [
-      "34.01891", 
-      "-118.17426"
+      "34.04885", 
+      "-118.23638"
+    ], 
+    "desc": ""
+  }, 
+  "ASTOURIAN JEWELRY INC.": {
+    "coord": [
+      "34.046427", 
+      "-118.253985"
+    ], 
+    "desc": ""
+  }, 
+  "SUNWELD FITTING CO": {
+    "coord": [
+      "34.04039", 
+      "-118.22466"
+    ], 
+    "desc": ""
+  }, 
+  "JMC JEWELRY": {
+    "coord": [
+      "34.046251", 
+      "-118.252354"
     ], 
     "desc": ""
   }, 
@@ -111,10 +174,17 @@
     ], 
     "desc": ""
   }, 
-  "FANTASY DYEING & FINISHING INC": {
+  "USC CONSOLIDATED FREIGHTWAYS SITE": {
     "coord": [
-      "34.005312", 
-      "-118.187135"
+      "34.06416", 
+      "-118.20257"
+    ], 
+    "desc": ""
+  }, 
+  "ANN STREET ELEMENTARY SCHOOL": {
+    "coord": [
+      "34.06448", 
+      "-118.23004"
     ], 
     "desc": ""
   }, 
@@ -125,10 +195,10 @@
     ], 
     "desc": ""
   }, 
-  "LOS ANGELES DRUM COMPANY": {
+  "MADISON GRAHAM COLORGRAPHICS INCORPORATED": {
     "coord": [
-      "34.019503", 
-      "-118.173909"
+      "34.04897", 
+      "-118.22873"
     ], 
     "desc": ""
   }, 
@@ -139,10 +209,17 @@
     ], 
     "desc": ""
   }, 
-  "AIREY-THOMPSON CO": {
+  "SOUTHERN CALIF RAPID TRANSIT DIST": {
     "coord": [
-      "34.009175", 
-      "-118.211892"
+      "34.047544", 
+      "-118.247771"
+    ], 
+    "desc": ""
+  }, 
+  "WIEMAN HINTE INC": {
+    "coord": [
+      "34.02217", 
+      "-118.24149"
     ], 
     "desc": ""
   }, 
@@ -150,6 +227,27 @@
     "coord": [
       "34.01878", 
       "-118.20416"
+    ], 
+    "desc": ""
+  }, 
+  "CATAME, INC": {
+    "coord": [
+      "34.0196", 
+      "-118.24285"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES COLD STORAGE CO": {
+    "coord": [
+      "34.04433", 
+      "-118.23968"
+    ], 
+    "desc": ""
+  }, 
+  "AVERY FIXTURE CO INC": {
+    "coord": [
+      "34.04717", 
+      "-118.23453"
     ], 
     "desc": ""
   }, 
@@ -174,6 +272,13 @@
     ], 
     "desc": ""
   }, 
+  "VERSAILLES JEWERLY": {
+    "coord": [
+      "34.04791", 
+      "-118.25045"
+    ], 
+    "desc": ""
+  }, 
   "STERICYCLE INC LOS ANGELES": {
     "coord": [
       "34.01441", 
@@ -181,10 +286,24 @@
     ], 
     "desc": ""
   }, 
-  "ROCKWOOD PIGMENTS NA INCORPORATED": {
+  "L A CO MENS DETENTION CNTR-MAIN JAIL": {
     "coord": [
-      "34.01884", 
-      "-118.196"
+      "34.0603", 
+      "-118.2304"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES COUNTY USC MEDICAL CENTER": {
+    "coord": [
+      "34.05983", 
+      "-118.21034"
+    ], 
+    "desc": ""
+  }, 
+  "BREWERY PCBS": {
+    "coord": [
+      "34.06597", 
+      "-118.21761"
     ], 
     "desc": ""
   }, 
@@ -204,8 +323,29 @@
   }, 
   "MAS AUTO REPAIR SHOP INC": {
     "coord": [
-      "34.04046", 
-      "-118.19249"
+      "34.0442", 
+      "-118.20186"
+    ], 
+    "desc": ""
+  }, 
+  "SANTA FE TRADING": {
+    "coord": [
+      "34.018927", 
+      "-118.233732"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES COLD STORAGE COMPANY": {
+    "coord": [
+      "34.04353", 
+      "-118.23973"
+    ], 
+    "desc": ""
+  }, 
+  "A&A GEAR CO": {
+    "coord": [
+      "34.02292", 
+      "-118.24789"
     ], 
     "desc": ""
   }, 
@@ -216,13 +356,6 @@
     ], 
     "desc": ""
   }, 
-  "US NAMSUNG TEXTILE INC": {
-    "coord": [
-      "34.005312", 
-      "-118.187135"
-    ], 
-    "desc": ""
-  }, 
   "KIMS TRADING": {
     "coord": [
       "34.0193", 
@@ -230,17 +363,38 @@
     ], 
     "desc": ""
   }, 
-  "MARIANNA AVENUE ELEMENTARY": {
-    "coord": [
-      "34.035126", 
-      "-118.175426"
-    ], 
-    "desc": ""
-  }, 
   "KAPPA JOAN CO": {
     "coord": [
       "34.01798", 
       "-118.2093"
+    ], 
+    "desc": ""
+  }, 
+  "TASLAKHYAN JEWELRY INC": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
+    ], 
+    "desc": ""
+  }, 
+  "GOLD ANGLES": {
+    "coord": [
+      "34.04668", 
+      "-118.253769"
+    ], 
+    "desc": ""
+  }, 
+  "E AND J PLATING CO": {
+    "coord": [
+      "34.01664", 
+      "-118.19953"
+    ], 
+    "desc": ""
+  }, 
+  "LADWP PALMETTO CONSTRUCTION HEADQUARTERS": {
+    "coord": [
+      "34.04015", 
+      "-118.23548"
     ], 
     "desc": ""
   }, 
@@ -258,17 +412,24 @@
     ], 
     "desc": ""
   }, 
-  "TRIANGLE BRASS MFG CO": {
+  "CENTRAL EASTLAKE JUVENILE": {
     "coord": [
-      "34.01415", 
-      "-118.20192"
+      "34.063766", 
+      "-118.206172"
     ], 
     "desc": ""
   }, 
-  "ENVIRONMENTAL TRANSLOADING SVC INC": {
+  "DIVERSIFIED COATINGS INC": {
     "coord": [
-      "34.03628", 
-      "-118.22522"
+      "34.06654", 
+      "-118.22262"
+    ], 
+    "desc": ""
+  }, 
+  "AGOB BEHLOORIAN": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
@@ -286,6 +447,13 @@
     ], 
     "desc": ""
   }, 
+  "VIBIANA ARTS/CHURCH": {
+    "coord": [
+      "34.05062", 
+      "-118.24395"
+    ], 
+    "desc": ""
+  }, 
   "CMD REFUSE REMOVAL SERV": {
     "coord": [
       "34.02617", 
@@ -293,17 +461,24 @@
     ], 
     "desc": ""
   }, 
-  "3677 BANDINI BLVD": {
+  "AMER TELE & TELE CO LOS ANGELES #1": {
     "coord": [
-      "34.00772", 
-      "-118.20259"
+      "34.05011", 
+      "-118.25224"
     ], 
     "desc": ""
   }, 
-  "SPECTRUM BRANDS": {
+  "DESIGN LITHO GRAPHICS INC": {
     "coord": [
-      "34.003324", 
-      "-118.190053"
+      "34.02465", 
+      "-118.24346"
+    ], 
+    "desc": ""
+  }, 
+  "ASPHALT ROOFING MFG, LA": {
+    "coord": [
+      "34.06463", 
+      "-118.20243"
     ], 
     "desc": ""
   }, 
@@ -314,38 +489,24 @@
     ], 
     "desc": ""
   }, 
-  "SANTA FE/W.A. GRANT": {
+  "F C KINGSTON CO": {
     "coord": [
-      "34.03447", 
-      "-118.229129"
-    ], 
-    "desc": ""
-  }, 
-  "OC VACUUM INC": {
-    "coord": [
-      "34.00494", 
-      "-118.20489"
-    ], 
-    "desc": ""
-  }, 
-  "LUSTER-ON-PRODUCTS INC": {
-    "coord": [
-      "34.015452", 
-      "-118.19652"
+      "34.06287", 
+      "-118.23395"
     ], 
     "desc": ""
   }, 
   "SHELL SERVICE STATION": {
     "coord": [
-      "34.04033", 
-      "-118.21195"
+      "34.02401", 
+      "-118.21988"
     ], 
     "desc": ""
   }, 
-  "COLOR MASTER PRINTEX, INC": {
+  "HAYTAYAN JEWELERS INC": {
     "coord": [
-      "34.005312", 
-      "-118.187135"
+      "34.047056", 
+      "-118.25346"
     ], 
     "desc": ""
   }, 
@@ -370,59 +531,66 @@
     ], 
     "desc": ""
   }, 
-  "PILLOWTEX  INC": {
+  "FOOD SERVICE MAINTENANCE": {
     "coord": [
-      "34.01654", 
-      "-118.19328"
+      "34.030092", 
+      "-118.208498"
     ], 
     "desc": ""
   }, 
-  "LA ST MAINT STORAGE YARD": {
+  "VARDERESSIAN JEWELRY": {
     "coord": [
-      "34.0385", 
-      "-118.23094"
+      "34.04757", 
+      "-118.25289"
     ], 
     "desc": ""
   }, 
-  "AMERICAN WASTE INDUSTRIES": {
+  "LOS ANGELES CITY OF BUR SANITATION": {
     "coord": [
-      "34.01418", 
-      "-118.20208"
+      "34.05307", 
+      "-118.24261"
     ], 
     "desc": ""
   }, 
-  "SB25 TRAILER AT HOLLLENBECK SCHOOL": {
+  "WESLEY ALLEN INC": {
     "coord": [
-      "34.035049", 
-      "-118.210477"
+      "34.01641", 
+      "-118.23744"
     ], 
     "desc": ""
   }, 
-  "SEARS LOGISTICS SERVICES": {
+  "SCHINDLER CORP": {
     "coord": [
-      "34.015101", 
-      "-118.190622"
+      "34.06511", 
+      "-118.23082"
+    ], 
+    "desc": ""
+  }, 
+  "CENTRAL L A AREA NEW H S NO 9": {
+    "coord": [
+      "34.0595", 
+      "-118.24509"
     ], 
     "desc": ""
   }, 
   "CERTIFIED ENAMELING INC": {
     "coord": [
-      "34.01587", 
-      "-118.20764"
+      "34.01578", 
+      "-118.20742"
     ], 
     "desc": ""
   }, 
-  "ATCHISON TOPEKA AND SANTA FE RY - HOBART": {
+  "FORMER GAP PRODUCTS SITE": {
     "coord": [
-      "34.012489", 
-      "-118.195877"
+      "34.02203", 
+      "-118.24632"
     ], 
     "desc": ""
   }, 
-  "GONZALEZ SVC": {
+  "WALMART NEIGHBORHOOD MARKET NO 3086": {
     "coord": [
-      "34.033279", 
-      "-118.1739"
+      "34.056028", 
+      "-118.230003"
     ], 
     "desc": ""
   }, 
@@ -440,10 +608,17 @@
     ], 
     "desc": ""
   }, 
-  "LAIDLAW WASTE SYSTEMS": {
+  "J.B. SEBRELL CO": {
     "coord": [
-      "34.01134", 
-      "-118.19242"
+      "34.04732", 
+      "-118.24251"
+    ], 
+    "desc": ""
+  }, 
+  "ADELANTE EASTSIDE": {
+    "coord": [
+      "34.05364", 
+      "-118.24555"
     ], 
     "desc": ""
   }, 
@@ -496,6 +671,27 @@
     ], 
     "desc": ""
   }, 
+  "CONTINENTAL FLEET PAINT & BODY INC": {
+    "coord": [
+      "34.01475", 
+      "-118.23615"
+    ], 
+    "desc": ""
+  }, 
+  "METCOR MFG": {
+    "coord": [
+      "34.03632", 
+      "-118.24362"
+    ], 
+    "desc": ""
+  }, 
+  "UNION CENTRAL COLD STORAGE INC": {
+    "coord": [
+      "34.03611", 
+      "-118.23801"
+    ], 
+    "desc": ""
+  }, 
   "PEREAS PRINTING PRESS": {
     "coord": [
       "34.02832", 
@@ -503,31 +699,38 @@
     ], 
     "desc": ""
   }, 
-  "CONTESSA PREMIUM FOODS, INC.": {
+  "DEPT VETERANS AFFAIRS, OUTPATIENT CLINIC": {
     "coord": [
-      "34.0136", 
-      "-118.18982"
+      "34.05169", 
+      "-118.23876"
     ], 
     "desc": ""
   }, 
-  "SOUTHERN CALIFORNIA DRUM CO INC": {
+  "BINER ELLISON": {
     "coord": [
-      "34.05732", 
-      "-118.19074"
+      "34.06281", 
+      "-118.234"
     ], 
     "desc": ""
   }, 
-  "TOBIAS LEOPOLD  PROPERTY": {
+  "VICKY THOMAS PONTIAC": {
     "coord": [
-      "34.014417", 
-      "-118.207265"
+      "34.04393", 
+      "-118.25138"
     ], 
     "desc": ""
   }, 
-  "CHEVRON STATION 94169": {
+  "LOS ANGELES TIMES-LA": {
     "coord": [
-      "34.0334", 
-      "-118.16858"
+      "34.0506", 
+      "-118.2462"
+    ], 
+    "desc": ""
+  }, 
+  "CAL FLOOR & LINING CO": {
+    "coord": [
+      "34.04922", 
+      "-118.23291"
     ], 
     "desc": ""
   }, 
@@ -538,6 +741,20 @@
     ], 
     "desc": ""
   }, 
+  "RAMONA OPPORTUNITY HIGH": {
+    "coord": [
+      "34.034097", 
+      "-118.191336"
+    ], 
+    "desc": ""
+  }, 
+  "ROY E  HANSON JR MFG CO": {
+    "coord": [
+      "34.018715", 
+      "-118.23962"
+    ], 
+    "desc": ""
+  }, 
   "LOS ANGELES USD BREED ELEM SCHOOL": {
     "coord": [
       "34.04212", 
@@ -545,10 +762,24 @@
     ], 
     "desc": ""
   }, 
-  "NEW RAMONA OPPORTUNITY HIGH SCHOOL (LAUSD)": {
+  "LA CITY  DWP": {
     "coord": [
-      "34.03332", 
-      "-118.19135"
+      "34.052764", 
+      "-118.237767"
+    ], 
+    "desc": ""
+  }, 
+  "NOBUYUKI WATANABE": {
+    "coord": [
+      "34.048646", 
+      "-118.240697"
+    ], 
+    "desc": ""
+  }, 
+  "ON BUILDING": {
+    "coord": [
+      "34.044722", 
+      "-118.241944"
     ], 
     "desc": ""
   }, 
@@ -559,17 +790,17 @@
     ], 
     "desc": ""
   }, 
-  "DARLING DELAWARE CO INCORPORATED": {
+  "SUPERIOR INSTITUTE": {
     "coord": [
-      "34.00369", 
-      "-118.19115"
+      "34.02553", 
+      "-118.22101"
     ], 
     "desc": ""
   }, 
-  "SUNWELD FITTING CO": {
+  "PJS SCREEN PRINTING": {
     "coord": [
-      "34.04039", 
-      "-118.22466"
+      "34.024716", 
+      "-118.237037"
     ], 
     "desc": ""
   }, 
@@ -587,17 +818,10 @@
     ], 
     "desc": ""
   }, 
-  "LOS ANGELES USD HAMMEL ELEM SCHOOL": {
+  "CITY OF LOS ANGELES": {
     "coord": [
-      "34.04193", 
-      "-118.17797"
-    ], 
-    "desc": ""
-  }, 
-  "U S LUBRICANTS": {
-    "coord": [
-      "34.01078", 
-      "-118.1907"
+      "34.05307", 
+      "-118.24261"
     ], 
     "desc": ""
   }, 
@@ -615,10 +839,31 @@
     ], 
     "desc": ""
   }, 
+  "M.O.R.E. OIL COMPANY": {
+    "coord": [
+      "34.065092", 
+      "-118.216819"
+    ], 
+    "desc": ""
+  }, 
+  "BC PLAZA": {
+    "coord": [
+      "34.06059", 
+      "-118.23921"
+    ], 
+    "desc": ""
+  }, 
   "RUSSELL AND RUSSELL INC": {
     "coord": [
       "34.01498", 
       "-118.210448"
+    ], 
+    "desc": ""
+  }, 
+  "NU WAY PLATING CO": {
+    "coord": [
+      "34.06407", 
+      "-118.21284"
     ], 
     "desc": ""
   }, 
@@ -629,17 +874,24 @@
     ], 
     "desc": ""
   }, 
-  "LA USD BRIDGE ELEM": {
+  "I SCREEN": {
     "coord": [
-      "34.05246", 
-      "-118.21669"
+      "34.02566", 
+      "-118.24556"
     ], 
     "desc": ""
   }, 
-  "TEXACO AUTO SERV": {
+  "BASF WYANDOTTE METROPOL DIST": {
     "coord": [
-      "34.033421", 
-      "-118.184076"
+      "34.03823", 
+      "-118.23359"
+    ], 
+    "desc": ""
+  }, 
+  "SAIA MOTOR FREIGHT LINE INC": {
+    "coord": [
+      "34.01188", 
+      "-118.22762"
     ], 
     "desc": ""
   }, 
@@ -650,24 +902,24 @@
     ], 
     "desc": ""
   }, 
-  "MATERIAL TRANSPORT MANAGEMENT INC": {
+  "MIGHTY FINE": {
     "coord": [
-      "34.00404", 
-      "-118.20177"
+      "34.0226", 
+      "-118.23564"
     ], 
     "desc": ""
   }, 
-  "CITYWIDE PUMPING SERVICE": {
+  "BUDGET TRUCK RENTAL": {
     "coord": [
-      "34.00872", 
-      "-118.21191"
+      "34.01973", 
+      "-118.23856"
     ], 
     "desc": ""
   }, 
-  "AMANECER PRIMARY CENTER": {
+  "NATIONAL COOLER CORPORATION": {
     "coord": [
-      "34.024873", 
-      "-118.18624"
+      "34.064649", 
+      "-118.219604"
     ], 
     "desc": ""
   }, 
@@ -685,6 +937,41 @@
     ], 
     "desc": ""
   }, 
+  "UNIVERSITY OF SOUTHERN CALIFORNIA HEALTH": {
+    "coord": [
+      "34.059992", 
+      "-118.20595"
+    ], 
+    "desc": ""
+  }, 
+  "LA LYON STREET STORAGE YARD": {
+    "coord": [
+      "34.054228", 
+      "-118.233673"
+    ], 
+    "desc": ""
+  }, 
+  "COCA COLA BOTTLING OF LOS ANGELES": {
+    "coord": [
+      "34.028263", 
+      "-118.246497"
+    ], 
+    "desc": ""
+  }, 
+  "JAY STEPHEN HOOPER MEMORIAL": {
+    "coord": [
+      "34.0545", 
+      "-118.2292"
+    ], 
+    "desc": ""
+  }, 
+  "DESIGNED BY SCORPIO INC": {
+    "coord": [
+      "34.04668", 
+      "-118.253769"
+    ], 
+    "desc": ""
+  }, 
   "HOWARD SCRAP METAL CO INC": {
     "coord": [
       "34.02203", 
@@ -692,10 +979,10 @@
     ], 
     "desc": ""
   }, 
-  "FERRO UNION": {
+  "RAINBOW ONE HOUR & STUDIO": {
     "coord": [
-      "34.008311", 
-      "-118.20325"
+      "34.048173", 
+      "-118.250864"
     ], 
     "desc": ""
   }, 
@@ -713,31 +1000,24 @@
     ], 
     "desc": ""
   }, 
-  "PACKAGING ADVANTAGE CORP": {
+  "CONOCO PHILLIPS - CENTER STREET TERMINAL": {
     "coord": [
-      "34.00166", 
-      "-118.20481"
+      "34.05178", 
+      "-118.23145"
     ], 
     "desc": ""
   }, 
-  "SHELL SERVICE STATION 135530": {
+  "SANTA FE/W.A. GRANT": {
     "coord": [
-      "34.023896", 
-      "-118.173691"
+      "34.03447", 
+      "-118.229129"
     ], 
     "desc": ""
   }, 
-  "BURLINGTON NORTHERN AND SANTA FE RR CO": {
+  "VIACOM OUTDOOR": {
     "coord": [
-      "34.008356", 
-      "-118.196233"
-    ], 
-    "desc": ""
-  }, 
-  "UNIVAR USA INCORPORATED": {
-    "coord": [
-      "34.014193", 
-      "-118.182805"
+      "34.062191", 
+      "-118.214265"
     ], 
     "desc": ""
   }, 
@@ -762,17 +1042,17 @@
     ], 
     "desc": ""
   }, 
-  "SUPERIOR INSTITUTE": {
+  "WELBILT REFRIGERATION MFG CO INC": {
     "coord": [
-      "34.02553", 
-      "-118.22101"
+      "34.03781", 
+      "-118.2412"
     ], 
     "desc": ""
   }, 
-  "C & R AUTO ELECTRIC SHOP": {
+  "ROYAL HEIRLOOM INC": {
     "coord": [
-      "34.04252", 
-      "-118.177989"
+      "34.02026", 
+      "-118.24102"
     ], 
     "desc": ""
   }, 
@@ -783,6 +1063,13 @@
     ], 
     "desc": ""
   }, 
+  "LA USD ROOSEVELT HS": {
+    "coord": [
+      "34.039142", 
+      "-118.211226"
+    ], 
+    "desc": ""
+  }, 
   "BRITE PLATING  CO": {
     "coord": [
       "34.01827", 
@@ -790,38 +1077,66 @@
     ], 
     "desc": ""
   }, 
-  "LA MALABAR LIBRARY": {
+  "FRED K  ANDERSON & SONS INC": {
     "coord": [
-      "34.05044", 
-      "-118.19787"
+      "34.036999", 
+      "-118.243051"
     ], 
     "desc": ""
   }, 
-  "BRITE PLATING CO INC": {
+  "1601 EAST OLYMPIC BLVD.": {
     "coord": [
-      "34.02392", 
-      "-118.18846"
+      "34.03007", 
+      "-118.24182"
+    ], 
+    "desc": ""
+  }, 
+  "BARSOTTI'S INC": {
+    "coord": [
+      "34.023316", 
+      "-118.243853"
     ], 
     "desc": ""
   }, 
   "LA CITY, DEPT OF GEN SERVICES": {
     "coord": [
-      "34.016293", 
-      "-118.22767"
+      "34.05184", 
+      "-118.24289"
     ], 
     "desc": ""
   }, 
-  "SANDESTIN TRUCKING CO": {
+  "KAZU JEWELERS, INC": {
     "coord": [
-      "34.0136", 
-      "-118.18982"
+      "34.04705", 
+      "-118.25339"
     ], 
     "desc": ""
   }, 
-  "POLY PAK AMERICA INCORPORATED": {
+  "ADN JEWELRY MFG": {
     "coord": [
-      "34.01714", 
-      "-118.21595"
+      "34.046251", 
+      "-118.252354"
+    ], 
+    "desc": ""
+  }, 
+  "ANDERSON FRED K AND SONS INCORPORATED": {
+    "coord": [
+      "34.036999", 
+      "-118.243051"
+    ], 
+    "desc": ""
+  }, 
+  "PICO DYEING & FINISHING CO": {
+    "coord": [
+      "34.0323", 
+      "-118.25296"
+    ], 
+    "desc": ""
+  }, 
+  "LA USD 2ND ST ELEM": {
+    "coord": [
+      "34.04529", 
+      "-118.21713"
     ], 
     "desc": ""
   }, 
@@ -839,6 +1154,13 @@
     ], 
     "desc": ""
   }, 
+  "BILLS TRUCK REPAIR AND MAINTENANCE": {
+    "coord": [
+      "34.02082", 
+      "-118.24156"
+    ], 
+    "desc": ""
+  }, 
   "VOLKSWORKS": {
     "coord": [
       "34.03824", 
@@ -846,10 +1168,10 @@
     ], 
     "desc": ""
   }, 
-  "KAISER ALUM & CHEMICAL CORP": {
+  "ABKARIAN JEWELRY": {
     "coord": [
-      "34.01565", 
-      "-118.18374"
+      "34.046427", 
+      "-118.253985"
     ], 
     "desc": ""
   }, 
@@ -860,31 +1182,52 @@
     ], 
     "desc": ""
   }, 
-  "LUBRICATION CO OF AMERICA": {
+  "VALLE VELASCO CO": {
     "coord": [
-      "34.00833", 
-      "-118.1849"
+      "34.04705", 
+      "-118.25339"
     ], 
     "desc": ""
   }, 
-  "LA LIBRARY MAINT BLDG": {
+  "FORT KNOX DESIGNS": {
     "coord": [
-      "34.04289", 
-      "-118.22573"
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
-  "HUMBOLDT CREAMERY": {
+  "FERNANDO AUTO SALES": {
     "coord": [
-      "34.05814", 
-      "-118.19262"
+      "34.05394", 
+      "-118.22625"
     ], 
     "desc": ""
   }, 
-  "TANKER SERVICE INC": {
+  "CHROMAL PLATING CO": {
     "coord": [
-      "34.00494", 
-      "-118.20489"
+      "34.06256", 
+      "-118.21409"
+    ], 
+    "desc": ""
+  }, 
+  "VERNON DISTRIBUTION CENTER": {
+    "coord": [
+      "34.013072", 
+      "-118.214481"
+    ], 
+    "desc": ""
+  }, 
+  "E C I PRINTING": {
+    "coord": [
+      "34.034552", 
+      "-118.239571"
+    ], 
+    "desc": ""
+  }, 
+  "MONTES AUTOMOTIVE SERVICE": {
+    "coord": [
+      "34.03723", 
+      "-118.2486"
     ], 
     "desc": ""
   }, 
@@ -902,24 +1245,10 @@
     ], 
     "desc": ""
   }, 
-  "INTER-POLYMER INDUSTRIES INC": {
-    "coord": [
-      "34.01531", 
-      "-118.21124"
-    ], 
-    "desc": ""
-  }, 
   "HANA LACE INC": {
     "coord": [
-      "34.01716", 
-      "-118.20102"
-    ], 
-    "desc": ""
-  }, 
-  "DORSETT & JACKSON INC": {
-    "coord": [
-      "34.01393", 
-      "-118.19368"
+      "34.03053", 
+      "-118.24877"
     ], 
     "desc": ""
   }, 
@@ -927,6 +1256,34 @@
     "coord": [
       "34.02948", 
       "-118.20478"
+    ], 
+    "desc": ""
+  }, 
+  "POLY PAK AMERICA INCORPORATED": {
+    "coord": [
+      "34.01714", 
+      "-118.21595"
+    ], 
+    "desc": ""
+  }, 
+  "BIOCIDE SYSTEMS": {
+    "coord": [
+      "34.0452", 
+      "-118.24195"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES TIMES L L C": {
+    "coord": [
+      "34.029752", 
+      "-118.238545"
+    ], 
+    "desc": ""
+  }, 
+  "F AND L ENT INC": {
+    "coord": [
+      "34.06811", 
+      "-118.22338"
     ], 
     "desc": ""
   }, 
@@ -958,10 +1315,17 @@
     ], 
     "desc": ""
   }, 
-  "SHAMROCK MEATS INCORPORATED": {
+  "KELLY PAPER WAREHOUSE": {
     "coord": [
-      "34.00563", 
-      "-118.20909"
+      "34.024514", 
+      "-118.245375"
+    ], 
+    "desc": ""
+  }, 
+  "SAKS STYLING": {
+    "coord": [
+      "34.049", 
+      "-118.25158"
     ], 
     "desc": ""
   }, 
@@ -972,10 +1336,17 @@
     ], 
     "desc": ""
   }, 
-  "OLIN HUNT SPECIALTY PRODUCTS INC": {
+  "SA RECYCLING LLC DBA COMMERCIAL FILTER": {
     "coord": [
-      "34.00404", 
-      "-118.20177"
+      "34.02243", 
+      "-118.23502"
+    ], 
+    "desc": ""
+  }, 
+  "LINCOLN HOSP MED CTR": {
+    "coord": [
+      "34.03946", 
+      "-118.21251"
     ], 
     "desc": ""
   }, 
@@ -986,10 +1357,10 @@
     ], 
     "desc": ""
   }, 
-  "P M DESIGNS": {
+  "LA CO., METROPOLITAN TRANS AUT": {
     "coord": [
-      "34.02899", 
-      "-118.22995"
+      "34.038247", 
+      "-118.238569"
     ], 
     "desc": ""
   }, 
@@ -1000,10 +1371,10 @@
     ], 
     "desc": ""
   }, 
-  "DK ENVIRONMENTAL INC.": {
+  "MYRNA'S JEWELRY": {
     "coord": [
-      "34.01087", 
-      "-118.20365"
+      "34.04791", 
+      "-118.25045"
     ], 
     "desc": ""
   }, 
@@ -1014,45 +1385,59 @@
     ], 
     "desc": ""
   }, 
-  "R.J. ACQUISITION CORP, THE AD ": {
+  "CORTINES SCHOOL OF VPA": {
     "coord": [
-      "34.009918", 
-      "-118.211082"
+      "34.0595", 
+      "-118.24509"
     ], 
     "desc": ""
   }, 
-  "COAST PACKING COMPANY": {
+  "ACE PLATING COMPANY": {
     "coord": [
-      "34.00552", 
-      "-118.21551"
+      "34.03901", 
+      "-118.24571"
     ], 
     "desc": ""
   }, 
-  "METAL FINISHING MARKETERS INC.": {
+  "BETTER DIAMOND SETTING CO": {
     "coord": [
-      "34.01717", 
-      "-118.19952"
+      "34.04668", 
+      "-118.253769"
     ], 
     "desc": ""
   }, 
-  "D&D DISPOSAL INC,WEST COAST RENDERING CO": {
+  "496 BAUCHET ST": {
     "coord": [
-      "34.00374", 
-      "-118.1913"
+      "34.06012", 
+      "-118.22966"
     ], 
     "desc": ""
   }, 
-  "EXIDE TECHNOLOGIES": {
+  "CONTINENTAL BUILDING": {
     "coord": [
-      "34.00591", 
-      "-118.19432"
+      "34.0487", 
+      "-118.24844"
     ], 
     "desc": ""
   }, 
-  "SOS METALS INC": {
+  "FISHKING PROCESSORS/15TH ST": {
     "coord": [
-      "34.02263", 
-      "-118.23132"
+      "34.0265", 
+      "-118.24689"
+    ], 
+    "desc": ""
+  }, 
+  "610 BROADWAY ENTERPRISE": {
+    "coord": [
+      "34.046251", 
+      "-118.252354"
+    ], 
+    "desc": ""
+  }, 
+  "ROY E HANSON": {
+    "coord": [
+      "34.02067", 
+      "-118.24356"
     ], 
     "desc": ""
   }, 
@@ -1070,10 +1455,31 @@
     ], 
     "desc": ""
   }, 
-  "AUTOZONE #5443": {
+  "EMPIRE CHEM CO INC": {
     "coord": [
-      "34.04056", 
-      "-118.17362"
+      "34.06448", 
+      "-118.22345"
+    ], 
+    "desc": ""
+  }, 
+  "ORANGE CO TRUCK RPR INC": {
+    "coord": [
+      "34.055538", 
+      "-118.222945"
+    ], 
+    "desc": ""
+  }, 
+  "INTERSTATE JEWELRY": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
+    ], 
+    "desc": ""
+  }, 
+  "PLANNING DEPT LA CITY OF": {
+    "coord": [
+      "34.05351", 
+      "-118.24392"
     ], 
     "desc": ""
   }, 
@@ -1084,10 +1490,17 @@
     ], 
     "desc": ""
   }, 
-  "CITY RUBBISH CO": {
+  "MOGUL CORP WESTERN DIV": {
     "coord": [
-      "34.057878", 
-      "-118.190838"
+      "34.058363", 
+      "-118.231998"
+    ], 
+    "desc": ""
+  }, 
+  "LA COMMERCIAL ST TRAFFIC YARD": {
+    "coord": [
+      "34.053528", 
+      "-118.237557"
     ], 
     "desc": ""
   }, 
@@ -1095,6 +1508,13 @@
     "coord": [
       "34.01799", 
       "-118.20767"
+    ], 
+    "desc": ""
+  }, 
+  "RAMONA GARDENS": {
+    "coord": [
+      "34.057583", 
+      "-118.194314"
     ], 
     "desc": ""
   }, 
@@ -1112,24 +1532,10 @@
     ], 
     "desc": ""
   }, 
-  "SWIFT ADHESIVES AND COATINGS": {
+  "ALVIN I SOLOMON CO": {
     "coord": [
-      "34.008428", 
-      "-118.222772"
-    ], 
-    "desc": ""
-  }, 
-  "CHEROKEE CHEMICALS INC  DBA CCI": {
-    "coord": [
-      "34.01225", 
-      "-118.20814"
-    ], 
-    "desc": ""
-  }, 
-  "ZIPPY LUBE-A-TRUCK #1": {
-    "coord": [
-      "34.00927", 
-      "-118.18625"
+      "34.048467", 
+      "-118.251193"
     ], 
     "desc": ""
   }, 
@@ -1140,17 +1546,24 @@
     ], 
     "desc": ""
   }, 
-  "OSCAR MAYER FOODS CORPORATION": {
+  "LOS ANGELES SEED CO, INC": {
     "coord": [
-      "34.00556", 
-      "-118.21419"
+      "34.03607", 
+      "-118.24277"
     ], 
     "desc": ""
   }, 
-  "J AND J ENGINE REBUILDING": {
+  "6359 RB4": {
     "coord": [
-      "34.0189", 
-      "-118.18224"
+      "34.04667", 
+      "-118.21772"
+    ], 
+    "desc": ""
+  }, 
+  "SO CAL GAS/ALISO D MGP": {
+    "coord": [
+      "34.05633", 
+      "-118.2309"
     ], 
     "desc": ""
   }, 
@@ -1161,24 +1574,38 @@
     ], 
     "desc": ""
   }, 
-  "REHRIG PACIFIC CO": {
+  "COCA COLA BOTTLING CO": {
     "coord": [
-      "34.00711", 
-      "-118.19254"
+      "34.0283", 
+      "-118.24186"
     ], 
     "desc": ""
   }, 
-  "CHEVRON STATION 94111": {
+  "LA MALABAR LIBRARY": {
     "coord": [
-      "34.009589", 
-      "-118.219839"
+      "34.05044", 
+      "-118.19787"
     ], 
     "desc": ""
   }, 
-  "17553 RB4": {
+  "TRUFLEX RUBBER PRODUCTS CO": {
     "coord": [
-      "34.04435", 
-      "-118.17362"
+      "34.0676", 
+      "-118.22607"
+    ], 
+    "desc": ""
+  }, 
+  "DEPT OF PUBLIC WORKS": {
+    "coord": [
+      "34.06306", 
+      "-118.19943"
+    ], 
+    "desc": ""
+  }, 
+  "CENTRAL PARKING ENFORCEMENT REPAIR SHOP": {
+    "coord": [
+      "34.059368", 
+      "-118.216051"
     ], 
     "desc": ""
   }, 
@@ -1196,10 +1623,24 @@
     ], 
     "desc": ""
   }, 
-  "ATLANTIC CHEM CORP": {
+  "SANTA FE/MACY STREET": {
     "coord": [
-      "34.03057", 
-      "-118.23111"
+      "34.054722", 
+      "-118.227822"
+    ], 
+    "desc": ""
+  }, 
+  "GARUN JEWELRY MANUFACTURING, INC": {
+    "coord": [
+      "34.049", 
+      "-118.25158"
+    ], 
+    "desc": ""
+  }, 
+  "LA LIBRARY MAINT BLDG": {
+    "coord": [
+      "34.04289", 
+      "-118.22573"
     ], 
     "desc": ""
   }, 
@@ -1210,10 +1651,10 @@
     ], 
     "desc": ""
   }, 
-  "INTERMINAL SVCS": {
+  "ROCKET IND INC": {
     "coord": [
-      "34.007892", 
-      "-118.18264"
+      "34.01655", 
+      "-118.20208"
     ], 
     "desc": ""
   }, 
@@ -1245,6 +1686,20 @@
     ], 
     "desc": ""
   }, 
+  "LA HOUSING AUTH WILLIAM MEAD HOMES": {
+    "coord": [
+      "34.06349", 
+      "-118.23131"
+    ], 
+    "desc": ""
+  }, 
+  "JOE'S GARAGE": {
+    "coord": [
+      "34.0426", 
+      "-118.23405"
+    ], 
+    "desc": ""
+  }, 
   "AMERICIAN PRODUCE": {
     "coord": [
       "34.03273", 
@@ -1252,31 +1707,31 @@
     ], 
     "desc": ""
   }, 
-  "R J  ACQUISITION CORP  THE AD": {
+  "METAL FINISHING MARKETERS INC.": {
     "coord": [
-      "34.00991", 
-      "-118.21108"
+      "34.01717", 
+      "-118.19952"
     ], 
     "desc": ""
   }, 
-  "SPECIFIC PLATING CO INCORPORATED": {
+  "SKID ROW HOUSING TRUST": {
     "coord": [
-      "34.01543", 
-      "-118.17395"
+      "34.04354", 
+      "-118.24435"
     ], 
     "desc": ""
   }, 
-  "T A GREENE CO INC": {
+  "LOS ANGELES UNITED INVEST CO": {
     "coord": [
-      "34.03043", 
-      "-118.23224"
+      "34.046427", 
+      "-118.253985"
     ], 
     "desc": ""
   }, 
-  "TONYS AUTOMATIC TRANS CTR": {
+  "LOS ANGELES CO METRO TRANS AUT": {
     "coord": [
-      "34.040583", 
-      "-118.172983"
+      "34.055713", 
+      "-118.232084"
     ], 
     "desc": ""
   }, 
@@ -1287,13 +1742,6 @@
     ], 
     "desc": ""
   }, 
-  "BEGGO & COBB CORP": {
-    "coord": [
-      "34.011547", 
-      "-118.211796"
-    ], 
-    "desc": ""
-  }, 
   "THEATRICAL CREATIONS INC": {
     "coord": [
       "34.031173", 
@@ -1301,10 +1749,10 @@
     ], 
     "desc": ""
   }, 
-  "LOS ANGELES USD DACOTAH ELEM SCHOOL": {
+  "TOSCO REFINING CO/CENTER ST  T": {
     "coord": [
-      "34.02208", 
-      "-118.21156"
+      "34.05178", 
+      "-118.23145"
     ], 
     "desc": ""
   }, 
@@ -1322,6 +1770,13 @@
     ], 
     "desc": ""
   }, 
+  "COAST LIGHTING": {
+    "coord": [
+      "34.02563", 
+      "-118.23807"
+    ], 
+    "desc": ""
+  }, 
   "AD ART COMPANY THE": {
     "coord": [
       "34.01292", 
@@ -1329,10 +1784,17 @@
     ], 
     "desc": ""
   }, 
-  "MAX WHOLESALE": {
+  "MERCEDES SPECIALTY INC": {
     "coord": [
-      "34.00875", 
-      "-118.210458"
+      "34.04325", 
+      "-118.23456"
+    ], 
+    "desc": ""
+  }, 
+  "T&B CORP": {
+    "coord": [
+      "34.046315", 
+      "-118.237082"
     ], 
     "desc": ""
   }, 
@@ -1343,10 +1805,38 @@
     ], 
     "desc": ""
   }, 
+  "CITY OF L.A., TERMINAL ISLAND TREATMENT PLANT": {
+    "coord": [
+      "34.03393", 
+      "-118.24068"
+    ], 
+    "desc": ""
+  }, 
   "COAST CONVERTERS INCORPORATED": {
     "coord": [
       "34.019587", 
       "-118.222269"
+    ], 
+    "desc": ""
+  }, 
+  "WESTERN BRASS WORKS": {
+    "coord": [
+      "34.0674", 
+      "-118.23145"
+    ], 
+    "desc": ""
+  }, 
+  "E AND T FASHIONS": {
+    "coord": [
+      "34.0398", 
+      "-118.25075"
+    ], 
+    "desc": ""
+  }, 
+  "CONSOLIDATED FREIGHTWAYS CORP DEL": {
+    "coord": [
+      "34.064469", 
+      "-118.202478"
     ], 
     "desc": ""
   }, 
@@ -1357,6 +1847,20 @@
     ], 
     "desc": ""
   }, 
+  "PARSEC": {
+    "coord": [
+      "34.063947", 
+      "-118.223631"
+    ], 
+    "desc": ""
+  }, 
+  "HOTEL NEW OTANI LOS ANGELES": {
+    "coord": [
+      "34.0511", 
+      "-118.2426"
+    ], 
+    "desc": ""
+  }, 
   "PACIFIC BELL ENVIRONMENTAL MANAGEMENT": {
     "coord": [
       "34.018491", 
@@ -1364,10 +1868,10 @@
     ], 
     "desc": ""
   }, 
-  "UNITED FOOD GROUP": {
+  "SPIRIT ACTIVEWEAR INC": {
     "coord": [
-      "34.00561", 
-      "-118.2109"
+      "34.02555", 
+      "-118.2347"
     ], 
     "desc": ""
   }, 
@@ -1378,17 +1882,52 @@
     ], 
     "desc": ""
   }, 
-  "YOUNG JIN PRINTING CO         ": {
+  "DECTER MANNEQUIN INC": {
     "coord": [
-      "34.016103", 
-      "-118.219999"
+      "34.035341", 
+      "-118.245365"
     ], 
     "desc": ""
   }, 
-  "CHALET PRODUCTS": {
+  "PRINTCO GRAPHIC ARTS": {
     "coord": [
-      "34.01078", 
-      "-118.1907"
+      "34.03944", 
+      "-118.24811"
+    ], 
+    "desc": ""
+  }, 
+  "HUGHES DISPLAY PRODUCTS": {
+    "coord": [
+      "34.02583", 
+      "-118.243515"
+    ], 
+    "desc": ""
+  }, 
+  "LA CITY  TRANS DEPT": {
+    "coord": [
+      "34.05351", 
+      "-118.24392"
+    ], 
+    "desc": ""
+  }, 
+  "BT CRELLIN MACHINE CO": {
+    "coord": [
+      "34.064837", 
+      "-118.232535"
+    ], 
+    "desc": ""
+  }, 
+  "YUN CHO PRINTING": {
+    "coord": [
+      "34.027651", 
+      "-118.229923"
+    ], 
+    "desc": ""
+  }, 
+  "WESTERN LEATHER UPHOLSTERY CO#": {
+    "coord": [
+      "34.0277", 
+      "-118.25052"
     ], 
     "desc": ""
   }, 
@@ -1406,17 +1945,10 @@
     ], 
     "desc": ""
   }, 
-  "BRENNTAG WEST INC": {
+  "EKCO METALS": {
     "coord": [
-      "34.01405", 
-      "-118.20807"
-    ], 
-    "desc": ""
-  }, 
-  "ARCO FAC NO 05027": {
-    "coord": [
-      "34.03324", 
-      "-118.18528"
+      "34.0183", 
+      "-118.22115"
     ], 
     "desc": ""
   }, 
@@ -1427,17 +1959,24 @@
     ], 
     "desc": ""
   }, 
-  "FUJIMOTO CORPORATION U S A": {
+  "MAINTENANCE MATERIALS BRANCH": {
     "coord": [
-      "34.01851", 
-      "-118.20892"
+      "34.027139", 
+      "-118.244258"
     ], 
     "desc": ""
   }, 
-  "LOS ANGELES LABEL CO": {
+  "GEUVJEHIZIAN GARABED JEWELRY": {
     "coord": [
-      "34.02195", 
-      "-118.21448"
+      "34.04791", 
+      "-118.25045"
+    ], 
+    "desc": ""
+  }, 
+  "ATLANTIC CHEM CORP": {
+    "coord": [
+      "34.03057", 
+      "-118.23111"
     ], 
     "desc": ""
   }, 
@@ -1452,6 +1991,13 @@
     "coord": [
       "34.04925", 
       "-118.22394"
+    ], 
+    "desc": ""
+  }, 
+  "LAPD HOOPER": {
+    "coord": [
+      "34.0433", 
+      "-118.247"
     ], 
     "desc": ""
   }, 
@@ -1497,17 +2043,17 @@
     ], 
     "desc": ""
   }, 
-  "LONE STAR AUTOMOTIVE DBA PRO BUILT": {
+  "FUJIMOTO CORPORATION U S A": {
     "coord": [
-      "34.018773", 
-      "-118.20742"
+      "34.01851", 
+      "-118.20892"
     ], 
     "desc": ""
   }, 
-  "LA PUMPING PLANT #2": {
+  "MENDEZ LC MATH SCI": {
     "coord": [
-      "34.01653", 
-      "-118.19594"
+      "34.04882", 
+      "-118.22673"
     ], 
     "desc": ""
   }, 
@@ -1518,17 +2064,10 @@
     ], 
     "desc": ""
   }, 
-  "DARLING INTERNATIONAL": {
+  "VAN NUYS APARTMENTS": {
     "coord": [
-      "34.009911", 
-      "-118.221046"
-    ], 
-    "desc": ""
-  }, 
-  "JOEL & ARONOFF WEST INC": {
-    "coord": [
-      "34.03927", 
-      "-118.23188"
+      "34.04474", 
+      "-118.25262"
     ], 
     "desc": ""
   }, 
@@ -1539,45 +2078,80 @@
     ], 
     "desc": ""
   }, 
-  "SLOANS DRY CLEANERS": {
+  "JOEL & ARONOFF WEST INC": {
     "coord": [
-      "34.018854", 
-      "-118.17186"
+      "34.03927", 
+      "-118.23188"
     ], 
     "desc": ""
   }, 
-  "EXXON MOBIL OIL CORPORATION VERNON LUBE PLANT": {
+  "HETZEL BROS": {
     "coord": [
-      "34.00892", 
-      "-118.223611"
+      "34.02217", 
+      "-118.24621"
     ], 
     "desc": ""
   }, 
-  "EKCO METALS": {
+  "ALL NU ICE CO INC": {
     "coord": [
-      "34.01731", 
-      "-118.22088"
+      "34.036082", 
+      "-118.237607"
     ], 
     "desc": ""
   }, 
-  "AMVAC CHEMICAL CORP": {
+  "BASF CORP": {
     "coord": [
-      "34.009444", 
-      "-118.188056"
+      "34.03892", 
+      "-118.23059"
     ], 
     "desc": ""
   }, 
-  "EXXONMOBIL OIL CORP  VERNON TERMINAL": {
+  "BRENNTAG WEST INC": {
     "coord": [
-      "34.008918", 
-      "-118.223808"
+      "34.01405", 
+      "-118.20807"
     ], 
     "desc": ""
   }, 
-  "LA S CENTRAL REFUSE COLL YARD": {
+  "DOWNTOWN LA AUTO SERVICE CENTER": {
     "coord": [
-      "34.017407", 
-      "-118.224566"
+      "34.04692", 
+      "-118.24717"
+    ], 
+    "desc": ""
+  }, 
+  "SHINE JEWELRY": {
+    "coord": [
+      "34.04667", 
+      "-118.25374"
+    ], 
+    "desc": ""
+  }, 
+  "LAUSD/ADMIN OFFICES": {
+    "coord": [
+      "34.0595", 
+      "-118.24509"
+    ], 
+    "desc": ""
+  }, 
+  "ALCO CAD-NICKEL PLATING CORP": {
+    "coord": [
+      "34.02579", 
+      "-118.24129"
+    ], 
+    "desc": ""
+  }, 
+  "LA FIRE STATION": {
+    "coord": [
+      "34.044765", 
+      "-118.21336"
+    ], 
+    "desc": ""
+  }, 
+  "ROSEMEAD RADIATOR SHOP": {
+    "coord": [
+      "34.049596", 
+      "-118.195732"
     ], 
     "desc": ""
   }, 
@@ -1588,17 +2162,24 @@
     ], 
     "desc": ""
   }, 
-  "NORDWINS CORP                 ": {
+  "TOTAL ACCESS INC": {
     "coord": [
-      "34.015539", 
-      "-118.199521"
+      "34.025633", 
+      "-118.243124"
     ], 
     "desc": ""
   }, 
-  "FOUR QUARTERS WHOLESALE INC.": {
+  "CORNFIELD SITE": {
     "coord": [
-      "34.008745", 
-      "-118.2107"
+      "34.06569", 
+      "-118.234218"
+    ], 
+    "desc": ""
+  }, 
+  "SOTO ST EEC": {
+    "coord": [
+      "34.031524", 
+      "-118.215276"
     ], 
     "desc": ""
   }, 
@@ -1616,10 +2197,24 @@
     ], 
     "desc": ""
   }, 
+  "ATLAS PRECIOUS METALS, INC.": {
+    "coord": [
+      "34.0465", 
+      "-118.25392"
+    ], 
+    "desc": ""
+  }, 
+  "COLTON METALEX CO             ": {
+    "coord": [
+      "34.055598", 
+      "-118.228468"
+    ], 
+    "desc": ""
+  }, 
   "EQUILON ENTERPRISES": {
     "coord": [
-      "34.05009", 
-      "-118.21513"
+      "34.02602", 
+      "-118.22994"
     ], 
     "desc": ""
   }, 
@@ -1630,24 +2225,59 @@
     ], 
     "desc": ""
   }, 
-  "BASF CORP": {
+  "ASTRO DISTRIBUTORS INC.": {
     "coord": [
-      "34.03892", 
-      "-118.23059"
+      "34.046251", 
+      "-118.252354"
     ], 
     "desc": ""
   }, 
-  "CHEVRON USA PRODUCTS CO": {
+  "MAINTENANCE AND OPERATIONS 12": {
     "coord": [
-      "34.014795", 
-      "-118.183831"
+      "34.027264", 
+      "-118.24611"
     ], 
     "desc": ""
   }, 
-  "DIXICO": {
+  "MAGUIRE THOMAS PARTNERS DEVELO": {
     "coord": [
-      "34.01288", 
-      "-118.17575"
+      "34.04991", 
+      "-118.25109"
+    ], 
+    "desc": ""
+  }, 
+  "V J JEWELRY": {
+    "coord": [
+      "34.04667", 
+      "-118.25374"
+    ], 
+    "desc": ""
+  }, 
+  "LA ROCK & GRAVEL": {
+    "coord": [
+      "34.06731", 
+      "-118.22339"
+    ], 
+    "desc": ""
+  }, 
+  "NEWTON POLICE STATION": {
+    "coord": [
+      "34.02657", 
+      "-118.24503"
+    ], 
+    "desc": ""
+  }, 
+  "UNITED PARCEL SERVICE": {
+    "coord": [
+      "34.017137", 
+      "-118.216052"
+    ], 
+    "desc": ""
+  }, 
+  "TOKYO CLEANERS INC": {
+    "coord": [
+      "34.047589", 
+      "-118.23922"
     ], 
     "desc": ""
   }, 
@@ -1679,10 +2309,31 @@
     ], 
     "desc": ""
   }, 
-  "HICKORY SPRINGS OF CALIFORNIA INC": {
+  "LA DAILY JOURNAL CORP": {
     "coord": [
-      "34.01288", 
-      "-118.17403"
+      "34.0485", 
+      "-118.23321"
+    ], 
+    "desc": ""
+  }, 
+  "CALTRANS": {
+    "coord": [
+      "34.042794", 
+      "-118.250957"
+    ], 
+    "desc": ""
+  }, 
+  "CENTRAL DISTRICT YARD - LOS ANGELES DEPT": {
+    "coord": [
+      "34.05059", 
+      "-118.23715"
+    ], 
+    "desc": ""
+  }, 
+  "CEMEX LOS ANGELES PLANT": {
+    "coord": [
+      "34.06621", 
+      "-118.22276"
     ], 
     "desc": ""
   }, 
@@ -1690,6 +2341,20 @@
     "coord": [
       "34.0188", 
       "-118.20094"
+    ], 
+    "desc": ""
+  }, 
+  "LAUSD CENTRAL SHOPS": {
+    "coord": [
+      "34.0281", 
+      "-118.24417"
+    ], 
+    "desc": ""
+  }, 
+  "FIVEPLANTS ASSN GREYHOUND CTL PLT": {
+    "coord": [
+      "34.043947", 
+      "-118.249645"
     ], 
     "desc": ""
   }, 
@@ -1714,10 +2379,17 @@
     ], 
     "desc": ""
   }, 
-  "PEREZ SPECIAL EDUCATION CENTER": {
+  "USDOJ BP MDC LA": {
     "coord": [
-      "34.03877", 
-      "-118.16712"
+      "34.05335", 
+      "-118.23797"
+    ], 
+    "desc": ""
+  }, 
+  "CBS OUTDOOR": {
+    "coord": [
+      "34.062211", 
+      "-118.214098"
     ], 
     "desc": ""
   }, 
@@ -1728,10 +2400,10 @@
     ], 
     "desc": ""
   }, 
-  "WESTERN SPECIALTY COATINGS CO": {
+  "WCI FURNITURE INCORPORATED": {
     "coord": [
-      "34.0073", 
-      "-118.18041"
+      "34.040009", 
+      "-118.245787"
     ], 
     "desc": ""
   }, 
@@ -1742,10 +2414,10 @@
     ], 
     "desc": ""
   }, 
-  "EAST LOS ANGELES HIGH SCHOOL NO. 1": {
+  "FRIEDMAN BAG CO INC  POLYETHYL": {
     "coord": [
-      "34.048676", 
-      "-118.208442"
+      "34.05017", 
+      "-118.23311"
     ], 
     "desc": ""
   }, 
@@ -1756,10 +2428,31 @@
     ], 
     "desc": ""
   }, 
-  "SUPERIOR LITHOGRAPHICS INCORPORATED": {
+  "AMERICAN HOME PROPERTIES": {
     "coord": [
-      "34.008669", 
-      "-118.21375"
+      "34.04667", 
+      "-118.25374"
+    ], 
+    "desc": ""
+  }, 
+  "JALISCO AUTO WRECKING": {
+    "coord": [
+      "34.05478", 
+      "-118.22466"
+    ], 
+    "desc": ""
+  }, 
+  "GANNETT OUTDOOR CO": {
+    "coord": [
+      "34.059262", 
+      "-118.216089"
+    ], 
+    "desc": ""
+  }, 
+  "MARTIN METALS INC": {
+    "coord": [
+      "34.02571", 
+      "-118.23489"
     ], 
     "desc": ""
   }, 
@@ -1770,10 +2463,24 @@
     ], 
     "desc": ""
   }, 
-  "EAST LOS ANGELES STAR PROPERTIES": {
+  "BROADWAY STATE OFFICE BLDG": {
     "coord": [
-      "34.0391", 
-      "-118.1714"
+      "34.049902", 
+      "-118.249954"
+    ], 
+    "desc": ""
+  }, 
+  "ALAMEDA LAMGP SITE": {
+    "coord": [
+      "34.034632", 
+      "-118.237461"
+    ], 
+    "desc": ""
+  }, 
+  "HOFFMAN BROS. PACKING CO.": {
+    "coord": [
+      "34.01166", 
+      "-118.2198"
     ], 
     "desc": ""
   }, 
@@ -1784,31 +2491,24 @@
     ], 
     "desc": ""
   }, 
-  "F. J. FOODSERVICE, INC.": {
+  "E. F. BRASS PLATING CO": {
     "coord": [
-      "34.007591", 
-      "-118.219717"
+      "34.06678", 
+      "-118.22142"
     ], 
     "desc": ""
   }, 
-  "SEVEN-UP RC BOTTLING OF SOUTHERN CA.": {
+  "E. H. K. JEWELRY": {
     "coord": [
-      "34.01362", 
-      "-118.2168"
+      "34.0477", 
+      "-118.24935"
     ], 
     "desc": ""
   }, 
-  "PPG/RAM FREIGHTWAYS INC": {
+  "LA S CENTRAL REFUSE COLL YARD": {
     "coord": [
-      "34.00197", 
-      "-118.19966"
-    ], 
-    "desc": ""
-  }, 
-  "LA FIRE STATION": {
-    "coord": [
-      "34.044765", 
-      "-118.21336"
+      "34.017407", 
+      "-118.224566"
     ], 
     "desc": ""
   }, 
@@ -1819,10 +2519,17 @@
     ], 
     "desc": ""
   }, 
-  "BARGAIN WHOLESALE/99 CENTS ONLY STORE": {
+  "SO CAL GAS/ALISO E  490 BUACHET ST. MGP": {
     "coord": [
-      "34.01655", 
-      "-118.18843"
+      "34.06012", 
+      "-118.22966"
+    ], 
+    "desc": ""
+  }, 
+  "S&W GARAGE": {
+    "coord": [
+      "34.03536", 
+      "-118.25097"
     ], 
     "desc": ""
   }, 
@@ -1833,10 +2540,10 @@
     ], 
     "desc": ""
   }, 
-  "BAKER COMMODITIES": {
+  "J N G INC DBA PEARCES GARAGE": {
     "coord": [
-      "34.00388", 
-      "-118.1917"
+      "34.043673", 
+      "-118.235921"
     ], 
     "desc": ""
   }, 
@@ -1847,10 +2554,17 @@
     ], 
     "desc": ""
   }, 
-  "DART TRANSPORATION SVC": {
+  "ANTRO JEWELRY INC": {
     "coord": [
-      "34.00779", 
-      "-118.18233"
+      "34.04645", 
+      "-118.252179"
+    ], 
+    "desc": ""
+  }, 
+  "ENTERPRISE SALES CO": {
+    "coord": [
+      "34.04597", 
+      "-118.23486"
     ], 
     "desc": ""
   }, 
@@ -1861,13 +2575,6 @@
     ], 
     "desc": ""
   }, 
-  "BARNES ROBERT A INC": {
-    "coord": [
-      "34.00142", 
-      "-118.19719"
-    ], 
-    "desc": ""
-  }, 
   "ELA OCCUPATIONAL CENTER": {
     "coord": [
       "34.05604", 
@@ -1875,10 +2582,24 @@
     ], 
     "desc": ""
   }, 
-  "BLOCKSOM & CO": {
+  "METRO SUPPORT SERVICES CENTER SOLAR": {
     "coord": [
-      "34.00969", 
-      "-118.19183"
+      "34.055894", 
+      "-118.231425"
+    ], 
+    "desc": ""
+  }, 
+  "SUNSHINE PLATING": {
+    "coord": [
+      "34.046427", 
+      "-118.253985"
+    ], 
+    "desc": ""
+  }, 
+  "USPS": {
+    "coord": [
+      "34.05847", 
+      "-118.23701"
     ], 
     "desc": ""
   }, 
@@ -1889,10 +2610,10 @@
     ], 
     "desc": ""
   }, 
-  "AMERICAN NATIONAL CAN COMPANY": {
+  "LA DEPARTMENT WATER & POWER": {
     "coord": [
-      "34.005312", 
-      "-118.187135"
+      "34.052764", 
+      "-118.237767"
     ], 
     "desc": ""
   }, 
@@ -1903,10 +2624,31 @@
     ], 
     "desc": ""
   }, 
-  "DAVID H FELL & CO INCORPORATED": {
+  "WITCO CORP. ALLIED KELITE DIV.": {
     "coord": [
-      "34.00869", 
-      "-118.18596"
+      "34.06426", 
+      "-118.23227"
+    ], 
+    "desc": ""
+  }, 
+  "MISSION ENGRAVING & OFFSET PLATE COMPANY": {
+    "coord": [
+      "34.04254", 
+      "-118.2457"
+    ], 
+    "desc": ""
+  }, 
+  "YANGS T SHIRT": {
+    "coord": [
+      "34.03139", 
+      "-118.24821"
+    ], 
+    "desc": ""
+  }, 
+  "SUNRISE PLAZA TRANSPORTATION CO": {
+    "coord": [
+      "34.04331", 
+      "-118.23537"
     ], 
     "desc": ""
   }, 
@@ -1917,24 +2659,17 @@
     ], 
     "desc": ""
   }, 
-  "JCI ENVIRONMENTAL SERVICES": {
+  "VVA2 JEWELRY CO": {
     "coord": [
-      "34.00369", 
-      "-118.19115"
+      "34.04668", 
+      "-118.253769"
     ], 
     "desc": ""
   }, 
-  "FILTROL CORP": {
+  "1060 NORTH VIGNES ST LOS ANGELES CA 9001": {
     "coord": [
-      "34.00881", 
-      "-118.20776"
-    ], 
-    "desc": ""
-  }, 
-  "LARRY SPUN PRODUCTS INCORPORATED": {
-    "coord": [
-      "34.01211", 
-      "-118.18006"
+      "34.060408", 
+      "-118.233958"
     ], 
     "desc": ""
   }, 
@@ -1945,24 +2680,17 @@
     ], 
     "desc": ""
   }, 
-  "LA HEALTH SVC E LA CHLD YOUTH CLN": {
+  "CITY HALL": {
     "coord": [
-      "34.046983", 
-      "-118.181136"
+      "34.0542", 
+      "-118.2426"
     ], 
     "desc": ""
   }, 
-  "E AND J PLATING CO": {
+  "LOS ANGELES USD GRIFFIN ELEM SCHOOL": {
     "coord": [
-      "34.01664", 
-      "-118.19953"
-    ], 
-    "desc": ""
-  }, 
-  "ARCHER DANIELS MIDLAND MILLING CO CENTENNIAL MILLS": {
-    "coord": [
-      "34.01544", 
-      "-118.19802"
+      "34.0679", 
+      "-118.21161"
     ], 
     "desc": ""
   }, 
@@ -1973,10 +2701,10 @@
     ], 
     "desc": ""
   }, 
-  "SUNLAW COGENERATION PARTNERS I": {
+  "ROSE JEWELRY": {
     "coord": [
-      "34.00563", 
-      "-118.20898"
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
@@ -1987,10 +2715,17 @@
     ], 
     "desc": ""
   }, 
-  "FOOD SERVICE MAINTENANCE": {
+  "DAVID DESIGN JEWELER": {
     "coord": [
-      "34.030092", 
-      "-118.208498"
+      "34.046338", 
+      "-118.252058"
+    ], 
+    "desc": ""
+  }, 
+  "MANLEY OIL CO": {
+    "coord": [
+      "34.05136", 
+      "-118.23153"
     ], 
     "desc": ""
   }, 
@@ -2015,10 +2750,24 @@
     ], 
     "desc": ""
   }, 
+  "PARKER CENTER": {
+    "coord": [
+      "34.0522", 
+      "-118.2412"
+    ], 
+    "desc": ""
+  }, 
   "J & D ACQUISITION CORP. (DBA GE NE'S P LATING)": {
     "coord": [
       "34.01728", 
       "-118.20296"
+    ], 
+    "desc": ""
+  }, 
+  "ATLAS CARPET MILLS INC": {
+    "coord": [
+      "34.06807", 
+      "-118.22163"
     ], 
     "desc": ""
   }, 
@@ -2029,10 +2778,38 @@
     ], 
     "desc": ""
   }, 
-  "GARFIELD EDUCATION AND CAREER CENTER": {
+  "DANIEL RADIATOR CORPORATION": {
     "coord": [
-      "34.03965", 
-      "-118.17313"
+      "34.014784", 
+      "-118.232708"
+    ], 
+    "desc": ""
+  }, 
+  "AMTRAK REDONDO JUNCTION FACILITY": {
+    "coord": [
+      "34.01825", 
+      "-118.22788"
+    ], 
+    "desc": ""
+  }, 
+  "VARTKES JEWELRY CO INC": {
+    "coord": [
+      "34.047229", 
+      "-118.253298"
+    ], 
+    "desc": ""
+  }, 
+  "LA CO   DEPT OF PUBLIC WORKS (": {
+    "coord": [
+      "34.063671", 
+      "-118.205132"
+    ], 
+    "desc": ""
+  }, 
+  "SHAPIRO GILMAN AND SHANDLER": {
+    "coord": [
+      "34.01936", 
+      "-118.22218"
     ], 
     "desc": ""
   }, 
@@ -2043,17 +2820,45 @@
     ], 
     "desc": ""
   }, 
-  "LA USD ROOSEVELT HS": {
+  "CONOCO PHILLIPS - CENTER STREET TERMINAL ": {
     "coord": [
-      "34.039142", 
-      "-118.211226"
+      "34.05178", 
+      "-118.23145"
     ], 
     "desc": ""
   }, 
-  "RAMONA OPPORTUNITY HIGH": {
+  "LOS ANGELES UNITED SD ASBESTOS TECH UNIT": {
     "coord": [
-      "34.034097", 
-      "-118.191336"
+      "34.051263", 
+      "-118.234149"
+    ], 
+    "desc": ""
+  }, 
+  "LINCOLN HOTEL SRO LIMITED PARTNERSHIP": {
+    "coord": [
+      "34.04027", 
+      "-118.24096"
+    ], 
+    "desc": ""
+  }, 
+  "KOREA TIMES OF LOS ANGELES": {
+    "coord": [
+      "34.029517", 
+      "-118.235561"
+    ], 
+    "desc": ""
+  }, 
+  "17427 RB4": {
+    "coord": [
+      "34.06197", 
+      "-118.21238"
+    ], 
+    "desc": ""
+  }, 
+  "L A CO CENTRAL HEATING PLANT": {
+    "coord": [
+      "34.05585", 
+      "-118.2435"
     ], 
     "desc": ""
   }, 
@@ -2078,17 +2883,17 @@
     ], 
     "desc": ""
   }, 
-  "LINCOLN HOSP MED CTR": {
+  "LA CITY HALL SOUTH": {
     "coord": [
-      "34.03946", 
-      "-118.21251"
+      "34.05184", 
+      "-118.24289"
     ], 
     "desc": ""
   }, 
-  "LAFAYETTE TEXTILE IND LLC": {
+  "P M DESIGNS": {
     "coord": [
-      "34.01288", 
-      "-118.17575"
+      "34.02899", 
+      "-118.22995"
     ], 
     "desc": ""
   }, 
@@ -2106,24 +2911,73 @@
     ], 
     "desc": ""
   }, 
-  "MARIETTA CORPORATION": {
+  "SO CAL GAS/ALISO MGP": {
     "coord": [
-      "34.00166", 
-      "-118.20481"
+      "34.05387", 
+      "-118.22946"
     ], 
     "desc": ""
   }, 
-  "LA USD INDIANA STREET GARAGE": {
+  "CALTRANS DISTRICT 7": {
     "coord": [
-      "34.0209", 
-      "-118.19228"
+      "34.052629", 
+      "-118.244678"
     ], 
     "desc": ""
   }, 
-  "CONWAY COATINGS": {
+  "THE CELOTEX CORP": {
     "coord": [
-      "34.011303", 
-      "-118.206044"
+      "34.06463", 
+      "-118.20243"
+    ], 
+    "desc": ""
+  }, 
+  "LA LOS ANGELES HALL": {
+    "coord": [
+      "34.05367", 
+      "-118.240672"
+    ], 
+    "desc": ""
+  }, 
+  "COCA-COLA BOTTLING CO FO LA": {
+    "coord": [
+      "34.02887", 
+      "-118.24647"
+    ], 
+    "desc": ""
+  }, 
+  "J&J DIESEL": {
+    "coord": [
+      "34.027891", 
+      "-118.240124"
+    ], 
+    "desc": ""
+  }, 
+  "GOLDEN SCOPE INC": {
+    "coord": [
+      "34.04668", 
+      "-118.253769"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES USD DACOTAH ELEM SCHOOL": {
+    "coord": [
+      "34.02208", 
+      "-118.21156"
+    ], 
+    "desc": ""
+  }, 
+  "WEST COAST INDUSTRIAL COATINGS": {
+    "coord": [
+      "34.039921", 
+      "-118.241081"
+    ], 
+    "desc": ""
+  }, 
+  "FANSTEEL CA DROP FORGE": {
+    "coord": [
+      "34.061424", 
+      "-118.23481"
     ], 
     "desc": ""
   }, 
@@ -2131,6 +2985,13 @@
     "coord": [
       "34.05708", 
       "-118.202797"
+    ], 
+    "desc": ""
+  }, 
+  "TERMINAL ANNEX": {
+    "coord": [
+      "34.0581", 
+      "-118.2356"
     ], 
     "desc": ""
   }, 
@@ -2148,13 +3009,6 @@
     ], 
     "desc": ""
   }, 
-  "B & C PLATING CO": {
-    "coord": [
-      "34.012805", 
-      "-118.178981"
-    ], 
-    "desc": ""
-  }, 
   "CITY OF LA, BOS, WASTEWATER COLL SYS DIV": {
     "coord": [
       "34.03701", 
@@ -2162,10 +3016,38 @@
     ], 
     "desc": ""
   }, 
-  "SALGADO AUTO REBUILDERS": {
+  "SO CAL GAS/LA-ALAMEDA MGP": {
     "coord": [
-      "34.02393", 
-      "-118.18672"
+      "34.034632", 
+      "-118.237461"
+    ], 
+    "desc": ""
+  }, 
+  "KIM PHUOC JEWELRY INC": {
+    "coord": [
+      "34.06524", 
+      "-118.23274"
+    ], 
+    "desc": ""
+  }, 
+  "UNIQUE TIME SERVICE": {
+    "coord": [
+      "34.049", 
+      "-118.25158"
+    ], 
+    "desc": ""
+  }, 
+  "GENERAL TRUCK BODY": {
+    "coord": [
+      "34.068691", 
+      "-118.222034"
+    ], 
+    "desc": ""
+  }, 
+  "LA VEHICLE STORAGE LOT": {
+    "coord": [
+      "34.0614", 
+      "-118.23517"
     ], 
     "desc": ""
   }, 
@@ -2176,10 +3058,24 @@
     ], 
     "desc": ""
   }, 
+  "F W WOOLWORTHS": {
+    "coord": [
+      "34.04459", 
+      "-118.25389"
+    ], 
+    "desc": ""
+  }, 
   "IDEARC MEDIA SERVICES-WEST, INC.": {
     "coord": [
       "34.03043", 
       "-118.22028"
+    ], 
+    "desc": ""
+  }, 
+  "RAFU SHIMPO": {
+    "coord": [
+      "34.04873", 
+      "-118.24454"
     ], 
     "desc": ""
   }, 
@@ -2197,31 +3093,52 @@
     ], 
     "desc": ""
   }, 
-  "HUHTAMAKI CONSUMER PACKAGING-WEST INC.": {
+  "N T AUTO REPAIR": {
     "coord": [
-      "34.01303", 
-      "-118.18324"
+      "34.04244", 
+      "-118.23818"
     ], 
     "desc": ""
   }, 
-  "LA USD EASTMAN EL": {
+  "BUILDERS HARDWARE FINISHERS": {
     "coord": [
-      "34.01889", 
-      "-118.18583"
+      "34.06534", 
+      "-118.21284"
     ], 
     "desc": ""
   }, 
-  "SHAPIRO GILMAN AND SHANDLER": {
+  "EDWARD ROYBAL FEDERAL BLDG": {
     "coord": [
-      "34.01936", 
-      "-118.22218"
+      "34.0533", 
+      "-118.2392"
     ], 
     "desc": ""
   }, 
-  "IN TERMINAL SERVICES": {
+  "GOLDEN NATURAL CO": {
     "coord": [
-      "34.007807", 
-      "-118.182382"
+      "34.05778", 
+      "-118.23307"
+    ], 
+    "desc": ""
+  }, 
+  "PRINTCO": {
+    "coord": [
+      "34.03944", 
+      "-118.24811"
+    ], 
+    "desc": ""
+  }, 
+  "LAUSD EVERGREEN ELEM SCHOOL": {
+    "coord": [
+      "34.05251", 
+      "-118.19713"
+    ], 
+    "desc": ""
+  }, 
+  "FISHKING PROCESSORS/COMPTON AVE": {
+    "coord": [
+      "34.021265", 
+      "-118.243934"
     ], 
     "desc": ""
   }, 
@@ -2229,13 +3146,6 @@
     "coord": [
       "34.016479", 
       "-118.207692"
-    ], 
-    "desc": ""
-  }, 
-  "BLACKHAWK CHEMICAL CORP": {
-    "coord": [
-      "34.00994", 
-      "-118.18823"
     ], 
     "desc": ""
   }, 
@@ -2253,17 +3163,17 @@
     ], 
     "desc": ""
   }, 
-  "J C INC LIQUID WASTE DISPOSAL": {
+  "CIVIC CENTER": {
     "coord": [
-      "34.00566", 
-      "-118.204932"
+      "34.05585", 
+      "-118.2435"
     ], 
     "desc": ""
   }, 
-  "BENEDETTI CORPORATION": {
+  "SCHWARTZ HARRY YARN & CO INC": {
     "coord": [
-      "34.0193", 
-      "-118.21559"
+      "34.047767", 
+      "-118.243377"
     ], 
     "desc": ""
   }, 
@@ -2274,6 +3184,41 @@
     ], 
     "desc": ""
   }, 
+  "BENEDETTI CORPORATION": {
+    "coord": [
+      "34.0193", 
+      "-118.21559"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES TIMES": {
+    "coord": [
+      "34.05189", 
+      "-118.24545"
+    ], 
+    "desc": ""
+  }, 
+  "LAC / USC IMAGING SCIENCE CTR": {
+    "coord": [
+      "34.062003", 
+      "-118.209944"
+    ], 
+    "desc": ""
+  }, 
+  "INTER-POLYMER INDUSTRIES INC": {
+    "coord": [
+      "34.01531", 
+      "-118.21124"
+    ], 
+    "desc": ""
+  }, 
+  "JOE DALEY & SONS, INC": {
+    "coord": [
+      "34.03599", 
+      "-118.24503"
+    ], 
+    "desc": ""
+  }, 
   "ASSOCIATED AUTO PARTS CTR": {
     "coord": [
       "34.04046", 
@@ -2281,10 +3226,10 @@
     ], 
     "desc": ""
   }, 
-  "LA JUNCTION RAILROAD": {
+  "FEDEX FREIGHT INC LOS": {
     "coord": [
-      "34.001945", 
-      "-118.198697"
+      "34.01926", 
+      "-118.23676"
     ], 
     "desc": ""
   }, 
@@ -2295,10 +3240,45 @@
     ], 
     "desc": ""
   }, 
-  "SOTO ST EEC": {
+  "SO CAL GAS/ALISO SECTOR C": {
     "coord": [
-      "34.031524", 
-      "-118.215276"
+      "34.050564", 
+      "-118.231638"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES LABEL CO": {
+    "coord": [
+      "34.02195", 
+      "-118.21448"
+    ], 
+    "desc": ""
+  }, 
+  "ROY E. HANSON JR. MANUFACTURING": {
+    "coord": [
+      "34.02009", 
+      "-118.24406"
+    ], 
+    "desc": ""
+  }, 
+  "EDEN MARKETING CORPORATION": {
+    "coord": [
+      "34.02741", 
+      "-118.2391"
+    ], 
+    "desc": ""
+  }, 
+  "WALTER ZIMMER CO": {
+    "coord": [
+      "34.04791", 
+      "-118.25045"
+    ], 
+    "desc": ""
+  }, 
+  "DOMESTIC LINEN SUPPLY": {
+    "coord": [
+      "34.02238", 
+      "-118.24389"
     ], 
     "desc": ""
   }, 
@@ -2309,10 +3289,10 @@
     ], 
     "desc": ""
   }, 
-  "HKM OF CALIFORNIA CORP. KRASNE MANUFACTURING DIV.": {
+  "LONE STAR AUTOMOTIVE DBA PRO BUILT": {
     "coord": [
-      "34.01811", 
-      "-118.21106"
+      "34.018773", 
+      "-118.20742"
     ], 
     "desc": ""
   }, 
@@ -2323,10 +3303,10 @@
     ], 
     "desc": ""
   }, 
-  "UNITED PARCEL SERVICE": {
+  "S AND B SCREEN PRINTING": {
     "coord": [
-      "34.00988", 
-      "-118.20524"
+      "34.019631", 
+      "-118.241363"
     ], 
     "desc": ""
   }, 
@@ -2337,13 +3317,6 @@
     ], 
     "desc": ""
   }, 
-  "BAKER COMMODITIES INCORPORATED": {
-    "coord": [
-      "34.00454", 
-      "-118.19365"
-    ], 
-    "desc": ""
-  }, 
   "CALIFORNIA GYN EQUIPMENT CO": {
     "coord": [
       "34.01802", 
@@ -2351,10 +3324,17 @@
     ], 
     "desc": ""
   }, 
-  "BELVEDERE": {
+  "LA COUNTY METROPOLITAN TRANSPORATATION AUTHORITY REGIONAL REBUILD CENTER": {
     "coord": [
-      "34.0406", 
-      "-118.16828"
+      "34.055894", 
+      "-118.231425"
+    ], 
+    "desc": ""
+  }, 
+  "GEMLINE FRAME CO": {
+    "coord": [
+      "34.054343", 
+      "-118.225654"
     ], 
     "desc": ""
   }, 
@@ -2365,13 +3345,6 @@
     ], 
     "desc": ""
   }, 
-  "CHUCKS FLEET SVC": {
-    "coord": [
-      "34.00263", 
-      "-118.20485"
-    ], 
-    "desc": ""
-  }, 
   "EDGECRAFT CORPORATION": {
     "coord": [
       "34.01553", 
@@ -2379,10 +3352,10 @@
     ], 
     "desc": ""
   }, 
-  "DURAN'S BODY SHOP, INC": {
+  "SINA SILK SCREEN SHOP": {
     "coord": [
-      "34.03341", 
-      "-118.16678"
+      "34.04231", 
+      "-118.25439"
     ], 
     "desc": ""
   }, 
@@ -2393,10 +3366,31 @@
     ], 
     "desc": ""
   }, 
+  "SOS METALS INC": {
+    "coord": [
+      "34.02263", 
+      "-118.23132"
+    ], 
+    "desc": ""
+  }, 
   "BRONZE-WAY PLATING CO": {
     "coord": [
       "34.01656", 
       "-118.20294"
+    ], 
+    "desc": ""
+  }, 
+  "UNIDOR JEWELRY": {
+    "coord": [
+      "34.04723", 
+      "-118.25321"
+    ], 
+    "desc": ""
+  }, 
+  "LA ANN ST ANIMAL SHELTER": {
+    "coord": [
+      "34.06596", 
+      "-118.2323"
     ], 
     "desc": ""
   }, 
@@ -2421,6 +3415,13 @@
     ], 
     "desc": ""
   }, 
+  "AVANTE PLATING": {
+    "coord": [
+      "34.018949", 
+      "-118.232557"
+    ], 
+    "desc": ""
+  }, 
   "ACME DIE CUTTING SERVICE": {
     "coord": [
       "34.03907", 
@@ -2428,17 +3429,24 @@
     ], 
     "desc": ""
   }, 
-  "CCI INC": {
+  "TOBIAS LEOPOLD  PROPERTY": {
     "coord": [
-      "34.01225", 
-      "-118.20814"
+      "34.014417", 
+      "-118.207265"
     ], 
     "desc": ""
   }, 
-  "AMERICAN NATIONAL CAN CO LOS ANGELES FACILITY": {
+  "VALSPAR CORPORTION": {
     "coord": [
-      "34.005312", 
-      "-118.187135"
+      "34.06654", 
+      "-118.22262"
+    ], 
+    "desc": ""
+  }, 
+  "SHELL OIL PRODUCTS CO": {
+    "coord": [
+      "34.01866", 
+      "-118.24317"
     ], 
     "desc": ""
   }, 
@@ -2449,10 +3457,17 @@
     ], 
     "desc": ""
   }, 
-  "CALTRANS EAST LOS ANGELES": {
+  "GREYHOUND LINES INC": {
     "coord": [
-      "34.033395", 
-      "-118.170923"
+      "34.03488", 
+      "-118.2368"
+    ], 
+    "desc": ""
+  }, 
+  "RAYBESTOS MANHATTAN COMPANY": {
+    "coord": [
+      "34.01634", 
+      "-118.2387"
     ], 
     "desc": ""
   }, 
@@ -2463,13 +3478,6 @@
     ], 
     "desc": ""
   }, 
-  "U S FERTILIZER CORP": {
-    "coord": [
-      "34.003324", 
-      "-118.190053"
-    ], 
-    "desc": ""
-  }, 
   "YOLANDAS PLATING": {
     "coord": [
       "34.01654", 
@@ -2477,17 +3485,17 @@
     ], 
     "desc": ""
   }, 
-  "HICKORY SPRINGS OF CAL INC": {
+  "NATIONAL RAILROAD PASSENGER CORP": {
     "coord": [
-      "34.01288", 
-      "-118.17403"
+      "34.019704", 
+      "-118.228962"
     ], 
     "desc": ""
   }, 
-  "G&R AUTO SUPPLY": {
+  "BOYLE HEIGHTS HIGH SCHOOL": {
     "coord": [
-      "34.05033", 
-      "-118.19764"
+      "34.037861", 
+      "-118.212132"
     ], 
     "desc": ""
   }, 
@@ -2498,17 +3506,17 @@
     ], 
     "desc": ""
   }, 
-  "SHEDD'S FOOD PRODUCTS INC": {
-    "coord": [
-      "34.00187", 
-      "-118.19852"
-    ], 
-    "desc": ""
-  }, 
   "BRONZE-WAY POWDER COATING  INC": {
     "coord": [
       "34.01717", 
       "-118.20791"
+    ], 
+    "desc": ""
+  }, 
+  "CUSTOM LITHOGRAPH INC": {
+    "coord": [
+      "34.05349", 
+      "-118.245319"
     ], 
     "desc": ""
   }, 
@@ -2526,10 +3534,38 @@
     ], 
     "desc": ""
   }, 
+  "CALTRANS HARBOR": {
+    "coord": [
+      "34.023929", 
+      "-118.240647"
+    ], 
+    "desc": ""
+  }, 
+  "SAVENA JEWELRY INC": {
+    "coord": [
+      "34.04757", 
+      "-118.25289"
+    ], 
+    "desc": ""
+  }, 
   "POUR LE BEBE": {
     "coord": [
       "34.0261", 
       "-118.23282"
+    ], 
+    "desc": ""
+  }, 
+  "8757 RB 4": {
+    "coord": [
+      "34.05796", 
+      "-118.21048"
+    ], 
+    "desc": ""
+  }, 
+  "C AND J CIRCLE SCREEN": {
+    "coord": [
+      "34.04267", 
+      "-118.24351"
     ], 
     "desc": ""
   }, 
@@ -2540,24 +3576,31 @@
     ], 
     "desc": ""
   }, 
-  "AZTEC LITHO": {
+  "LA ST MAINT STORAGE YARD": {
     "coord": [
-      "34.04094", 
-      "-118.16921"
+      "34.0385", 
+      "-118.23094"
     ], 
     "desc": ""
   }, 
-  "JUMBO SALES": {
+  "U S BRASS": {
     "coord": [
-      "34.008637", 
-      "-118.21491"
+      "34.025345", 
+      "-118.23595"
     ], 
     "desc": ""
   }, 
-  "MIKES FLEET SVC,INC": {
+  "LOS ANGELES DEPARTMENT OF WATER AND POWER": {
     "coord": [
-      "34.003495", 
-      "-118.190559"
+      "34.06694", 
+      "-118.22734"
+    ], 
+    "desc": ""
+  }, 
+  "ADAMIAN JEWELRY": {
+    "coord": [
+      "34.046251", 
+      "-118.252354"
     ], 
     "desc": ""
   }, 
@@ -2568,10 +3611,10 @@
     ], 
     "desc": ""
   }, 
-  "MARS PETCARE US INC": {
+  "LA ELECTRONICS BLDG": {
     "coord": [
-      "34.003846", 
-      "-118.208947"
+      "34.04352", 
+      "-118.24436"
     ], 
     "desc": ""
   }, 
@@ -2582,17 +3625,24 @@
     ], 
     "desc": ""
   }, 
+  "ROY E HANSON JR MANUFACTURING COMPANY": {
+    "coord": [
+      "34.018715", 
+      "-118.23962"
+    ], 
+    "desc": ""
+  }, 
+  "WINDSOR DISPLAYS INC": {
+    "coord": [
+      "34.02774", 
+      "-118.24755"
+    ], 
+    "desc": ""
+  }, 
   "J&G GARAGE": {
     "coord": [
       "34.04046", 
       "-118.19249"
-    ], 
-    "desc": ""
-  }, 
-  "D AND J AUTO REPAIR": {
-    "coord": [
-      "34.0046", 
-      "-118.20488"
     ], 
     "desc": ""
   }, 
@@ -2603,24 +3653,10 @@
     ], 
     "desc": ""
   }, 
-  "E LOS ANGELES DOCTORS HOSPITAL": {
+  "SB25 TRAILER AT HOLLLENBECK SCHOOL": {
     "coord": [
-      "34.02393", 
-      "-118.184115"
-    ], 
-    "desc": ""
-  }, 
-  "UNITED STATES ALUMINUM CORP.": {
-    "coord": [
-      "34.00801", 
-      "-118.20323"
-    ], 
-    "desc": ""
-  }, 
-  "LAUSD ROWAN ELEM SCHOOL": {
-    "coord": [
-      "34.02957", 
-      "-118.1874"
+      "34.035049", 
+      "-118.210477"
     ], 
     "desc": ""
   }, 
@@ -2638,10 +3674,24 @@
     ], 
     "desc": ""
   }, 
+  "W A BENJAMIN ELECTRIC CO": {
+    "coord": [
+      "34.02272", 
+      "-118.24145"
+    ], 
+    "desc": ""
+  }, 
   "ELECTROMATIC INCORPORATED": {
     "coord": [
       "34.0165", 
       "-118.20714"
+    ], 
+    "desc": ""
+  }, 
+  "SMM MANUFACTURING, INC.": {
+    "coord": [
+      "34.045475", 
+      "-118.242168"
     ], 
     "desc": ""
   }, 
@@ -2652,10 +3702,24 @@
     ], 
     "desc": ""
   }, 
-  "SEALRIGHT PACKAGING COMPANY": {
+  "K AND K JEWELRY INC": {
     "coord": [
-      "34.01303", 
-      "-118.18324"
+      "34.04723", 
+      "-118.25321"
+    ], 
+    "desc": ""
+  }, 
+  "HELMUT H DREYER MFG": {
+    "coord": [
+      "34.04705", 
+      "-118.25339"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES BUREAU OF SANITATION": {
+    "coord": [
+      "34.04841", 
+      "-118.2487"
     ], 
     "desc": ""
   }, 
@@ -2666,6 +3730,20 @@
     ], 
     "desc": ""
   }, 
+  "LA COUNTY SHERIFF'S DEPT": {
+    "coord": [
+      "34.05959", 
+      "-118.23026"
+    ], 
+    "desc": ""
+  }, 
+  "KRAMER INK CO INC": {
+    "coord": [
+      "34.03547", 
+      "-118.24553"
+    ], 
+    "desc": ""
+  }, 
   "IND X RAY LABORATORIES INC": {
     "coord": [
       "34.01656", 
@@ -2673,17 +3751,52 @@
     ], 
     "desc": ""
   }, 
-  "VERNON RECYCLING FACILITY": {
+  "USVA OUTPATIENT CLINIC": {
     "coord": [
-      "34.00526", 
-      "-118.19362"
+      "34.05169", 
+      "-118.23876"
     ], 
     "desc": ""
   }, 
-  "A2Z PLATING": {
+  "S & W PRINTING INC": {
     "coord": [
-      "34.01287", 
-      "-118.17898"
+      "34.03666", 
+      "-118.24555"
+    ], 
+    "desc": ""
+  }, 
+  "BOB CISNEROS JEWERLY MFG": {
+    "coord": [
+      "34.04843", 
+      "-118.25125"
+    ], 
+    "desc": ""
+  }, 
+  "PACIFIC MOTOR TRUCKING CO": {
+    "coord": [
+      "34.064679", 
+      "-118.223353"
+    ], 
+    "desc": ""
+  }, 
+  "PRUDENTIAL LIGHTING": {
+    "coord": [
+      "34.01743", 
+      "-118.24074"
+    ], 
+    "desc": ""
+  }, 
+  "FELDMAN CO PLT 2": {
+    "coord": [
+      "34.0447", 
+      "-118.23499"
+    ], 
+    "desc": ""
+  }, 
+  "MICHAEL P MCAFFREY INC": {
+    "coord": [
+      "34.014855", 
+      "-118.230368"
     ], 
     "desc": ""
   }, 
@@ -2694,10 +3807,10 @@
     ], 
     "desc": ""
   }, 
-  "AMVAC CHEMICAL CORPORATION-MAIN FACILITY": {
+  "HIKARI 1 HR PHOTO": {
     "coord": [
-      "34.009898", 
-      "-118.188094"
+      "34.049368", 
+      "-118.239642"
     ], 
     "desc": ""
   }, 
@@ -2708,17 +3821,31 @@
     ], 
     "desc": ""
   }, 
-  "EAST LA STAR ADULT EDUCATION": {
+  "BANDINI CANYON POCKET PARK": {
     "coord": [
-      "34.0394", 
-      "-118.171409"
+      "34.0522", 
+      "-118.2428"
     ], 
     "desc": ""
   }, 
-  "TRIANGLE BRASS MANUFACTURING CO INC": {
+  "CUMMINS SERVICE & SALES": {
     "coord": [
-      "34.01414", 
-      "-118.2018"
+      "34.02178", 
+      "-118.24045"
+    ], 
+    "desc": ""
+  }, 
+  "JOHNS EXCHANGE INC": {
+    "coord": [
+      "34.04668", 
+      "-118.253769"
+    ], 
+    "desc": ""
+  }, 
+  "CERTAINTEED CORP": {
+    "coord": [
+      "34.06463", 
+      "-118.20243"
     ], 
     "desc": ""
   }, 
@@ -2729,10 +3856,52 @@
     ], 
     "desc": ""
   }, 
-  "LA DISTRIBUTION CTR": {
+  "UNIVERSITY SO CALIFORNIA,HEALTH SCIENCES": {
     "coord": [
-      "34.00376", 
-      "-118.21487"
+      "34.059992", 
+      "-118.20595"
+    ], 
+    "desc": ""
+  }, 
+  "EQUILON LOS ANGELES TERMINAL": {
+    "coord": [
+      "34.01866", 
+      "-118.24317"
+    ], 
+    "desc": ""
+  }, 
+  "W SIXTH AND BROADWAY PARTNERSHIP": {
+    "coord": [
+      "34.046938", 
+      "-118.252381"
+    ], 
+    "desc": ""
+  }, 
+  "LA USD BRIDGE ELEM": {
+    "coord": [
+      "34.05246", 
+      "-118.21669"
+    ], 
+    "desc": ""
+  }, 
+  "V A OUTPATIENT CLINICS": {
+    "coord": [
+      "34.049898", 
+      "-118.250804"
+    ], 
+    "desc": ""
+  }, 
+  "UNIV SO CAL,(KENNETH NORRIS JR": {
+    "coord": [
+      "34.06227", 
+      "-118.20489"
+    ], 
+    "desc": ""
+  }, 
+  "COAST PRODUCE": {
+    "coord": [
+      "34.0238", 
+      "-118.23444"
     ], 
     "desc": ""
   }, 
@@ -2743,10 +3912,10 @@
     ], 
     "desc": ""
   }, 
-  "T AND T CARBURETORS": {
+  "EAST LOS ANGELES HIGH SCHOOL NO. 1": {
     "coord": [
-      "34.041064", 
-      "-118.169203"
+      "34.048676", 
+      "-118.208442"
     ], 
     "desc": ""
   }, 
@@ -2757,10 +3926,17 @@
     ], 
     "desc": ""
   }, 
-  "RAMONA GARDENS": {
+  "ANTONIO URIBE MFG": {
     "coord": [
-      "34.057583", 
-      "-118.194314"
+      "34.0477", 
+      "-118.24935"
+    ], 
+    "desc": ""
+  }, 
+  "CAMERA READY": {
+    "coord": [
+      "34.05", 
+      "-118.250708"
     ], 
     "desc": ""
   }, 
@@ -2771,10 +3947,10 @@
     ], 
     "desc": ""
   }, 
-  "OEM PLATING & MANUFACTURING CORP.": {
+  "CHARLES W CARTER CO": {
     "coord": [
-      "34.00601", 
-      "-118.181307"
+      "34.01895", 
+      "-118.23238"
     ], 
     "desc": ""
   }, 
@@ -2792,10 +3968,31 @@
     ], 
     "desc": ""
   }, 
-  "YUN CHO PRINTING": {
+  "LA CITY REPAIR SHOPS": {
     "coord": [
-      "34.027651", 
-      "-118.229923"
+      "34.059593", 
+      "-118.236699"
+    ], 
+    "desc": ""
+  }, 
+  "AZTEC AUTO WREKEN": {
+    "coord": [
+      "34.057693", 
+      "-118.217862"
+    ], 
+    "desc": ""
+  }, 
+  "600 N. MISSION ROAD/MISSION ROAD RIVER DISTRICT": {
+    "coord": [
+      "34.05556", 
+      "-118.2229"
+    ], 
+    "desc": ""
+  }, 
+  "SO CAL GAS/ALISO SITE-WIDE - GROUNDWATER": {
+    "coord": [
+      "34.053697", 
+      "-118.232079"
     ], 
     "desc": ""
   }, 
@@ -2806,10 +4003,45 @@
     ], 
     "desc": ""
   }, 
-  "HONEYWELL INC": {
+  "MORWEAR MANUFACTURING / SMILAND PAINT": {
     "coord": [
-      "34.00428", 
-      "-118.19288"
+      "34.06654", 
+      "-118.22262"
+    ], 
+    "desc": ""
+  }, 
+  "LA FIRE STATION 8": {
+    "coord": [
+      "34.04131", 
+      "-118.24762"
+    ], 
+    "desc": ""
+  }, 
+  "METROPOLITAN WATER DISTRICT": {
+    "coord": [
+      "34.0544", 
+      "-118.2367"
+    ], 
+    "desc": ""
+  }, 
+  "TMT-PATHWAY LLC": {
+    "coord": [
+      "34.059454", 
+      "-118.215856"
+    ], 
+    "desc": ""
+  }, 
+  "AUTOMATION PRINTING           ": {
+    "coord": [
+      "34.02725", 
+      "-118.24111"
+    ], 
+    "desc": ""
+  }, 
+  "28 ANGELS CORPORATION": {
+    "coord": [
+      "34.04601", 
+      "-118.24491"
     ], 
     "desc": ""
   }, 
@@ -2820,6 +4052,13 @@
     ], 
     "desc": ""
   }, 
+  "L.A.C.M.T.A.": {
+    "coord": [
+      "34.05662", 
+      "-118.220182"
+    ], 
+    "desc": ""
+  }, 
   "MACK TRUCKS INC": {
     "coord": [
       "34.02572", 
@@ -2827,45 +4066,94 @@
     ], 
     "desc": ""
   }, 
-  "BECKART ENVIRONMENTAL INC": {
+  "LA FIRE STATION 4": {
     "coord": [
-      "34.007706", 
-      "-118.181614"
+      "34.06079", 
+      "-118.23567"
     ], 
     "desc": ""
   }, 
-  "LAUSD EVERGREEN ELEM SCHOOL": {
+  "LARA AND SONS DIFFERENTIALS 4X4": {
     "coord": [
-      "34.05251", 
-      "-118.19713"
+      "34.02258", 
+      "-118.24389"
     ], 
     "desc": ""
   }, 
-  "LAUSD HUMPHREYS ELEM SCHOOL": {
+  "SLOANS": {
     "coord": [
-      "34.02845", 
-      "-118.17093"
+      "34.06604", 
+      "-118.21009"
     ], 
     "desc": ""
   }, 
-  "SHELL SERVICE STATION 135549": {
+  "AMETEK/LOS ANGELES DIE CASTING": {
     "coord": [
-      "34.018813", 
-      "-118.190245"
+      "34.0454", 
+      "-118.24106"
     ], 
     "desc": ""
   }, 
-  "BOYLE HEIGHTS HIGH SCHOOL": {
+  "SIERRA INTL INVESTMENT PROPERTIES": {
     "coord": [
-      "34.037861", 
-      "-118.212132"
+      "34.04791", 
+      "-118.25045"
     ], 
     "desc": ""
   }, 
-  "EAST LOS ANGELES HIGH SCHOOL NO 2": {
+  "PACIFIC ELECTRIC LOFTS": {
     "coord": [
-      "34.041493", 
-      "-118.17458"
+      "34.045008", 
+      "-118.250182"
+    ], 
+    "desc": ""
+  }, 
+  "KIM PHUC JEWELRY": {
+    "coord": [
+      "34.06302", 
+      "-118.238"
+    ], 
+    "desc": ""
+  }, 
+  "OLYMPIC PLATING AND POLIS": {
+    "coord": [
+      "34.030698", 
+      "-118.241018"
+    ], 
+    "desc": ""
+  }, 
+  "G&R AUTO SUPPLY": {
+    "coord": [
+      "34.05033", 
+      "-118.19764"
+    ], 
+    "desc": ""
+  }, 
+  "SO CAL GAS/LA MAIN ST MGP": {
+    "coord": [
+      "34.06694", 
+      "-118.22734"
+    ], 
+    "desc": ""
+  }, 
+  "PEARCE'S GARAGE INC": {
+    "coord": [
+      "34.035781", 
+      "-118.241773"
+    ], 
+    "desc": ""
+  }, 
+  "LA TAXI": {
+    "coord": [
+      "34.026234", 
+      "-118.250476"
+    ], 
+    "desc": ""
+  }, 
+  "LA CO., SHERIFF'S DEPT": {
+    "coord": [
+      "34.05959", 
+      "-118.23026"
     ], 
     "desc": ""
   }, 
@@ -2873,6 +4161,13 @@
     "coord": [
       "34.020064", 
       "-118.212445"
+    ], 
+    "desc": ""
+  }, 
+  "SOUTHERN CALIFORNIA GAS COMPANY-SECTOR D ALISO STREET GAS PLANT": {
+    "coord": [
+      "34.055894", 
+      "-118.231425"
     ], 
     "desc": ""
   }, 
@@ -2897,6 +4192,13 @@
     ], 
     "desc": ""
   }, 
+  "CITY OF LA, BOS,WASTEWATER COLL SYS DIV": {
+    "coord": [
+      "34.053", 
+      "-118.245"
+    ], 
+    "desc": ""
+  }, 
   "PACIFIC MANUFACTURING DBA GRENEKER SOLUTIONS": {
     "coord": [
       "34.018842", 
@@ -2904,17 +4206,10 @@
     ], 
     "desc": ""
   }, 
-  "US LUBRICANT OIL": {
+  "PRECISION METAL TECH": {
     "coord": [
-      "34.01078", 
-      "-118.1907"
-    ], 
-    "desc": ""
-  }, 
-  "VIGORO INDUSTRIES INCORPORATED": {
-    "coord": [
-      "34.00645", 
-      "-118.1906"
+      "34.04218", 
+      "-118.24274"
     ], 
     "desc": ""
   }, 
@@ -2925,24 +4220,24 @@
     ], 
     "desc": ""
   }, 
-  "HOFFMAN BROS. PACKING CO.": {
+  "BAUCHET STREET": {
     "coord": [
-      "34.01166", 
-      "-118.2198"
+      "34.06012", 
+      "-118.22966"
     ], 
     "desc": ""
   }, 
-  "DANIEL ROCHA BODY SHOP": {
+  "IMPERIAL PRINTING INK": {
     "coord": [
-      "34.003495", 
-      "-118.190559"
+      "34.0323", 
+      "-118.25296"
     ], 
     "desc": ""
   }, 
-  "HEMPHILL SPRING CO": {
+  "KONICA 1 HR PHOTO YAOHAN 2ND FLOOR": {
     "coord": [
-      "34.00868", 
-      "-118.18448"
+      "34.044435", 
+      "-118.238072"
     ], 
     "desc": ""
   }, 
@@ -2950,6 +4245,13 @@
     "coord": [
       "34.04071", 
       "-118.21198"
+    ], 
+    "desc": ""
+  }, 
+  "COMMERCIAL STREET TRAFFIC YARD - TEMP": {
+    "coord": [
+      "34.05337", 
+      "-118.23661"
     ], 
     "desc": ""
   }, 
@@ -2967,17 +4269,24 @@
     ], 
     "desc": ""
   }, 
-  "TISSURAMA INDUSTRIES INC": {
+  "ALBION DAIRY DEMOLITION AND REMEDIATION PROJ": {
     "coord": [
-      "34.01071", 
-      "-118.21183"
+      "34.06811", 
+      "-118.22338"
     ], 
     "desc": ""
   }, 
-  "E AND T SILKSCREEN INC": {
+  "AESTHETIC FRAME DESIGN": {
     "coord": [
-      "34.02031", 
-      "-118.21302"
+      "34.03818", 
+      "-118.23655"
+    ], 
+    "desc": ""
+  }, 
+  "G&R JEWELRY": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
@@ -2988,6 +4297,13 @@
     ], 
     "desc": ""
   }, 
+  "G&M TRAILER REPAIR & PAINTING INC": {
+    "coord": [
+      "34.055599", 
+      "-118.222746"
+    ], 
+    "desc": ""
+  }, 
   "TRI-J METAL HEAT TREATING CO.": {
     "coord": [
       "34.01427", 
@@ -2995,10 +4311,10 @@
     ], 
     "desc": ""
   }, 
-  "SOUTHLAND ENERGY SYSTEMS": {
+  "SUPERCHROME PLATING & ENG CO INC": {
     "coord": [
-      "34.03967", 
-      "-118.16795"
+      "34.021823", 
+      "-118.245937"
     ], 
     "desc": ""
   }, 
@@ -3016,6 +4332,20 @@
     ], 
     "desc": ""
   }, 
+  "U S LABS LOS ANGELES": {
+    "coord": [
+      "34.05926", 
+      "-118.21313"
+    ], 
+    "desc": ""
+  }, 
+  "LAIDLAW / WASHINGTON BLVD": {
+    "coord": [
+      "34.019416", 
+      "-118.237376"
+    ], 
+    "desc": ""
+  }, 
   "JOHN MORRELL & CO": {
     "coord": [
       "34.03927", 
@@ -3023,17 +4353,10 @@
     ], 
     "desc": ""
   }, 
-  "CALIFORNIA THERMAL TREATMENT": {
+  "DAN'S JEWELERS": {
     "coord": [
-      "34.00659", 
-      "-118.19969"
-    ], 
-    "desc": ""
-  }, 
-  "NATIONAL LIGHTING SUPPLY": {
-    "coord": [
-      "34.01477", 
-      "-118.17395"
+      "34.04791", 
+      "-118.25045"
     ], 
     "desc": ""
   }, 
@@ -3044,6 +4367,41 @@
     ], 
     "desc": ""
   }, 
+  "NEW RAMONA OPPORTUNITY HIGH SCHOOL (LAUSD)": {
+    "coord": [
+      "34.03332", 
+      "-118.19135"
+    ], 
+    "desc": ""
+  }, 
+  "SEVEN-UP RC BOTTLING OF SOUTHERN CA.": {
+    "coord": [
+      "34.01362", 
+      "-118.2168"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES UNION TERMINAL INC": {
+    "coord": [
+      "34.035361", 
+      "-118.242201"
+    ], 
+    "desc": ""
+  }, 
+  "M P R FLEET SVCS INC": {
+    "coord": [
+      "34.0607", 
+      "-118.23655"
+    ], 
+    "desc": ""
+  }, 
+  "LA CO., INTERNAL SERVICE DEPT": {
+    "coord": [
+      "34.05585", 
+      "-118.2435"
+    ], 
+    "desc": ""
+  }, 
   "SHERWIN-WILLIAMS CO": {
     "coord": [
       "34.01356", 
@@ -3051,45 +4409,24 @@
     ], 
     "desc": ""
   }, 
-  "BAUCHET INTERNATIONAL INC": {
+  "UNIVERSAL DYEING AND PRINTING INC": {
     "coord": [
-      "34.01565", 
-      "-118.18374"
+      "34.02366", 
+      "-118.23221"
     ], 
     "desc": ""
   }, 
-  "LOS ANGELES USD BELVEDERE JUNIOR HG SCH": {
+  "PAPER FIBERS": {
     "coord": [
-      "34.03829", 
-      "-118.18229"
+      "34.018949", 
+      "-118.234033"
     ], 
     "desc": ""
   }, 
-  "PENSKE TRUCK LEASING CO., LP": {
+  "LA CITY, DEPT GEN. SERVICES": {
     "coord": [
-      "34.019884", 
-      "-118.17391"
-    ], 
-    "desc": ""
-  }, 
-  "PETROBLEND": {
-    "coord": [
-      "34.00762", 
-      "-118.18135"
-    ], 
-    "desc": ""
-  }, 
-  "DEAL AUTO CENTER": {
-    "coord": [
-      "34.01657", 
-      "-118.17659"
-    ], 
-    "desc": ""
-  }, 
-  "99 CENTS ONLY STORES": {
-    "coord": [
-      "34.01655", 
-      "-118.18843"
+      "34.06294", 
+      "-118.23812"
     ], 
     "desc": ""
   }, 
@@ -3097,6 +4434,20 @@
     "coord": [
       "34.012795", 
       "-118.213272"
+    ], 
+    "desc": ""
+  }, 
+  "W C I  FURNITURE INC": {
+    "coord": [
+      "34.040009", 
+      "-118.245787"
+    ], 
+    "desc": ""
+  }, 
+  "D & M POLISHING AND PLATING": {
+    "coord": [
+      "34.041731", 
+      "-118.235653"
     ], 
     "desc": ""
   }, 
@@ -3114,17 +4465,45 @@
     ], 
     "desc": ""
   }, 
-  "AMERICAN NATIONAL CAN CO": {
+  "LA AIR LINE": {
     "coord": [
-      "34.00377", 
-      "-118.18526"
+      "34.033583", 
+      "-118.253364"
     ], 
     "desc": ""
   }, 
-  "BUSTOS ENTERPRISES": {
+  "WALKER FOODS INC": {
     "coord": [
-      "34.01858", 
-      "-118.18253"
+      "34.0508", 
+      "-118.22722"
+    ], 
+    "desc": ""
+  }, 
+  "MARVEL JEWELRY": {
+    "coord": [
+      "34.04811", 
+      "-118.25243"
+    ], 
+    "desc": ""
+  }, 
+  "SHIMA PEARL CO, INC": {
+    "coord": [
+      "34.04705", 
+      "-118.25339"
+    ], 
+    "desc": ""
+  }, 
+  "CHAMPION IRRIGATION": {
+    "coord": [
+      "34.06662", 
+      "-118.23045"
+    ], 
+    "desc": ""
+  }, 
+  "CUMMINS WEST INC": {
+    "coord": [
+      "34.02178", 
+      "-118.24045"
     ], 
     "desc": ""
   }, 
@@ -3132,6 +4511,13 @@
     "coord": [
       "34.04297", 
       "-118.22156"
+    ], 
+    "desc": ""
+  }, 
+  "E AND T SILKSCREEN INC": {
+    "coord": [
+      "34.02031", 
+      "-118.21302"
     ], 
     "desc": ""
   }, 
@@ -3149,31 +4535,31 @@
     ], 
     "desc": ""
   }, 
-  "CENTRAL REGION ELEMENTARY SCHOOL NO 19": {
+  "TILLIPMAN ELEVATOR": {
     "coord": [
-      "34.045703", 
-      "-118.181136"
-    ], 
-    "desc": ""
-  }, 
-  "L AND L WHOLESALE": {
-    "coord": [
-      "34.003135", 
-      "-118.189491"
+      "34.03879", 
+      "-118.2492"
     ], 
     "desc": ""
   }, 
   "TAYLOR BUS SVC": {
     "coord": [
-      "34.007894", 
-      "-118.219724"
+      "34.01898", 
+      "-118.23478"
     ], 
     "desc": ""
   }, 
-  "LA USD 2ND ST ELEM": {
+  "GENERAL BRAKE & ALIGNMENT": {
     "coord": [
-      "34.04529", 
-      "-118.21713"
+      "34.03787", 
+      "-118.24974"
+    ], 
+    "desc": ""
+  }, 
+  "E G SMITH CONSTRUCTION PRD INC": {
+    "coord": [
+      "34.02549", 
+      "-118.23491"
     ], 
     "desc": ""
   }, 
@@ -3184,17 +4570,45 @@
     ], 
     "desc": ""
   }, 
-  "VERNON DISTRIBUTION CENTER": {
+  "UNITED PARCEL SERVICE MAIN ST": {
     "coord": [
-      "34.013072", 
-      "-118.214481"
+      "34.06659", 
+      "-118.22087"
     ], 
     "desc": ""
   }, 
-  "CALIFORNIA WATER SERVICE CO, ELA 23-T1": {
+  "CALIFORNIA JEWELRY MART": {
     "coord": [
-      "34.03337", 
-      "-118.171942"
+      "34.04705", 
+      "-118.25339"
+    ], 
+    "desc": ""
+  }, 
+  "MODERN SCREEN PRINTING": {
+    "coord": [
+      "34.066125", 
+      "-118.211355"
+    ], 
+    "desc": ""
+  }, 
+  "CRES #16 SITE 3 5640004": {
+    "coord": [
+      "34.04391", 
+      "-118.25138"
+    ], 
+    "desc": ""
+  }, 
+  "UNITED SIGNATURE FOODS L.L.C.": {
+    "coord": [
+      "34.034372", 
+      "-118.240733"
+    ], 
+    "desc": ""
+  }, 
+  "GOTHIC PRESS INC": {
+    "coord": [
+      "34.03053", 
+      "-118.24608"
     ], 
     "desc": ""
   }, 
@@ -3205,10 +4619,24 @@
     ], 
     "desc": ""
   }, 
-  "6359 RB4": {
+  "TRANSPORT CARTAGE&DISTR CO": {
     "coord": [
-      "34.04667", 
-      "-118.21772"
+      "34.060333", 
+      "-118.216306"
+    ], 
+    "desc": ""
+  }, 
+  "ENVIRONMENTAL TRANSLOADING SVC INC": {
+    "coord": [
+      "34.03628", 
+      "-118.22522"
+    ], 
+    "desc": ""
+  }, 
+  "A&V MANUFACTURING CO INC": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
@@ -3219,10 +4647,10 @@
     ], 
     "desc": ""
   }, 
-  "6326 RB4": {
+  "JEWELERS MALL THE": {
     "coord": [
-      "34.01869", 
-      "-118.16991"
+      "34.04667", 
+      "-118.25374"
     ], 
     "desc": ""
   }, 
@@ -3233,6 +4661,13 @@
     ], 
     "desc": ""
   }, 
+  "PACIFIC PHOTO": {
+    "coord": [
+      "34.063996", 
+      "-118.238939"
+    ], 
+    "desc": ""
+  }, 
   "FLINT INK CORPORATION CAL INK DIVISION": {
     "coord": [
       "34.01898", 
@@ -3240,17 +4675,10 @@
     ], 
     "desc": ""
   }, 
-  "CHEVRON STATION 100 1506": {
+  "YELLOW FREIGHT SYSTEM INC": {
     "coord": [
-      "34.01391", 
-      "-118.18373"
-    ], 
-    "desc": ""
-  }, 
-  "GENES PLATING WORKS INC": {
-    "coord": [
-      "34.01427", 
-      "-118.19759"
+      "34.019589", 
+      "-118.237933"
     ], 
     "desc": ""
   }, 
@@ -3261,17 +4689,17 @@
     ], 
     "desc": ""
   }, 
-  "EXXONMOBIL VERNON LUBE PLANT": {
+  "SO CAL GAS/ALISO B MGP": {
     "coord": [
-      "34.00892", 
-      "-118.223611"
+      "34.05434", 
+      "-118.2313"
     ], 
     "desc": ""
   }, 
-  "JET COATINGS INC": {
+  "YOUNG JIN PRINTING CO         ": {
     "coord": [
-      "34.01478", 
-      "-118.20101"
+      "34.016103", 
+      "-118.219999"
     ], 
     "desc": ""
   }, 
@@ -3289,13 +4717,6 @@
     ], 
     "desc": ""
   }, 
-  "SAVE-WAY CLEANERS": {
-    "coord": [
-      "34.01884", 
-      "-118.19574"
-    ], 
-    "desc": ""
-  }, 
   "7TH STREET CONSOLIDATED FACILITY": {
     "coord": [
       "34.03442", 
@@ -3310,24 +4731,24 @@
     ], 
     "desc": ""
   }, 
-  "EAST LOS ANGELES HIGH SCHOOL#2 (SITE40B)": {
+  "ARROWHEAD INDUSTRIAL WATER CO": {
     "coord": [
-      "34.0418", 
-      "-118.1765"
+      "34.02242", 
+      "-118.24666"
     ], 
     "desc": ""
   }, 
-  "FOSTERS DRY CLEANERS": {
+  "EXXON MOBIL OIL CORP": {
     "coord": [
-      "34.02392", 
-      "-118.18907"
+      "34.02033", 
+      "-118.23952"
     ], 
     "desc": ""
   }, 
   "AMERICAN PRESIDENT LINES LTD": {
     "coord": [
-      "34.00765", 
-      "-118.18124"
+      "34.0382", 
+      "-118.23576"
     ], 
     "desc": ""
   }, 
@@ -3345,17 +4766,45 @@
     ], 
     "desc": ""
   }, 
-  "TREMCO INCORPORATED": {
+  "Y AND R FASHION INC": {
     "coord": [
-      "34.00378", 
-      "-118.21388"
+      "34.02232", 
+      "-118.23461"
     ], 
     "desc": ""
   }, 
-  "ROCKET IND INC": {
+  "GOLDEN ART JEWELRY": {
     "coord": [
-      "34.01655", 
-      "-118.20208"
+      "34.046251", 
+      "-118.252354"
+    ], 
+    "desc": ""
+  }, 
+  "STANDARD CRANKSHAFT INC.": {
+    "coord": [
+      "34.035018", 
+      "-118.248961"
+    ], 
+    "desc": ""
+  }, 
+  "775 MERCHANT STREEET": {
+    "coord": [
+      "34.03479", 
+      "-118.24387"
+    ], 
+    "desc": ""
+  }, 
+  "LOS ANGELES COUNTY HALL OF JUSTICE": {
+    "coord": [
+      "34.05561", 
+      "-118.24343"
+    ], 
+    "desc": ""
+  }, 
+  "GOLDERN PYRAMID MFG, INC.": {
+    "coord": [
+      "34.04667", 
+      "-118.25374"
     ], 
     "desc": ""
   }, 
@@ -3373,10 +4822,10 @@
     ], 
     "desc": ""
   }, 
-  "AMTRAK REDONDO JUNCTION FACILITY": {
+  "JAX CAR SALES": {
     "coord": [
-      "34.01825", 
-      "-118.22788"
+      "34.046347", 
+      "-118.240184"
     ], 
     "desc": ""
   }, 
@@ -3387,17 +4836,45 @@
     ], 
     "desc": ""
   }, 
-  "UNIVERSAL MOTION COMPONENTS": {
+  "MITSUI FUDOSAN (USA) INC": {
     "coord": [
-      "34.01413", 
-      "-118.20103"
+      "34.04991", 
+      "-118.25109"
     ], 
     "desc": ""
   }, 
-  "JOHNSON CONTROLS WORLD SERVICES INCORPORATED": {
+  "LA CO., METROPOLITAN TRANS AUTHORITY": {
     "coord": [
-      "34.019884", 
-      "-118.17391"
+      "34.055894", 
+      "-118.231425"
+    ], 
+    "desc": ""
+  }, 
+  "TIMES MIRROR COMPANY": {
+    "coord": [
+      "34.05315", 
+      "-118.24479"
+    ], 
+    "desc": ""
+  }, 
+  "R AND M JEWELRY": {
+    "coord": [
+      "34.046251", 
+      "-118.252354"
+    ], 
+    "desc": ""
+  }, 
+  "HKM OF CALIFORNIA CORP. KRASNE MANUFACTURING DIV.": {
+    "coord": [
+      "34.01811", 
+      "-118.21106"
+    ], 
+    "desc": ""
+  }, 
+  "IDEAL DYEING & FINISHING INC": {
+    "coord": [
+      "34.03635", 
+      "-118.24657"
     ], 
     "desc": ""
   }, 
@@ -3408,10 +4885,24 @@
     ], 
     "desc": ""
   }, 
-  "BERG LACQUER CO DBA PACIFIC COAST LACQUER PCL ELLIS PAINT CO": {
+  "CALIFORNIA FIBERLOFT INC": {
     "coord": [
-      "34.01801", 
-      "-118.21148"
+      "34.01479", 
+      "-118.23344"
+    ], 
+    "desc": ""
+  }, 
+  "THE CELOTEX CORPORATION": {
+    "coord": [
+      "34.06463", 
+      "-118.20243"
+    ], 
+    "desc": ""
+  }, 
+  "LA USD FRANKLIN HS": {
+    "coord": [
+      "34.03003", 
+      "-118.241931"
     ], 
     "desc": ""
   }, 
@@ -3422,6 +4913,13 @@
     ], 
     "desc": ""
   }, 
+  "KEVO'S JEWELRY": {
+    "coord": [
+      "34.046251", 
+      "-118.252354"
+    ], 
+    "desc": ""
+  }, 
   "ADECO": {
     "coord": [
       "34.03562", 
@@ -3429,31 +4927,31 @@
     ], 
     "desc": ""
   }, 
-  "NATIONAL RAILROAD PASSENGER CORP": {
+  "CASCADE SPRAY GUN CLEANER SYSTEM": {
     "coord": [
-      "34.019704", 
-      "-118.228962"
+      "34.01477", 
+      "-118.2338"
     ], 
     "desc": ""
   }, 
-  "UNION PACIFIC RAILROAD": {
+  "TRAYLOR SHEA FRONTIER KENNY JV RICHMOND": {
     "coord": [
-      "34.007706", 
-      "-118.181614"
+      "34.057751", 
+      "-118.218052"
     ], 
     "desc": ""
   }, 
-  "FINKEL OUTDOOR PRODUCTS": {
+  "CROWN PAPER BOX": {
     "coord": [
-      "34.008722", 
-      "-118.211829"
+      "34.03792", 
+      "-118.24823"
     ], 
     "desc": ""
   }, 
-  "ANR FREIGHT SYSTEMS": {
+  "SIKA CORPORATION": {
     "coord": [
-      "34.00772", 
-      "-118.20259"
+      "34.0258", 
+      "-118.24578"
     ], 
     "desc": ""
   }, 
@@ -3464,10 +4962,10 @@
     ], 
     "desc": ""
   }, 
-  "LA USD FORD EL": {
+  "BAUCHET ST SITE": {
     "coord": [
-      "34.02109", 
-      "-118.17173"
+      "34.06012", 
+      "-118.22966"
     ], 
     "desc": ""
   }, 
@@ -3475,6 +4973,20 @@
     "coord": [
       "34.01654", 
       "-118.20605"
+    ], 
+    "desc": ""
+  }, 
+  "LA CO   METROPOLITAN TRANS AUT": {
+    "coord": [
+      "34.038247", 
+      "-118.238569"
+    ], 
+    "desc": ""
+  }, 
+  "COLUMBIA PICTURES": {
+    "coord": [
+      "34.065096", 
+      "-118.234839"
     ], 
     "desc": ""
   }, 
@@ -3513,6 +5025,55 @@
     ], 
     "desc": ""
   }, 
+  "WESTERN MGMT CORP": {
+    "coord": [
+      "34.046973", 
+      "-118.252535"
+    ], 
+    "desc": ""
+  }, 
+  "OLYMPIA DESIGN": {
+    "coord": [
+      "34.046973", 
+      "-118.252535"
+    ], 
+    "desc": ""
+  }, 
+  "A & S METAL RECYCLING": {
+    "coord": [
+      "34.021906", 
+      "-118.232849"
+    ], 
+    "desc": ""
+  }, 
+  "COPPER MOUNTAIN METALS INC": {
+    "coord": [
+      "34.016538", 
+      "-118.239641"
+    ], 
+    "desc": ""
+  }, 
+  "410 CENTER STREET-GREENWALD COMPANY": {
+    "coord": [
+      "34.05136", 
+      "-118.23153"
+    ], 
+    "desc": ""
+  }, 
+  "JEWELCAST INC": {
+    "coord": [
+      "34.04081", 
+      "-118.24047"
+    ], 
+    "desc": ""
+  }, 
+  "CALTRANS EQUIPMENT SHOP": {
+    "coord": [
+      "34.05209", 
+      "-118.24353"
+    ], 
+    "desc": ""
+  }, 
   "CALIFORNIA ELECTROPLATING INC": {
     "coord": [
       "34.018001", 
@@ -3520,10 +5081,10 @@
     ], 
     "desc": ""
   }, 
-  "DURANS BODY SHOP, INC": {
+  "PACIFIC CHAIN & JLY MFG CO INC": {
     "coord": [
-      "34.03341", 
-      "-118.16678"
+      "34.04705", 
+      "-118.25339"
     ], 
     "desc": ""
   }, 
@@ -3534,10 +5095,31 @@
     ], 
     "desc": ""
   }, 
+  "CALIFORNIA DEPT OF JUSTICE": {
+    "coord": [
+      "34.053519", 
+      "-118.245657"
+    ], 
+    "desc": ""
+  }, 
+  "RICHARDS FRIENDLY SERVICE": {
+    "coord": [
+      "34.05336", 
+      "-118.23797"
+    ], 
+    "desc": ""
+  }, 
   "EAST LOS ANGELES LIGHT & LIFE SCHOOL": {
     "coord": [
       "34.03773", 
       "-118.20146"
+    ], 
+    "desc": ""
+  }, 
+  "PRESTIGE JEWELRY": {
+    "coord": [
+      "34.04645", 
+      "-118.252179"
     ], 
     "desc": ""
   }, 
@@ -3555,17 +5137,17 @@
     ], 
     "desc": ""
   }, 
-  "COMM AUTO & TRUCK PAINT BOOTH RENTALS IN": {
+  "KITSINIAN JEWELRY": {
     "coord": [
-      "34.0189", 
-      "-118.18337"
+      "34.04667", 
+      "-118.25374"
     ], 
     "desc": ""
   }, 
-  "J&D TRUCKING & MAINT SVC": {
+  "BERG LACQUER CO DBA PACIFIC COAST LACQUER PCL ELLIS PAINT CO": {
     "coord": [
-      "34.012865", 
-      "-118.205974"
+      "34.01801", 
+      "-118.21148"
     ], 
     "desc": ""
   }, 
@@ -3576,10 +5158,17 @@
     ], 
     "desc": ""
   }, 
-  "A & S METAL RECYCLING": {
+  "SUPREME LIGHTING CO INC": {
     "coord": [
-      "34.021906", 
-      "-118.232849"
+      "34.05034", 
+      "-118.23436"
+    ], 
+    "desc": ""
+  }, 
+  "FRIEDMAN BAG COMPANY INCORPORATED POLYETHYL": {
+    "coord": [
+      "34.05199", 
+      "-118.23312"
     ], 
     "desc": ""
   }, 
@@ -3604,17 +5193,17 @@
     ], 
     "desc": ""
   }, 
-  "ROSEMEAD RADIATOR SHOP": {
+  "CAL LITHO COLOR PLATE": {
     "coord": [
-      "34.049596", 
-      "-118.195732"
+      "34.03074", 
+      "-118.25087"
     ], 
     "desc": ""
   }, 
-  "PARSEC, INC.": {
+  "LADWP MATERIAL TESTING LAB": {
     "coord": [
-      "34.00964", 
-      "-118.19183"
+      "34.04716", 
+      "-118.23771"
     ], 
     "desc": ""
   }, 

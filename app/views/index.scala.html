@@ -249,7 +249,7 @@ function loadSourceJSON() {
    });
 
    oilfieldMarkers = []
-   d3.json("@routes.Assets.at("data/pollute/oilfield.json")", function(data) {
+   d3.json("@routes.Assets.at("data/pollute/oil_field.json")", function(data) {
      console.log("loading oilfield data");
      for (k in data) {
        var marker = new google.maps.Marker({
@@ -317,7 +317,7 @@ function loadSourceJSON() {
    });
 
    wastewaterMarkers = []
-   d3.json("@routes.Assets.at("data/pollute/wastewater.json")", function(data) {
+   d3.json("@routes.Assets.at("data/pollute/wastewater_treatment.json")", function(data) {
      console.log("loading wastewater data");
      for (k in data) {
        var marker = new google.maps.Marker({
