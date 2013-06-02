@@ -22,3 +22,4 @@ test/.DS_Store
 conf/application.conf
 
 conf/application.conf
+.pyc
