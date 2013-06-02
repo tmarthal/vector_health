@@ -1,8 +1,7 @@
 People who are at high risk for respiratory illness
-hospitals, e
+hospitals, etc.
 
 spline interpolation,
-
 euler interpolation
 F = ma
 
@@ -15,7 +14,7 @@ no solving of Navier Stokes equations (they run the equation solver)_
 
 Runge Kutta - favorite ODE solver
 
-Build historical model, June 1st, 2011 - can assume 
+Build historical model, June 1st, 2011 - can assume it will be the same approximately on June 1st, 2012?
 Do not take into account intensity, heat equation, the ODE becomes a PDE. Hyperbolic driving flow. 
 
 Baseline dataset - where is the pollution today
@@ -57,4 +56,6 @@ Univariate sensors, need generative model for every type of pollution. EngageLA 
 rents are lower in residential areas more susceptable to pollution
 Look for historic pollution data, can use that as the initial condition ;; back calculate 
 
-Do you believe the surf report based on the buoys in Santa Monica Bay? Do not take into account local variances. 
+Do you believe the surf report based on the buoys in Santa Monica Bay? Do not take into account local variances. This is equivalent to what we are
+presuming to calculate. 
+
