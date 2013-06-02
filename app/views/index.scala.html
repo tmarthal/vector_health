@@ -486,6 +486,25 @@ function loadSourceJSON() {
 // The source information
 // Note: the d3.json calls should be ajax requests :(
 function loadTargetJSON() {
+
+  var marker = new google.maps.Marker({
+		position: new google.maps.LatLng(34.042639,-118.222306),
+		map:map,
+  				icon: {
+    				path: google.maps.SymbolPath.CIRCLE,
+    				fillOpacity: 0,
+    				fillColor: '000000',
+            strokeOpacity: 80,
+    				strokeColor: 'A00000',
+    				strokeWeight: 3, 
+    				scale: 20
+  				},
+		title: 'You are here',
+		visible: true,
+		scale: 1,
+		content: '<div name="title">You are here</div><br/>' + '<div name="description">If you are lost, call Ted on his Burner, 323-400-6585</div>'
+	});			  
+
 	console.log("loading?");
 
 	schoolMarkers = []
