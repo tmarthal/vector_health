@@ -1,27 +1,96 @@
 
-@main(Messages("playauthenticate.index.title")) {
+@main("Pollution Propagation") {
       <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
-        <h1>@Messages("playauthenticate.index.intro")</h1>
-        <p>@Messages("playauthenticate.index.intro_2") <br/>@Messages("playauthenticate.index.intro_3")</p>
+      <div class="hero-unit" style="padding:0px;">
+        <p>
+        	@map()
+        </p>
       </div>
 
       <!-- Example row of columns -->
       <div class="row">
         <div class="span4">
-          <h2>@Messages("playauthenticate.index.heading")</h2>
-           <p>Cupcake ipsum dolor sit amet. Pastry pie powder biscuit bear claw. Jelly-o chocolate bar sweet roll sugar plum chocolate. Biscuit brownie chupa chups macaroon ice cream halvah sugar plum oat cake ice cream.</p>
-          <p><a class="btn" href="#">@Messages("playauthenticate.index.details") &raquo;</a></p>
+          <h2>Pollution Sources</h2>
+           <p>List of pollution sources</p>
+          
         </div>
         <div class="span4">
-          <h2>Heading</h2>
-           <p>Applicake macaroon caramels gummi bears pastry. Cake liquorice carrot cake chocolate lollipop dessert. Halvah fruitcake marshmallow pie gummi bears pie marzipan.</p>
-          <p><a class="btn" href="#">@Messages("playauthenticate.index.details") &raquo;</a></p>
+          <h2>Vulenerable Points</h2>
+           <p>This we care about</p>
        </div>
         <div class="span4">
-          <h2>Heading</h2>
-          <p>Wafer halvah jujubes lollipop liquorice jelly-o pastry. Pie halvah toffee. Candy canes donut sugar plum. Chocolate cake powder tart liquorice cotton candy pudding sweet.</p>
-          <p><a class="btn" href="#">@Messages("playauthenticate.index.details") &raquo;</a></p>
+          <h2>Propagation Model</h2>
+          <input type="checkbox" id="windcheck"> Show Wind Data <br/>
+          Date:<br/>
+          <input type="text" id="datetime" style="border: 0; color: #aaaaa; font-weight: bold;" /><br/>
+		  <div id="timeslider" style="background:grey; width:180px;"></div>
         </div>
       </div>
     }
+    
+<script>
+// initialize the time slider, for wind propagation
+$(function() {
+	// Represents the milliseconds from epoch, in 3 hour intervals
+    $( "#timeslider" ).slider({
+      value: 1369958400000,
+      min: 1369958400000,
+      max: 1370131200000,
+      step: 10800000,
+      slide: function( event, ui ) {
+        $( "#datetime" ).val( moment(ui.value).format("YYYY/MM/DD+HH:mm") );
+      }
+    });
+    $( "#datetime" ).val( moment($("#timeslider").slider("value")).format("YYYY/MM/DD+HH:mm") );
+    console.log("?:");
+});
+
+
+// Initialize the pollution data
+function loadSourceJSON() {
+	console.log("loading?");
+
+	airportMarkers = []
+	d3.json("@routes.Assets.at("data/airports.json")", function(data) {
+		console.log("loading airport data");
+		for (k in data) {
+			var marker = new google.maps.Marker({
+		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+		  			map:map,
+		  			icon: airportIcon,
+		  			title: k,
+		  			visible: false,
+		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+			});			  
+			airportMarkers.push(marker);
+		}
+		console.log("done loading airport data");
+	});
+	
+
+}
+
+function loadTargetJSON() {
+	console.log("loading?");
+
+	schoolMarkers = []
+	d3.json("@routes.Assets.at("data/schools.json")", function(data) {
+		console.log("loading school data");
+		for (k in data) {
+			var schoolMarker = new google.maps.Marker({
+		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+		  			map:map,
+		  			icon: schoolIcon,
+		  			title: k,
+		  			visible: false,
+		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+			});			  
+			schoolMarkers.push(schoolMarker);
+		}
+		console.log("done loading school data");
+		//schoolMarkerCluster = new MarkerClusterer(map, schoolMarkers);
+	});
+
+
+}
+</script>

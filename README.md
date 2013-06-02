@@ -20,14 +20,14 @@ Data Information
 
 Sources 
 - Pollution Sources
-  - Factories (also get Mexican factory locations)
+  - Factories
   - Fires (temporal)
   - Traffic (temporal, e.g. Waze API)
   - Airports
 
 Future Ideas:
 - Pollen emitters
-- Fortune Cookie Smells
+- Rancid Smells (e.g. fortune cookie factories, Hyperion Sewage Treatment Plant) 
 - Mexican factory locations
 
 Transforms:
@@ -40,7 +40,7 @@ Vulnerable Points
 - Pollution Targets
 -- Schools
 -- High Children Density (e.g. Daycare, neighborhoods, etc).
--- Elderly (ElderCare, hospitals, etc.)
+-- Population Prone to Respitory Problems (Elderly, hospitals, etc.)
 -- Parks
 -- Beaches 
 --** Mobile Apps (temporal point)

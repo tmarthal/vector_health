@@ -2,9 +2,12 @@
 # This file defines all application routes (Higher priority routes first)
 # ~~~~
 
+#MAP
+GET     /map	                 	controllers.HomeController.index
+
+
 # Home page
-GET     /                           controllers.HomeController.index
-GET     /index                 		controllers.Application.index
+GET     /	                 		controllers.Application.index
 GET     /restricted                 controllers.Application.restricted
 GET     /assets/javascript/routes.js    controllers.Application.jsRoutes
 
