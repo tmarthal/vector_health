@@ -4,6 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import models.auth.User;
+import play.Logger;
 import play.Routes;
 import play.data.Form;
 import play.mvc.*;
@@ -29,6 +30,7 @@ public class Application extends Controller {
 	public static final String USER_ROLE = "user";
 	
 	public static Result index() {
+		Logger.info(new Date() + " VectorHealth index page requested");
 		return ok(index.render());
 	}
 
