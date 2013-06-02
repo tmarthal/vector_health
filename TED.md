@@ -11,6 +11,7 @@ todo
 demo/presentation basics
 ------------------------
 * thesis: we are data scientists, we are agnostic about the type of data. if we have access, we can help communities in the same way we help businesses.
+  * freeform text -> geographic data -> quantitative geographic data
 * we used the Agile/Lean Startup style: small team, iterate to find answers.
 * here's a map
   * (zoom in a little) here's schools/etc on a map
