@@ -11,18 +11,27 @@
       <div class="row">
         <div class="span4">
           <h2>Pollution Sources</h2>
-           <p>List of pollution sources</p>
+           <p>Who pollutes the Los Angeles area?</p>
            <input type="checkbox" id="airportcheck"> Show Airports<br/>
+           <input type="checkbox" id="crematorycheck"> Show Crematories<br/>
+           <input type="checkbox" id="drycleanercheck"> Show Dry Cleaners<br/>
+           <input type="checkbox" id="landfillcheck"> Show Landfill Methane<br/>
+           <input type="checkbox" id="militarybasecheck"> Show Military Base<br/>
+           <input type="checkbox" id="oilfieldcheck"> Show Oil Fields<br/>
+           <input type="checkbox" id="oilwellcheck"> Show Oil Well Sites<br/>
            <input type="checkbox" id="refinerycheck"> Show Refineries<br/>
+           <input type="checkbox" id="superfundcheck"> Show Superfund Sites<br/>
+           <input type="checkbox" id="wastewatercheck"> Show Wastewater Treatment Plants<br/>
            <br/>
-
            <input type="checkbox" id="pollutioncheck"> Show Pollution Radii<br/>
            
         </div>
         <div class="span4">
-          <h2>Vulenerable Points</h2>
-           <p>This we care about</p>
+          <h2>Vulnerable Points</h2>
+           <p>What places in the community are especially sensitive to pollution?</p>
            <input type="checkbox" id="schoolcheck"> Show Schools<br/>
+           <input type="checkbox" id="hospitalcheck"> Show Hospitals<br/>
+           <input type="checkbox" id="parkcheck"> Show Parks<br/>
        </div>
         <div class="span4">
           <h2>Propagation Model</h2>
@@ -64,11 +73,76 @@ $(function() {
      		airportMarkers[i].setVisible(show);
      	}
    	});
-   	
+    $("#crematorycheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<crematoryMarkers.length;i++) {
+     		crematoryMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#drycleanercheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<drycleanerMarkers.length;i++) {
+     		drycleanerMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#landfillcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<landfillMarkers.length;i++) {
+     		landfillMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#militarybasecheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<militarybaseMarkers.length;i++) {
+     		militarybaseMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#oilfieldcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<oilfieldMarkers.length;i++) {
+     		oilfieldMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#oilwellcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<oilwellMarkers.length;i++) {
+     		oilwellMarkers[i].setVisible(show);
+     	}
+   	});
     $("#refinerycheck").change(function() {
      	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
      	for (var i=0;i<refineryMarkers.length;i++) {
      		refineryMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#superfundcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<superfundMarkers.length;i++) {
+     		superfundMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#wastewatercheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	console.log(show);
+     	console.log(typeof show);
+     	for (var i=0;i<wastewaterMarkers.length;i++) {
+     		wastewaterMarkers[i].setVisible(show);
      	}
    	});
 
@@ -85,6 +159,18 @@ $(function() {
      		schoolMarkers[i].setVisible(show);
      	}
    	});
+    $("#hospitalcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<hospitalMarkers.length;i++) {
+     		hospitalMarkers[i].setVisible(show);
+     	}
+   	});
+    $("#parkcheck").change(function() {
+     	var show = $(this).is(":checked"); 
+     	for (var i=0;i<parkMarkers.length;i++) {
+     		parkMarkers[i].setVisible(show);
+     	}
+   	});
    	
    	// loading the time data json files
    	loadTimeData("@routes.Assets.at("data/wind/")");
@@ -93,7 +179,7 @@ $(function() {
 // Calculates the pixel weight of the pollution
 function scalePollution(pollution) {
 	var logPollution = 2*Math.log(pollution);
-	if (logPollution > 40) logPolltion = 40; 
+	if (logPollution > 40) logPollution = 40; 
 	return logPollution;
 }
 
@@ -126,56 +212,308 @@ function loadSourceJSON() {
     				path: google.maps.SymbolPath.CIRCLE,
     				fillOpacity: 0.5,
     				fillColor: 'F88017',
-    				strokeOpacity: 1.0,
+            strokeOpacity: 1.0,
     				strokeColor: 'fff000',
     				strokeWeight: 3.0, 
     				scale: scalePollution(data[k].pollution) //pixels
   				},
 	  			visible: false,
 			});
-			pollutionMarkers.push(pollutionMarker);			
-		}
-		console.log("done airport data");
-	});
-	
-	refineryMarkers = []
-	d3.json("@routes.Assets.at("data/pollute/refinery.json")", function(data) {
-		console.log("loading refinery data");
-		for (k in data) {
-			var marker = new google.maps.Marker({
-		  			position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
-		  			map:map,
-		  			icon: airportIcon,
-		  			title: k,
-		  			visible: false,
-		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
-			});			  
-			refineryMarkers.push(marker);
+			pollutionMarkers.push(pollutionMarker);	
+   	}
+    console.log("done airport data");
+   });
 
-			var pollutionMarker = new google.maps.Marker({
-  				position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
-  				map: map,
-  				icon: {
-    				path: google.maps.SymbolPath.CIRCLE,
-    				fillOpacity: 0.5,
-    				fillColor: '222222',
-    				strokeOpacity: 1.0,
-    				strokeColor: 'aaaaaa',
+   crematoryMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/cremation.json")", function(data) {
+     console.log("loading crematory data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: crematoryIcon,
+             title: k,
+             visible: false,
+		  			 content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       crematoryMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+            strokeOpacity: 1.0,
+    				strokeColor: 'fff000',
     				strokeWeight: 3.0, 
     				scale: scalePollution(data[k].pollution) //pixels
   				},
 	  			visible: false,
 			});
-			pollutionMarkers.push(pollutionMarker);			
-		}
-		console.log("done refinery data");
-	});
-	
+			pollutionMarkers.push(pollutionMarker);	
+   	}
+    console.log("done crematory data");
+   });
+
+   oilfieldMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/oil_field.json")", function(data) {
+     console.log("loading oilfield data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: oilfieldIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       oilfieldMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+            strokeOpacity: 1.0,
+    				strokeColor: 'fff000',
+    				strokeWeight: 3.0, 
+    				scale: scalePollution(data[k].pollution) //pixels
+  				},
+	  			visible: false,
+			});
+			pollutionMarkers.push(pollutionMarker);	
+   	}
+    console.log("done oilfield data");
+   });
+
+   oilwellMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/_oil_wells.json")", function(data) {
+     console.log("loading oilwell data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: oilwellIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       oilwellMarkers.push(marker);
+   	}
+    console.log("done oilfield data");
+   });
+
+   superfundMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/_superfund.json")", function(data) {
+     console.log("loading superfund data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: superfundIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       superfundMarkers.push(marker);
+
+    }
+    console.log("done superfund data");
+   });
+
+   wastewaterMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/wastewater_treatment.json")", function(data) {
+     console.log("loading wastewater data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: wastewaterIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       wastewaterMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+             strokeOpacity: 1.0,
+             strokeColor: 'fff000',
+             strokeWeight: 3.0,
+             scale: scalePollution(data[k].pollution) //pixels
+          },
+          visible: false,
+      });
+      pollutionMarkers.push(pollutionMarker);
+    }
+    console.log("done wastewater data");
+   });
+
+   refineryMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/refinery.json")", function(data) { 
+     console.log("loading refinery data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: refineryIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       refineryMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+             strokeOpacity: 1.0,
+             strokeColor: 'fff000',
+             strokeWeight: 3.0,
+             scale: scalePollution(data[k].pollution) //pixels
+          },
+          visible: false,
+      });
+      pollutionMarkers.push(pollutionMarker);
+    }
+    console.log("done refinery data");
+   });
+
+   militarybaseMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/militarybase.json")", function(data) {
+     console.log("loading militarybase data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: militarybaseIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       militarybaseMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+             strokeOpacity: 1.0,
+             strokeColor: 'fff000',
+             strokeWeight: 3.0,
+             scale: scalePollution(data[k].pollution) //pixels
+          },
+          visible: false,
+      });
+      pollutionMarkers.push(pollutionMarker);
+    }
+    console.log("done militarybase data");
+   });
+
+   landfillMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/landfill.json")", function(data) {
+     console.log("loading landfill data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: landfillIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       landfillMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+             strokeOpacity: 1.0,
+             strokeColor: 'fff000',
+             strokeWeight: 3.0,
+             scale: scalePollution(data[k].pollution) //pixels
+          },
+          visible: false,
+      });
+      pollutionMarkers.push(pollutionMarker);
+    }
+    console.log("done landfill data");
+   });
+
+   drycleanerMarkers = []
+   d3.json("@routes.Assets.at("data/pollute/drycleaner.json")", function(data) {
+     console.log("loading drycleaner data");
+     for (k in data) {
+       var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+             map:map,
+             icon: drycleanerIcon,
+             title: k,
+             visible: false,
+             content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
+       });
+       drycleanerMarkers.push(marker);
+
+       var pollutionMarker = new google.maps.Marker({
+           position: new google.maps.LatLng(data[k].coord[0], data[k].coord[1]),
+           map: map,
+           icon: {
+             path: google.maps.SymbolPath.CIRCLE,
+             fillOpacity: 0.5,
+             fillColor: 'F88017',
+             strokeOpacity: 1.0,
+             strokeColor: 'fff000',
+             strokeWeight: 3.0,
+             scale: scalePollution(data[k].pollution) //pixels
+          },
+          visible: false,
+      });
+      pollutionMarkers.push(pollutionMarker);
+    }
+    console.log("done drycleaner data");
+   });
+
 }
 
 // The source information
 // Note: the d3.json calls should be ajax requests :(
 function loadTargetJSON() {
+
+  var marker = new google.maps.Marker({
+		position: new google.maps.LatLng(34.042639,-118.222306),
+		map:map,
+  				icon: {
+    				path: google.maps.SymbolPath.CIRCLE,
+    				fillOpacity: 0,
+    				fillColor: '000000',
+            strokeOpacity: 80,
+    				strokeColor: 'A00000',
+    				strokeWeight: 3, 
+    				scale: 20
+  				},
+		title: 'You are here',
+		visible: true,
+		scale: 1,
+		content: '<div name="title">You are here</div><br/>' + '<div name="description">If you are lost, call Ted on his Burner, 323-400-6585</div>'
+	});			  
+
 	console.log("loading?");
 
 	schoolMarkers = []
@@ -231,8 +569,6 @@ function loadTargetJSON() {
 	});
 }
 
-
-
 lineSymbol = {
     path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
     scale: 1.5 //pixels
@@ -274,7 +610,6 @@ function rotate2D(x, y, theta) {
   y = xTemp*Math.sin(theta) + y*Math.cos(theta);
   return [x,y];
 }
-
 
 </script>
 
