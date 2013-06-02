@@ -14,12 +14,9 @@ with open('files/airport-emissions-epa.csv', 'rb') as f:
 		#print row
 		name = row[0]
 		ll = (row[2], row[3])
-		print "%s %s" % (name, ll)
 		drow = data.get(name, {})
 		pollution = drow.get('pollution', 0)
 		drow['coord'] = ll
-		print "poll: %s / %s" % (pollution, row[8])
-		print "poll: %s" % pollution
 		drow['pollution'] = pollution + int(float(row[8]))
 		data[name] = drow
 
