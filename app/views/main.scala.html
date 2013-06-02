@@ -36,45 +36,6 @@
 
   <body>
 
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          @*<a class="brand" href="@routes.Application.index()">Pollution Wind Propagation</a>*@
-          
-          <div class="btn-group pull-right">
-          @subjectPresentOr() {
-          	@defining(Application.getLocalUser(session())) { user =>
-            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-              <i class="icon-user"></i> @user.name
-              <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              <li><a href="@routes.Application.profile()">@Messages("playauthenticate.navigation.profile")</a></li>
-              <li><a href="@routes.Account.link()">@Messages("playauthenticate.navigation.link_more")</a></li>
-              <li class="divider"></li>
-              <li><a href="@com.feth.play.module.pa.controllers.routes.Authenticate.logout()"><i class="icon-off"></i> @Messages("playauthenticate.navigation.logout")</a></li>
-            </ul>
-            }
-          }{
-            <a href="@routes.Application.login()" class="btn btn-primary btn-mini @("disabled".when(nav == "login"))">@Messages("playauthenticate.navigation.login")</a>
-          }
-          </div>
-
-          
-          <div class="nav-collapse">
-            <ul class="nav">
-              <li class="@("active".when(nav == ""))"><a href="@routes.Application.index()">@Messages("playauthenticate.navigation.home")</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
-
     <div class="container">
 	    @if(flash.contains(Application.FLASH_ERROR_KEY)) {
 	      <div class="alert alert-error">
