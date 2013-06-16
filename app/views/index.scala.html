@@ -1,5 +1,5 @@
 
-@main("Pollution Propagation") {
+@main("vectorhealth.me: Pollution Propagation") {
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" style="padding:0px;">
         <p>
@@ -12,25 +12,25 @@
         <div class="span4">
           <h2>Pollution Sources</h2>
            <p>Who pollutes the Los Angeles area?</p>
-           <input type="checkbox" id="airportcheck"> Show Airports<br/>
+           <input type="checkbox" id="airportcheck" checked="checked"> Show Airports<br/>
            <input type="checkbox" id="crematorycheck"> Show Crematories<br/>
            <input type="checkbox" id="drycleanercheck"> Show Dry Cleaners<br/>
-           <input type="checkbox" id="landfillcheck"> Show Landfill Methane<br/>
+           <input type="checkbox" id="landfillcheck" checked="checked"> Show Landfill Methane<br/>
            <input type="checkbox" id="militarybasecheck"> Show Military Base<br/>
            <input type="checkbox" id="oilfieldcheck"> Show Oil Fields<br/>
-           <input type="checkbox" id="oilwellcheck"> Show Oil Well Sites<br/>
-           <input type="checkbox" id="refinerycheck"> Show Refineries<br/>
-           <input type="checkbox" id="superfundcheck"> Show Superfund Sites<br/>
-           <input type="checkbox" id="wastewatercheck"> Show Wastewater Treatment Plants<br/>
+           <input type="checkbox" id="refinerycheck" checked="checked"> Show Refineries<br/>
+           <input type="checkbox" id="wastewatercheck" checked="checked"> Show Wastewater Treatment Plants<br/>
+           <input type="checkbox" id="superfundcheck"> Show Superfund Sites (WARNING: data overload!)<br/>
+           <input type="checkbox" id="oilwellcheck" checked="checked"> Show Oil Well Sites (WARNING: data overload!)<br/>
            <br/>
-           <input type="checkbox" id="pollutioncheck"> Show Pollution Radii<br/>
+           <input type="checkbox" id="pollutioncheck" checked="checked"> Show Pollution Radii<br/>
            
         </div>
         <div class="span4">
           <h2>Vulnerable Points</h2>
            <p>What places in the community are especially sensitive to pollution?</p>
-           <input type="checkbox" id="schoolcheck"> Show Schools<br/>
-           <input type="checkbox" id="hospitalcheck"> Show Hospitals<br/>
+           <input type="checkbox" id="schoolcheck" checked="checked"> Show Schools<br/>
+           <input type="checkbox" id="hospitalcheck" checked="checked"> Show Hospitals<br/>
            <input type="checkbox" id="parkcheck"> Show Parks<br/>
        </div>
         <div class="span4">
@@ -200,7 +200,7 @@ function loadSourceJSON() {
 		  			map:map,
 		  			icon: airportIcon,
 		  			title: k,
-		  			visible: false,
+		  			visible: true,
 		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
 			});			  
 			airportMarkers.push(marker);
@@ -217,7 +217,7 @@ function loadSourceJSON() {
     				strokeWeight: 3.0, 
     				scale: scalePollution(data[k].pollution) //pixels
   				},
-	  			visible: false,
+	  			visible: true,
 			});
 			pollutionMarkers.push(pollutionMarker);	
    	}
@@ -266,7 +266,7 @@ function loadSourceJSON() {
              map:map,
              icon: oilfieldIcon,
              title: k,
-             visible: false,
+             visible: true,
              content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
        });
        oilfieldMarkers.push(marker);
@@ -283,7 +283,7 @@ function loadSourceJSON() {
     				strokeWeight: 3.0, 
     				scale: scalePollution(data[k].pollution) //pixels
   				},
-	  			visible: false,
+	  			visible: true,
 			});
 			pollutionMarkers.push(pollutionMarker);	
    	}
@@ -334,7 +334,7 @@ function loadSourceJSON() {
              map:map,
              icon: wastewaterIcon,
              title: k,
-             visible: false,
+             visible: true,
              content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
        });
        wastewaterMarkers.push(marker);
@@ -351,7 +351,7 @@ function loadSourceJSON() {
              strokeWeight: 3.0,
              scale: scalePollution(data[k].pollution) //pixels
           },
-          visible: false,
+          visible: true,
       });
       pollutionMarkers.push(pollutionMarker);
     }
@@ -367,7 +367,7 @@ function loadSourceJSON() {
              map:map,
              icon: refineryIcon,
              title: k,
-             visible: false,
+             visible: true,
              content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
        });
        refineryMarkers.push(marker);
@@ -384,7 +384,7 @@ function loadSourceJSON() {
              strokeWeight: 3.0,
              scale: scalePollution(data[k].pollution) //pixels
           },
-          visible: false,
+          visible: true,
       });
       pollutionMarkers.push(pollutionMarker);
     }
@@ -433,7 +433,7 @@ function loadSourceJSON() {
              map:map,
              icon: landfillIcon,
              title: k,
-             visible: false,
+             visible: true,
              content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
        });
        landfillMarkers.push(marker);
@@ -450,7 +450,7 @@ function loadSourceJSON() {
              strokeWeight: 3.0,
              scale: scalePollution(data[k].pollution) //pixels
           },
-          visible: false,
+          visible: true,
       });
       pollutionMarkers.push(pollutionMarker);
     }
@@ -508,10 +508,10 @@ function loadTargetJSON() {
     				strokeWeight: 3, 
     				scale: 20
   				},
-		title: 'You are here',
+		title: 'Boyle Heights',
 		visible: true,
 		scale: 1,
-		content: '<div name="title">You are here</div><br/>' + '<div name="description">If you are lost, call Ted on his Burner, 323-400-6585</div>'
+		content: '<div name="title">Boyle Heights</div>'
 	});			  
 
 	console.log("loading?");
@@ -525,7 +525,7 @@ function loadTargetJSON() {
 		  			map:map,
 		  			icon: schoolIcon,
 		  			title: k,
-		  			visible: false,
+		  			visible: true,
 		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
 			});			  
 			schoolMarkers.push(schoolMarker);
@@ -560,7 +560,7 @@ function loadTargetJSON() {
 		  			map:map,
 		  			icon: hospitalIcon,
 		  			title: k,
-		  			visible: false,
+		  			visible: true,
 		  			content: '<div name="title">' + k +'</div><br/>' + '<div name="description">' + data[k].desc +'</div>'
 			});			  
 			hospitalMarkers.push(marker);
