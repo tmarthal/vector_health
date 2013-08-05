@@ -1,0 +1,16 @@
+{
+  "LONG BEACH CITY, SERRF PROJECT": {
+    "coord": [
+      33.7637, 
+      -118.241
+    ], 
+    "pollution": 428
+  }, 
+  "COMMERCE REFUSE TO ENERGY FACILITY": {
+    "coord": [
+      33.9967, 
+      -118.153
+    ], 
+    "pollution": 146
+  }
+}

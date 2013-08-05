@@ -1,0 +1,464 @@
+{
+  "SENECA RESOURCES CORP.": {
+    "coord": [
+      34.4708, 
+      -118.903
+    ], 
+    "pollution": 17
+  }, 
+  "BREA CANON OIL COMPANY INC": {
+    "coord": [
+      33.8082, 
+      -118.3
+    ], 
+    "pollution": 2
+  }, 
+  "PLATFORM GRACE": {
+    "coord": [
+      34.1794, 
+      -119.469
+    ], 
+    "pollution": 9
+  }, 
+  "BREA CANON OIL CO": {
+    "coord": [
+      33.8, 
+      -118.291
+    ], 
+    "pollution": 4
+  }, 
+  "JORO INC.": {
+    "coord": [
+      34.3695, 
+      -118.863
+    ], 
+    "pollution": 3
+  }, 
+  "LAS FLORES CANYON": {
+    "coord": [
+      34.484, 
+      -120.04
+    ], 
+    "pollution": 230
+  }, 
+  "CRIMSON PIPELINE": {
+    "coord": [
+      34.2434, 
+      -119.257
+    ], 
+    "pollution": 29
+  }, 
+  "LBTH, INC./SEPULVEDA LEASE": {
+    "coord": [
+      34.42, 
+      -118.5
+    ], 
+    "pollution": 2
+  }, 
+  "GRANER OIL CO/DARBY & MEADER": {
+    "coord": [
+      33.8063, 
+      -118.184
+    ], 
+    "pollution": 2
+  }, 
+  "TEG OIL & GAS USA, INC.": {
+    "coord": [
+      34.3824, 
+      -118.784
+    ], 
+    "pollution": 1
+  }, 
+  "HELLMAN PROPERTIES LLC": {
+    "coord": [
+      33.749, 
+      -118.107
+    ], 
+    "pollution": 12
+  }, 
+  "CONOCOPHILLIPS/TORRANCE TANK FARM CO": {
+    "coord": [
+      33.8079, 
+      -118.333
+    ], 
+    "pollution": 14
+  }, 
+  "TIDELANDS OIL PRODUCTION COMPANY ETAL": {
+    "coord": [
+      33.7651, 
+      -118.209
+    ], 
+    "pollution": 1
+  }, 
+  "VINTAGE PETROLEUM INC.": {
+    "coord": [
+      34.4765, 
+      -118.88
+    ], 
+    "pollution": 1
+  }, 
+  "THE LANSDALE COMPANY": {
+    "coord": [
+      33.7684, 
+      -118.125
+    ], 
+    "pollution": 4
+  }, 
+  "CARPINTERIA GAS PLANT": {
+    "coord": [
+      34.3894, 
+      -119.514
+    ], 
+    "pollution": 56
+  }, 
+  "NEWPORT BEACH CITY - UTILITIES DEPT": {
+    "coord": [
+      33.6254, 
+      -117.947
+    ], 
+    "pollution": 3
+  }, 
+  "GRANER OIL CO  ROSEMOND LEASE": {
+    "coord": [
+      33.797, 
+      -118.168
+    ], 
+    "pollution": 6
+  }, 
+  "HILLCREST BEVERLY OIL CORP": {
+    "coord": [
+      34.0476, 
+      -118.416
+    ], 
+    "pollution": 2
+  }, 
+  "VENECO, INC. - WEST MONTALVO": {
+    "coord": [
+      34.2195, 
+      -119.256
+    ], 
+    "pollution": 22
+  }, 
+  "BREITBURN ENERGY CORP": {
+    "coord": [
+      34.0553, 
+      -118.392
+    ], 
+    "pollution": 9
+  }, 
+  "MAVERICK OIL  NORTH TAPO LEASE": {
+    "coord": [
+      34.3851, 
+      -118.722
+    ], 
+    "pollution": 2
+  }, 
+  "ROSE KATHERINE STONE": {
+    "coord": [
+      34.4445, 
+      -119.128
+    ], 
+    "pollution": 1
+  }, 
+  "RINCON ISLAND LTD. PARTNERSHIP": {
+    "coord": [
+      34.3475, 
+      -119.446
+    ], 
+    "pollution": 11
+  }, 
+  "SIGNAL HILL PETROLEUM INC": {
+    "coord": [
+      33.8037, 
+      -118.16
+    ], 
+    "pollution": 16
+  }, 
+  "PLATFORM HARVEST": {
+    "coord": [
+      34.4691, 
+      -120.684
+    ], 
+    "pollution": 184
+  }, 
+  "VINTAGE PRODUCTION CALIFORNIA LLC, S. MOUTAIN & W. MOUNTAIN": {
+    "coord": [
+      34.3416, 
+      -119.028
+    ], 
+    "pollution": 48
+  }, 
+  "VENOCO INC": {
+    "coord": [
+      34.0596, 
+      -118.411
+    ], 
+    "pollution": 5
+  }, 
+  "PLATFORM GINA": {
+    "coord": [
+      34.1173, 
+      -119.277
+    ], 
+    "pollution": 5
+  }, 
+  "LA CONCHITA OIL & GAS PLANT": {
+    "coord": [
+      34.3708, 
+      -119.454
+    ], 
+    "pollution": 22
+  }, 
+  "SO CAL GAS CO": {
+    "coord": [
+      34.438, 
+      -118.578
+    ], 
+    "pollution": 192
+  }, 
+  "VINTAGE PRODUCTION CALIFORNIA LLC": {
+    "coord": [
+      34.3667, 
+      -118.748
+    ], 
+    "pollution": 181
+  }, 
+  "ARCO TERMINAL SERVICES CORP": {
+    "coord": [
+      33.7995, 
+      -118.156
+    ], 
+    "pollution": 14
+  }, 
+  "EQUILON ENTER. LLC, SHELL OIL PROD. US": {
+    "coord": [
+      33.84, 
+      -118.238
+    ], 
+    "pollution": 147
+  }, 
+  "OJAI OIL COMPANY": {
+    "coord": [
+      34.4355, 
+      -119.13
+    ], 
+    "pollution": 1
+  }, 
+  "THUMS LONG BEACH": {
+    "coord": [
+      33.7491, 
+      -118.192
+    ], 
+    "pollution": 53
+  }, 
+  "BENTLEY / SIMONSON INC.": {
+    "coord": [
+      34.1855, 
+      -119.145
+    ], 
+    "pollution": 1
+  }, 
+  "SENECA RESOURCES": {
+    "coord": [
+      34.4766, 
+      -118.875
+    ], 
+    "pollution": 23
+  }, 
+  "PLATFORM HABITAT": {
+    "coord": [
+      34.2864, 
+      -119.589
+    ], 
+    "pollution": 42
+  }, 
+  "WEST NEWPORT OIL CO": {
+    "coord": [
+      33.6361, 
+      -117.943
+    ], 
+    "pollution": 4
+  }, 
+  "PLATFORM GAIL": {
+    "coord": [
+      34.1248, 
+      -119.402
+    ], 
+    "pollution": 162
+  }, 
+  "SESPE LEASE INC HAMP FEE": {
+    "coord": [
+      34.436, 
+      -119.103
+    ], 
+    "pollution": 1
+  }, 
+  "VAQUERO ENERGY": {
+    "coord": [
+      34.3604, 
+      -118.925
+    ], 
+    "pollution": 2
+  }, 
+  "SO CAL GAS CO/PLAYA DEL REY STORAGE FACI": {
+    "coord": [
+      33.9628, 
+      -118.44
+    ], 
+    "pollution": 44
+  }, 
+  "CHEVRON USA INC": {
+    "coord": [
+      34.0045, 
+      -118.124
+    ], 
+    "pollution": 9
+  }, 
+  "THE TERMO COMPANY": {
+    "coord": [
+      34.3158, 
+      -119.008
+    ], 
+    "pollution": 2
+  }, 
+  "PLATFORM A": {
+    "coord": [
+      34.3315, 
+      -119.62
+    ], 
+    "pollution": 44
+  }, 
+  "COOK ENERGY INC.": {
+    "coord": [
+      34.4516, 
+      -118.921
+    ], 
+    "pollution": 1
+  }, 
+  "SO CAL GAS CO (EIS USE)": {
+    "coord": [
+      34.2961, 
+      -118.553
+    ], 
+    "pollution": 439
+  }, 
+  "ASTARTA OIL COMPANY": {
+    "coord": [
+      34.4314, 
+      -119.106
+    ], 
+    "pollution": 1
+  }, 
+  "SOUTHERN CALIF GAS COMPANY": {
+    "coord": [
+      34.2981, 
+      -119.297
+    ], 
+    "pollution": 14
+  }, 
+  "ARCO TERMINAL SERVICES CORP., TERMINAL 2": {
+    "coord": [
+      33.7782, 
+      -118.213
+    ], 
+    "pollution": 23
+  }, 
+  "AERA ENERGY LLC": {
+    "coord": [
+      33.6744, 
+      -118.012
+    ], 
+    "pollution": 511
+  }, 
+  "CRIMSON CALIFORNIA PIPELINE": {
+    "coord": [
+      34.3011, 
+      -119.284
+    ], 
+    "pollution": 4
+  }, 
+  "RES-TECH. INC.": {
+    "coord": [
+      34.412, 
+      -119.185
+    ], 
+    "pollution": 1
+  }, 
+  "VAQUERO ENERGY INC.": {
+    "coord": [
+      34.4777, 
+      -118.863
+    ], 
+    "pollution": 2
+  }, 
+  "GRANER OIL CO/CHRISTENSON #1& EUREKA 1&2": {
+    "coord": [
+      33.8172, 
+      -118.188
+    ], 
+    "pollution": 1
+  }, 
+  "DOS CUADRAS OFFSHORE RESOURCES, L.": {
+    "coord": [
+      34.3552, 
+      -119.423
+    ], 
+    "pollution": 4
+  }, 
+  "MIRADA PETROLEUM, INC.": {
+    "coord": [
+      34.3322, 
+      -119.0
+    ], 
+    "pollution": 2
+  }, 
+  "MIRADA PETROLEUM INC.": {
+    "coord": [
+      34.4363, 
+      -118.738
+    ], 
+    "pollution": 4
+  }, 
+  "SHERWIN D. YOELIN/HILL LEASE": {
+    "coord": [
+      34.3312, 
+      -119.06
+    ], 
+    "pollution": 1
+  }, 
+  "CHEVRON PRODUCTS COMPANY": {
+    "coord": [
+      33.7033, 
+      -118.001
+    ], 
+    "pollution": 10
+  }, 
+  "SILVER EXPLORATION CO. INC.": {
+    "coord": [
+      34.4356, 
+      -119.124
+    ], 
+    "pollution": 1
+  }, 
+  "TIDELANDS OIL PRODUCTION COMPANY, ETAL": {
+    "coord": [
+      33.762, 
+      -118.217
+    ], 
+    "pollution": 5
+  }, 
+  "THOMPSON OIL COMPANY, INC.": {
+    "coord": [
+      34.3669, 
+      -118.915
+    ], 
+    "pollution": 1
+  }, 
+  "TIDELANDS OIL PRODUCTION CO": {
+    "coord": [
+      33.7531, 
+      -118.205
+    ], 
+    "pollution": 13
+  }
+}

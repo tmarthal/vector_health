@@ -1,0 +1,79 @@
+{
+  "ULTRAMAR INC (NSR USE ONLY)": {
+    "coord": [
+      33.7817, 
+      -118.233
+    ], 
+    "pollution": 1037
+  }, 
+  "PARALLEL PRODUCTS": {
+    "coord": [
+      34.0991, 
+      -117.539
+    ], 
+    "pollution": 20
+  }, 
+  "PARAMOUNT PETR CORP (EIS USE)": {
+    "coord": [
+      33.8965, 
+      -118.152
+    ], 
+    "pollution": 367
+  }, 
+  "EXXONMOBIL OIL CORPORATION": {
+    "coord": [
+      33.8582, 
+      -118.337
+    ], 
+    "pollution": 3788
+  }, 
+  "EDGINGTON OIL COMPANY": {
+    "coord": [
+      33.8746, 
+      -118.164
+    ], 
+    "pollution": 81
+  }, 
+  "CONOCOPHILLIPS COMPANY": {
+    "coord": [
+      33.7786, 
+      -118.29
+    ], 
+    "pollution": 3353
+  }, 
+  "TENBY INC.": {
+    "coord": [
+      34.1957, 
+      -119.126
+    ], 
+    "pollution": 35
+  }, 
+  "VALERO WILMINGTON ASPHALT PLANT": {
+    "coord": [
+      33.797, 
+      -118.24
+    ], 
+    "pollution": 32
+  }, 
+  "CHEVRON PRODUCTS CO.": {
+    "coord": [
+      33.9162, 
+      -118.419
+    ], 
+    "pollution": 3118
+  }, 
+  "BP WEST COAST PROD.LLC BP CARSON REF.": {
+    "coord": [
+      33.8241, 
+      -118.233
+    ], 
+    "pollution": 3284
+  }, 
+  "LUNDAY-THAGARD COMPANY": {
+    "coord": [
+      33.946, 
+      -118.167
+    ], 
+    "pollution": 156
+  }
+}
